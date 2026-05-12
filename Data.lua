@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-11T16:18:17Z",
+        generated_at = "2026-05-12T12:30:04Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1778585310,
+            title     = "Spring Balloon Festival Now Live",
+            body      = "The Spring Balloon Festival returns through May 12th, giving players the chance to tour around Azeroth in hot air balloons! Continue reading »",
+            url       = "https://www.wowhead.com/news=381580/spring-balloon-festival-now-live",
+            category  = "news",
+        },
+        {
+            timestamp = 1778543466,
+            title     = "Last Minute Guardian Nerfs with Weekly Reset Tomorrow",
+            body      = "Blizzard has announced some last minute Guardian Druid nerfs with the weekly reset tomorrow. Continue reading »",
+            url       = "https://www.wowhead.com/news=381582/last-minute-guardian-nerfs-with-weekly-reset-tomorrow",
+            category  = "news",
+        },
+        {
+            timestamp = 1778537239,
+            title     = "A Group of 5 Guardian Druids Timed a +20 Windrunner Spire - Midnight Season 1",
+            body      = "After the most recent Class changes, a group comprised of 5 Bear Tanks has timed a +20 Windrunner Spire. Continue reading »",
+            url       = "https://www.wowhead.com/news=381577/5-guardian-druids-timed-a-20-windrunner-spire-midnight-season-1",
+            category  = "patch",
+        },
+        {
+            timestamp = 1778531848,
+            title     = "$250 Sulfuras Hand of Ragnaros Figurine Now Available For Pre-Order on the Blizzard Gear Store",
+            body      = "Blizzard has just released a new Sulfuras Hand of Ragnaros Figurine for pre-order on the Blizzard Gear Store! Continue reading »",
+            url       = "https://www.wowhead.com/news=381578/250-sulfuras-hand-of-ragnaros-figurine-now-available-for-pre-order-on-the",
+            category  = "news",
+        },
+        {
+            timestamp = 1778521978,
+            title     = "Blizzard Investigates Abyss Anglers Bug that Blocks Suit Progression",
+            body      = "Blizzard has acknowledged that there is an issue with the Abyss Anglers: Reinforced Joints Achievement, which is preventing players from purchasing the Reinforced Joints, and limiting progression in the Abyss Anglers event. Continue reading »",
+            url       = "https://www.wowhead.com/news=381575/blizzard-investigates-abyss-anglers-bug-that-blocks-suit-progression",
+            category  = "event",
+        },
         {
             timestamp = 1778515200,
             title     = "2-Hour Maintenance Scheduled for May 12th - The Burning Crusade Anniversary",
@@ -19,7 +54,7 @@ Returner_Data = {
         {
             timestamp = 1778515200,
             title     = "Prepare for Reset by Being 3/3 on the Ascendant Nilhammer",
-            body      = "The Ascendant Nilhammer for the Voidforge releases this reset. Players can create 3 Hungering Oblivium to give themselves a head start on unlocking it! Continue reading »",
+            body      = "The Ascendant Nilhammer for the Voidforge releases this reset. Players can create 3 Weave Hungering Oblivium to give themselves a head start on unlocking it! Continue reading »",
             url       = "https://www.wowhead.com/news=381544/prepare-for-reset-by-being-3-3-on-the-ascendant-nilhammer",
             category  = "news",
         },
@@ -252,41 +287,6 @@ Returner_Data = {
             title     = "Tier 6 Ritual Sites Award Myth Crests in Patch 12.0.7",
             body      = "Ritual Sites are growing in power in Patch 12.0.7, unlocking a sixth tier of difficulty that awards Mythic Dawncrests! Continue reading »",
             url       = "https://www.wowhead.com/news=381499/tier-6-ritual-sites-award-myth-crests-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1778068827,
-            title     = "How Will This Week's Changes Affect the Meta? Midnight Season 1 Mythic+",
-            body      = "While week 6 continued to show more of the same results in Mythic+, some changes that are taking effect this week could shake up the meta. Continue reading »",
-            url       = "https://www.wowhead.com/news=381517/how-will-this-weeks-changes-affect-the-meta-midnight-season-1-mythic",
-            category  = "patch",
-        },
-        {
-            timestamp = 1778061614,
-            title     = "Unholy Death Knight the Top of Boss Damage Last Week - Midnight Season 1 DPS Rankings",
-            body      = "Due to a recent Hotfix, Unholy Death Knight lead the way in Damage against Raid Bosses this week! Continue reading »",
-            url       = "https://www.wowhead.com/news=381516/unholy-death-knight-the-top-of-boss-damage-last-week-midnight-season-1-dps",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1778039854,
-            title     = "1-Hour Maintenance Scheduled for May 6th at 7:00 am PDT",
-            body      = "Blizzard has announced a 1-hour maintenance on May 6th beginning at 7:00 am PDT. Continue reading »",
-            url       = "https://www.wowhead.com/news=381530/1-hour-maintenance-scheduled-for-may-6th-at-7-00-am-pdt",
-            category  = "news",
-        },
-        {
-            timestamp = 1778026736,
-            title     = "First 12.1.0 Midnight Build Detected on Encrypted Vendor Server",
-            body      = "While the testing for Patch 12.0.7 has been ramping up, we have also detected the first version of the 12.1.0 build on an encrypted Vendor Server. Continue reading »",
-            url       = "https://www.wowhead.com/news=381538/first-12-1-0-midnight-build-detected-on-encrypted-vendor-server",
-            category  = "patch",
-        },
-        {
-            timestamp = 1778021366,
-            title     = "Additional Siege of Orgrimmar Raid Testing Begins May 8th - Mists of Pandaria Classic",
-            body      = "Blizzard has announced an additional raid test for Siege of Orgrimmar on the Mists of Pandaria Classic PTR, beginning on Friday, May 8th! Continue reading »",
-            url       = "https://www.wowhead.com/news=381535/additional-siege-of-orgrimmar-raid-test-begins-may-8th-mists-of-pandaria-classic",
             category  = "patch",
         },
     },
