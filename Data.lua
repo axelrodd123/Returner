@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-16T10:44:55Z",
+        generated_at = "2026-05-17T10:53:05Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1779006662,
+            title     = "Gold Find Returns to Diablo 4: Lord of Hatred Using a Trick with Legendary Seals",
+            body      = "Diablo 4 Players have discovered a new way to earn additional gold in Lord of Hatred: Equipping a Legendary Seal with increased gold drop rate! Continue reading »",
+            url       = "https://www.wowhead.com/news=381647/gold-find-returns-to-diablo-4-lord-of-hatred-using-a-trick-with-legendary-seals",
+            category  = "news",
+        },
+        {
+            timestamp = 1778972400,
+            title     = "Last Chance to Save on The Burning Crusade Anniversary Boosts & Bundles - Sale Ends May 18th",
+            body      = "There are only two days left to purchase the Outland Heroic & Epic Packs or the level 58 character boost at a discount. The sale ends May 18th! Continue reading »",
+            url       = "https://www.wowhead.com/news=381642/last-chance-to-save-on-the-burning-crusade-anniversary-boosts-and-bundles-sale",
+            category  = "news",
+        },
+        {
+            timestamp = 1778970695,
+            title     = "Save Myth Crests by Upgrading Hero Crafted Weapons and Trinkets",
+            body      = "With Voidshards now dropping reliably, players can save some precious Mythic Dawncrests by applying their Voidcore upgrade to crafted weapons and trinkets! Continue reading »",
+            url       = "https://www.wowhead.com/news=381616/save-myth-crests-by-upgrading-hero-crafted-weapons-and-trinkets",
+            category  = "news",
+        },
+        {
+            timestamp = 1778966176,
+            title     = "Are The New Engineering Goggles BiS For Your Class? - The Burning Crusade Anniversary",
+            body      = "The Burning Crusade Anniversary Phase 2 introduces a plethora of new Engineering Goggle schematics, but are any of them best for your specialization? Continue reading »",
+            url       = "https://www.wowhead.com/news=381641/are-the-new-engineering-goggles-bis-for-your-class-the-burning-crusade",
+            category  = "news",
+        },
+        {
+            timestamp = 1778953693,
+            title     = "Free Leveling Routes with Follow the Arrow AddOn",
+            body      = "Looking to level alts quickly? Check out these free, optimized leveling routes from the Follow the Arrow AddOn! Continue reading »",
+            url       = "https://www.wowhead.com/news=381615/free-leveling-routes-with-follow-the-arrow-addon",
+            category  = "news",
+        },
+        {
+            timestamp = 1778944552,
+            title     = "Mythic Dungeon International Tracks Cooldown, Pull Count and Interrupts on UI",
+            body      = "The Mythic Dungeon International 2026 is underway, and several tools used on the observer UI were formerly addons or Weakauras in the game that players have been trying to replicate in Midnight. Continue reading »",
+            url       = "https://www.wowhead.com/news=381635/mythic-dungeon-international-tracks-cooldown-pull-count-and-interrupts-on-ui",
+            category  = "esports",
+        },
         {
             timestamp = 1778908939,
             title     = "New Teleport to Fix Skip in Voidspire - Patch 12.0.5 Hotfixes for March 15th",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "Blizzard has posted hotfixes for today which includes increasing Prey Progress from doing many activities! Continue reading »",
             url       = "https://www.wowhead.com/news=381594/increased-prey-progress-in-todays-hotfixes-midnight-hotfixes-for-may-12th",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1778619762,
-            title     = "Players Can Now Use Ascendant Voidcores On Crafted Gear - Midnight Patch 12.0.5 Hotfix",
-            body      = "Blizzard has released a Hotfix, which allows players to upgrade their Crafted items using Ascendant Voidcores. Continue reading »",
-            url       = "https://www.wowhead.com/news=381591/players-can-now-use-ascendant-voidcores-on-crafted-gear-midnight-12-0-5-hotfix",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1778610231,
-            title     = "Farm Tier 1 Ritual Sites to Get Weapon and Trinket Upgrades for the Voidforge",
-            body      = "After testing various sources of Ascendant Voidcores, players have found an efficient way of farming Weapon and Trinket upgrades. Continue reading »",
-            url       = "https://www.wowhead.com/news=381590/farm-tier-1-ritual-sites-to-get-weapon-and-trinket-upgrades-for-the-voidforge",
-            category  = "news",
-        },
-        {
-            timestamp = 1778606114,
-            title     = "Last Chance to Earn the Voidfeather Dragonhawk By Playing the Midnight Intro Scenario",
-            body      = "Players have until May 17th to earn the Voidfeather Dragonhawk in The Burning Crusade Anniversary! Continue reading »",
-            url       = "https://www.wowhead.com/news=381588/last-chance-to-earn-the-voidfeather-dragonhawk-by-playing-the-midnight-intro",
-            category  = "news",
-        },
-        {
-            timestamp = 1778603275,
-            title     = "Complete Nilhammer Quest on Main Character First",
-            body      = "When all the materials are brought to Decimus to fully craft the Nilhammer at the Voidforge, players will get a quest to finalize it, and this quest is only available on one character. Continue reading »",
-            url       = "https://www.wowhead.com/news=381586/complete-nilhammer-quest-on-main-character-first",
-            category  = "news",
-        },
-        {
-            timestamp = 1778601683,
-            title     = "More Collecting Required to Get Weapon or Trinket Upgrades This Week",
-            body      = "The Ascendant Hammer can be fully built this week, but players have to do even more collecting in order to get a trinket or weapon upgrade. Continue reading »",
-            url       = "https://www.wowhead.com/news=381585/more-collecting-required-to-get-weapon-or-trinket-upgrades-this-week",
-            category  = "news",
-        },
-        {
-            timestamp = 1778601600,
-            title     = "It's Not Too Late to Get Attuned to Tempest Keep Before The Burning Crusade Anniversary Phase 2!",
-            body      = "With the release of Phase 2 raids coming later this week, now is the perfect time to finish up your raid attunements and get ready to enter Tempest Keep! Continue reading »",
-            url       = "https://www.wowhead.com/news=381584/its-not-too-late-to-get-attuned-to-tempest-keep-before-the-burning-crusade",
-            category  = "news",
         },
     },
 }
