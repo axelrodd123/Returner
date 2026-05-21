@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-20T17:44:10Z",
+        generated_at = "2026-05-21T16:30:00Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1779379935,
+            title     = "Does Balance Druid Have Too Many Choices? - Balance Druid Retrospective for Midnight",
+            body      = "Our Balance Druid class writer, Gamz, takes a look back at the state of Balance Druid in Midnight discussing the numerous talent builds and talent options that the spec currently has. Continue reading »",
+            url       = "https://www.wowhead.com/news=381686/does-balance-druid-have-too-many-choices-balance-druid-retrospective-for",
+            category  = "patch",
+        },
+        {
+            timestamp = 1779373432,
+            title     = "A First Look into Sporefall's Raid Boss on Mythic Difficulty",
+            body      = "With Sporefall raid testing concluded last week, we have our first look at the Rotmire boss fight on Mythic difficulty! Continue reading »",
+            url       = "https://www.wowhead.com/news=381668/a-first-look-into-sporefalls-raid-boss-on-mythic-difficulty",
+            category  = "news",
+        },
+        {
+            timestamp = 1779321717,
+            title     = "Difficulty Specific Prey Achievements Create a Huge Grind for Achievement Hunters",
+            body      = "Preyseekers should be aware that completing Nightmare Prey hunts does not give credit for defeating the same bosses on lower difficulties, so achievement hunters should not neglect the normal and hard bosses available each week! Continue reading »",
+            url       = "https://www.wowhead.com/news=381663/difficulty-specific-prey-achievements-create-a-huge-grind-for-achievement",
+            category  = "news",
+        },
+        {
+            timestamp = 1779311250,
+            title     = "Repair Bills are Becoming Increasingly Expensive in Midnight",
+            body      = "Repairs are getting awfully expensive, particularly as players are reaching higher item levels, with progression raid nights routinely costing tens of thousands of gold in broken gear alone! Continue reading »",
+            url       = "https://www.wowhead.com/news=381679/repair-bills-are-becoming-increasingly-expensive-in-midnight",
+            category  = "news",
+        },
+        {
+            timestamp = 1779299986,
+            title     = "Buy Champion Gear with Voidlight Marl Using Mythic+ Cache",
+            body      = "The Mythic+ Champion Cache is now available for purchase using Voidlight Marl and awards Champion Gear! Continue reading »",
+            url       = "https://www.wowhead.com/news=381688/buy-champion-gear-with-voidlight-marl-using-mythic-cache",
+            category  = "news",
+        },
         {
             timestamp = 1779297293,
             title     = "Prepare to Face Rotmire in the Sporefall Raid for New Rewards in Patch 12.0.7",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "The Void-Scarred Eaglet is an adorable pet available from the Broken Throne Ritual Site. Here's how to earn it. Continue reading »",
             url       = "https://www.wowhead.com/news=381634/how-to-obtain-the-void-scarred-eaglet-pet-from-ritual-sites",
             category  = "news",
-        },
-        {
-            timestamp = 1778886617,
-            title     = "New Hyper Spawn Exploits Detected in Midnight",
-            body      = "Players have reported a new method of exploiting hyper spawns to boost players and farm gold, as part of a specific quest in Arator's Journey. Continue reading »",
-            url       = "https://www.wowhead.com/news=381623/new-hyper-spawn-exploits-detected-in-midnight",
-            category  = "news",
-        },
-        {
-            timestamp = 1778878677,
-            title     = "Additional Siege of Orgrimmar PTR Raid Testing on May 22nd",
-            body      = "Blizzard has announced an additional Siege of Orgrimmar raid test on the Mists of Pandaria Classic PTR beginning on Friday, May 22nd. Continue reading »",
-            url       = "https://www.wowhead.com/news=381631/additional-siege-of-orgrimmar-ptr-raid-testing-on-may-22",
-            category  = "patch",
-        },
-        {
-            timestamp = 1778876197,
-            title     = "How to Unlock the Ogri'la Faction and Earn Your Best-in-Slot Druid Tank Trinket",
-            body      = "Druid Tanks can unlock their best-in-slot trnket, Badge of Tenacity, simply by farming Apexis Shards from the daily quests provided by the new Ogri'la faction in Blade's Edge Mountains! Continue reading »",
-            url       = "https://www.wowhead.com/news=381630/how-to-unlock-the-ogrila-faction-and-earn-your-best-in-slot-druid-tank-trinket",
-            category  = "news",
-        },
-        {
-            timestamp = 1778873145,
-            title     = "Unlock Druid Swift Flight Form For Your Chance to Obtain This Unique Mount",
-            body      = "With the release of The Burning Crusade Anniversary Phase 2, Druids now have access to unlock their Swift Flight Form, and have a chance to earn the Reins of the Raven Lord! Continue reading »",
-            url       = "https://www.wowhead.com/news=381629/unlock-druid-swift-flight-form-for-your-chance-to-obtain-this-unique-mount",
-            category  = "news",
-        },
-        {
-            timestamp = 1778873033,
-            title     = "Best Ascendant Voidcore Upgrades for All Classes in Midnight Season 1",
-            body      = "If you're looking to make the most of your Ascendant Voidcores in the Midnight Season 1, we've compiled the best upgrade recommendations for each specialization, direct from our Class Guide writers. Continue reading »",
-            url       = "https://www.wowhead.com/news=381622/best-ascendant-voidcore-upgrades-for-all-classes-in-midnight-season-1",
-            category  = "patch",
         },
     },
 }
