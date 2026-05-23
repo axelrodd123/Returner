@@ -1,7 +1,7 @@
 ## Interface: 120005
 ## Title: Returner
 ## Notes: Welcome back panel: shows what you missed in WoW while you were away. Auto-updated daily.
-## Version: 1.0.15
+## Version: 1.0.16
 ## Author: AxelRodd
 ## SavedVariables: ReturnerDB
 
