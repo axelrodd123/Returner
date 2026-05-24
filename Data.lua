@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-23T10:59:59Z",
+        generated_at = "2026-05-24T11:01:48Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1779550239,
+            title     = "Lightblinded Vanguard Dispel \"Weakaura\" No Longer Works Due to Hotfix",
+            body      = "Earlier this week, a hotfix was pushed to live servers which prevents the LIghtblinded Vanguard dispel \"Weakaura\" from working. If you're are using this method of dispels, be aware of the change! Continue reading »",
+            url       = "https://www.wowhead.com/news=381711/lightblinded-vanguard-dispel-weakaura-no-longer-works-due-to-hotfix",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1779544818,
+            title     = "Large Experience Buffs for Quests in Patch 12.0.7",
+            body      = "As we've continued to explore the 12.0.7 PTR, we've discovered some big changes to experience gain from certain quests and activities! Continue reading »",
+            url       = "https://www.wowhead.com/news=381676/large-experience-buffs-for-quests-in-patch-12-0-7",
+            category  = "patch",
+        },
         {
             timestamp = 1779492327,
             title     = "Death Knight, Druid, & Priest Issues Resolved - Midnight Patch 12.0.5 Hotfixes",
@@ -273,20 +287,6 @@ Returner_Data = {
             title     = "4-Hour Maintenance Scheduled for May 19th - Classic Era, Hardcore, & Season of Discovery",
             body      = "Blizzard has announced a 4-hour maintenance scheduled for 7:00 am PDT on May 19th for all Classic, Hardcore, & Season of Discovery servers. Continue reading »",
             url       = "https://www.wowhead.com/news=381653/4-hour-maintenance-scheduled-for-may-19th-classic-era-hardcore-and-season-of",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779112102,
-            title     = "Hall of Fame for Mythic March of Quel'Danas Full - Should Close Tomorrow",
-            body      = "200 guilds have now defeated Mythic L'ura and the Hall of Fame should be closing with the weekly reset tomorrow. Continue reading »",
-            url       = "https://www.wowhead.com/news=381656/hall-of-fame-for-mythic-march-of-queldanas-full-should-close-tomorrow",
-            category  = "news",
-        },
-        {
-            timestamp = 1779067171,
-            title     = "Automatically Take Screenshots when Defeating Raid Bosses in Patch 12.0.7",
-            body      = "The new Photo Finisher Toy coming with Dragonflight Timewalking allows you to automatically take screenshots when raid bosses are defeated. Continue reading »",
-            url       = "https://www.wowhead.com/news=381646/automatically-take-screenshots-when-defeating-raid-bosses-in-patch-12-0-7",
             category  = "patch",
         },
     },
