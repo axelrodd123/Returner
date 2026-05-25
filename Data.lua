@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-24T11:01:48Z",
+        generated_at = "2026-05-25T16:06:39Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1779716269,
+            title     = "Epiphania Housing Creates Iconic Apartment From \"Friends\" in Player Housing",
+            body      = "World of Warcraft Housing Creator, Epiphania Housing, has created a replica of Monica & Rachel's apartment from the hit sitcom Friends! Continue reading »",
+            url       = "https://www.wowhead.com/news=381716/epiphania-housing-creates-iconic-apartment-from-friends-in-player-housing",
+            category  = "news",
+        },
+        {
+            timestamp = 1779656685,
+            title     = "4-Hour Maintenance Scheduled for May 26th",
+            body      = "Blizzard has announced a 4-hour maintenance, scheduled for May 26th beginning at 7:00 am PDT. Continue reading »",
+            url       = "https://www.wowhead.com/news=381717/4-hour-maintenance-scheduled-for-may-26th",
+            category  = "news",
+        },
+        {
+            timestamp = 1779629942,
+            title     = "New Dragonflight Timewalking Toy Allows You to Cover the Sky in Ash",
+            body      = "A new toy coming to Dragonflight Timewalking in Patch 12.0.7 will allow players to fill the skies with fire. Continue reading »",
+            url       = "https://www.wowhead.com/news=381702/new-dragonflight-timewalking-toy-allows-you-to-cover-the-sky-in-ash",
+            category  = "patch",
+        },
         {
             timestamp = 1779550239,
             title     = "Lightblinded Vanguard Dispel \"Weakaura\" No Longer Works Due to Hotfix",
@@ -267,27 +288,6 @@ Returner_Data = {
             body      = "Blizzard has confirmed that the March of Quel'Danas Hall of Fame is now full and there is only a short amount of time remaining before the achievement and title are no longer available. Continue reading »",
             url       = "https://www.wowhead.com/news=381658/blizzard-confirms-march-on-queldanas-hall-of-fame-now-full",
             category  = "news",
-        },
-        {
-            timestamp = 1779120000,
-            title     = "4-Hour Maintenance Scheduled for May 19th - The Burning Crusade Anniversary",
-            body      = "Blizzard has announced a 4-hour maintenance for The Burning Crusade Anniversary scheduled to begin on Tuesday, May 19th, at 7:00 am PDT. Continue reading »",
-            url       = "https://www.wowhead.com/news=381655/4-hour-maintenance-scheduled-for-may-19th-the-burning-crusade-anniversary",
-            category  = "news",
-        },
-        {
-            timestamp = 1779116400,
-            title     = "4-Hour Maintenance Scheduled for May 19th - Mists of Pandaria Classic",
-            body      = "Blizzard has announced a 4-hour maintenance for Mists of Pandaria Classic, scheduled for Tuesday, May 19th at 7:00 a.m. PDT (03:00 CEST on May 20th). Continue reading »",
-            url       = "https://www.wowhead.com/news=381654/4-hour-maintenance-scheduled-for-may-19th-mists-of-pandaria-classic",
-            category  = "news",
-        },
-        {
-            timestamp = 1779112800,
-            title     = "4-Hour Maintenance Scheduled for May 19th - Classic Era, Hardcore, & Season of Discovery",
-            body      = "Blizzard has announced a 4-hour maintenance scheduled for 7:00 am PDT on May 19th for all Classic, Hardcore, & Season of Discovery servers. Continue reading »",
-            url       = "https://www.wowhead.com/news=381653/4-hour-maintenance-scheduled-for-may-19th-classic-era-hardcore-and-season-of",
-            category  = "patch",
         },
     },
 }
