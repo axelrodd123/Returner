@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-25T16:06:39Z",
+        generated_at = "2026-05-26T17:48:13Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1779813104,
+            title     = "(Fixed) New Bug Makes Arcane Mage Specialization Drain Mana Passively After Weekly Reset",
+            body      = "A new bug for Arcane Mages has popped up after the weekly reset, draining mana passively instead of gaining mana. Edit: This has now been fixed. Continue reading »",
+            url       = "https://www.wowhead.com/news=381726/new-bug-makes-arcane-mage-specialization-drain-mana-passively-after-weekly-reset",
+            category  = "news",
+        },
+        {
+            timestamp = 1779804898,
+            title     = "Estimated Class Tuning for May 26th - Hero Talent Tuning",
+            body      = "With the weekly reset, Blizzard is tuning underperforming Hero Talents and classes! Our class writers have given estimates of the changes. Continue reading »",
+            url       = "https://www.wowhead.com/news=381721/estimated-class-tuning-for-may-26th-hero-talent-tuning",
+            category  = "news",
+        },
+        {
+            timestamp = 1779749115,
+            title     = "Zul'jan and Atal'Utek - Patch 12.1 Campaign Prologue (Story Spoilers)",
+            body      = "In patch 12.0.7, players will follow Zul'jan in his quest for knowledge about the mysterious island off the coast of Zul'Aman. Here, we showcase the story of this prologue chapter for patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=381598/zuljan-and-atalutek-patch-12-1-campaign-prologue-story-spoilers",
+            category  = "patch",
+        },
+        {
+            timestamp = 1779730896,
+            title     = "From Overpowered to Outclassed in Midnight - An Arcane Mage Retrospective",
+            body      = "Arcane Mage received some massive reworks coming into Midnight, and our Arcane Mage Writer, Porom, looks back at the changes and how they've impacted Arcane Mage this tier. Continue reading »",
+            url       = "https://www.wowhead.com/news=381719/from-overpowered-to-outclassed-in-midnight-an-arcane-mage-retrospective",
+            category  = "news",
+        },
         {
             timestamp = 1779716269,
             title     = "Epiphania Housing Creates Iconic Apartment From \"Friends\" in Player Housing",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "Which Currencies Matter Most in Midnight?",
             body      = "There are a massive amount of currencies for all of the various activities in Midnight, though only a few are important for most players to keep a close eye on, while the rest accumulate quietly in the background until they're needed. Continue reading »",
             url       = "https://www.wowhead.com/news=381660/which-currencies-matter-most-in-midnight",
-            category  = "news",
-        },
-        {
-            timestamp = 1779138492,
-            title     = "Massive Nerfs to Phase 1 on Mythic L'ura with Hall of Fame Closing",
-            body      = "Blizzard has announced some massive nerfs to the Phase 1 Wipe Factory on Mythic L'ura. Continue reading »",
-            url       = "https://www.wowhead.com/news=381664/massive-nerfs-to-phase-1-on-mythic-lura-with-hall-of-fame-closing",
-            category  = "news",
-        },
-        {
-            timestamp = 1779136581,
-            title     = "New Lich King Merch Now Available From the Blizzard Gear Store",
-            body      = "Blizzard has just released a bunch of new merch on the Blizzard Gear Store, including a collection of new Lich King items! Continue reading »",
-            url       = "https://www.wowhead.com/news=381662/new-lich-king-merch-now-available-from-the-blizzard-gear-store",
-            category  = "news",
-        },
-        {
-            timestamp = 1779130275,
-            title     = "4-Hour Maintenance Scheduled for May 19th at 7:00 am PDT",
-            body      = "Blizzard has announced a 4-hour maintenance, scheduled for May 19th beginning at 7:00 am PDT (03:00 am CEST on May 20th). Continue reading »",
-            url       = "https://www.wowhead.com/news=381652/4-hour-maintenance-scheduled-for-may-19th-at-7-00-am-pdt",
-            category  = "news",
-        },
-        {
-            timestamp = 1779120190,
-            title     = "Blizzard Confirms March on Quel'Danas Hall of Fame Now Full",
-            body      = "Blizzard has confirmed that the March of Quel'Danas Hall of Fame is now full and there is only a short amount of time remaining before the achievement and title are no longer available. Continue reading »",
-            url       = "https://www.wowhead.com/news=381658/blizzard-confirms-march-on-queldanas-hall-of-fame-now-full",
             category  = "news",
         },
     },
