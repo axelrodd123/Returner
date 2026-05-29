@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-28T17:53:30Z",
+        generated_at = "2026-05-29T17:57:05Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780074437,
+            title     = "WoW Weekly Recap - Omnium Folio in Midnight, June Trading Post, WoW Ambassadors",
+            body      = "Blizzard has released the WoW Weekly Recap which includes the upcoming power system that will last throughout all of Midnight, the June Trading Post and new WoW Ambassadors! Continue reading »",
+            url       = "https://www.wowhead.com/news=381749/wow-weekly-recap-omnium-folio-in-midnight-june-trading-post-wow-ambassadors",
+            category  = "news",
+        },
+        {
+            timestamp = 1780061259,
+            title     = "Dodge Lightning Strikes for Fun and Nostalgia in Val",
+            body      = "While exploring the icy world of Val in Patch 12.0.7, players may find themselves caught in a storm, dodging lightning strikes in a way that feels very familiar to older RPG fans! Continue reading »",
+            url       = "https://www.wowhead.com/news=381727/dodge-lightning-strikes-for-fun-and-nostalgia-in-val",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780010727,
+            title     = "Save Gold on Repairs with Weapon Durability Changes in Patch 12.0.7",
+            body      = "It looks like players will be able to shave some gold off their repair bills in Patch 12.0.7, as weapons and shields no longer take durability damage from combat on the PTR! Continue reading »",
+            url       = "https://www.wowhead.com/news=381744/save-gold-on-repairs-with-weapon-durability-changes-in-patch-12-0-7",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780008731,
+            title     = "Diablo 4's Bleak Future - Season 14 Announcement & Patch Notes",
+            body      = "Diablo 4's Lord of Hatred Expansion has been praised for its groundbreaking changes to the game, but that momentum is gone after the Season 14 preview. Continue reading »",
+            url       = "https://www.wowhead.com/news=381745/diablo-4s-bleak-future-season-14-announcement-and-patch-notes",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780002035,
+            title     = "New Interrupt Macro Prevents Overwriting of Target Markers in Patch 12.0.7",
+            body      = "A new feature on the Patch 12.0.7 PTR for Macros prevents players from overwriting Target Markers on enemies! Continue reading »",
+            url       = "https://www.wowhead.com/news=381742/new-interrupt-macro-prevents-overwriting-of-target-markers-in-patch-12-0-7",
+            category  = "patch",
+        },
         {
             timestamp = 1779988235,
             title     = "Take a Midsummer Stroll in the June Trading Post",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "Preyseekers should be aware that completing Nightmare Prey hunts does not give credit for defeating the same bosses on lower difficulties, so achievement hunters should not neglect the normal and hard bosses available each week! Continue reading »",
             url       = "https://www.wowhead.com/news=381663/difficulty-specific-prey-achievements-create-a-huge-grind-for-achievement",
             category  = "news",
-        },
-        {
-            timestamp = 1779311250,
-            title     = "Repair Bills are Becoming Increasingly Expensive in Midnight",
-            body      = "Repairs are getting awfully expensive, particularly as players are reaching higher item levels, with progression raid nights routinely costing tens of thousands of gold in broken gear alone! Continue reading »",
-            url       = "https://www.wowhead.com/news=381679/repair-bills-are-becoming-increasingly-expensive-in-midnight",
-            category  = "news",
-        },
-        {
-            timestamp = 1779299986,
-            title     = "Buy Champion Gear with Voidlight Marl Using Mythic+ Cache",
-            body      = "The Mythic+ Champion Cache is now available for purchase using Voidlight Marl and awards Champion Gear! Continue reading »",
-            url       = "https://www.wowhead.com/news=381688/buy-champion-gear-with-voidlight-marl-using-mythic-cache",
-            category  = "news",
-        },
-        {
-            timestamp = 1779297293,
-            title     = "Prepare to Face Rotmire in the Sporefall Raid for New Rewards in Patch 12.0.7",
-            body      = "Blizzard has released a new blog post detailing the Sporefall raid and its flexible 15-25 player Mythic difficulty, coming in Patch 12.0.7! Continue reading »",
-            url       = "https://www.wowhead.com/news=381689/prepare-to-face-rotmire-in-the-sporefall-raid-for-new-rewards-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779284803,
-            title     = "The Weekly Reset with Taliesin and Evitel: Blizzard's CS Meltdown... What Exactly Went Wrong?",
-            body      = "This week, Taliesin and Evitel cover the crest cap removal, nerfs to Mythic L'ura, and Dragonflight Timewalking coming with Patch 12.0.7. Continue reading »",
-            url       = "https://www.wowhead.com/news=381680/the-weekly-reset-with-taliesin-and-evitel-blizzards-cs-meltdown-what-exactly",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779277615,
-            title     = "Earn Bonus Delve Rewards With This Week's Delve Bonus Event",
-            body      = "With the weekly reset, the Delve Bonus Event is now live, rewarding increased companion experience, a boost to Delver's Journey progress, and more Undercoins. Continue reading »",
-            url       = "https://www.wowhead.com/news=381667/earn-bonus-delve-rewards-with-this-weeks-delve-bonus-event",
-            category  = "event",
         },
     },
 }
