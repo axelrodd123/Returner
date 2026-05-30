@@ -4,11 +4,18 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-29T17:57:05Z",
+        generated_at = "2026-05-30T11:05:45Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780094427,
+            title     = "Earn Unalloyed Abundance Faster by Using Multiple Shards of Dundun Simultaneously in Patch 12.0.7",
+            body      = "Players can earn Unalloyed Abundance faster by offering multiple Shards of Dundun simultaneously in Patch 12.0.7! Continue reading »",
+            url       = "https://www.wowhead.com/news=381750/earn-unalloyed-abundance-faster-by-using-multiple-shards-of-dundun",
+            category  = "patch",
+        },
         {
             timestamp = 1780074437,
             title     = "WoW Weekly Recap - Omnium Folio in Midnight, June Trading Post, WoW Ambassadors",
@@ -280,13 +287,6 @@ Returner_Data = {
             title     = "A First Look into Sporefall's Raid Boss on Mythic Difficulty",
             body      = "With Sporefall raid testing concluded last week, we have our first look at the Rotmire boss fight on Mythic difficulty! Continue reading »",
             url       = "https://www.wowhead.com/news=381668/a-first-look-into-sporefalls-raid-boss-on-mythic-difficulty",
-            category  = "news",
-        },
-        {
-            timestamp = 1779321717,
-            title     = "Difficulty Specific Prey Achievements Create a Huge Grind for Achievement Hunters",
-            body      = "Preyseekers should be aware that completing Nightmare Prey hunts does not give credit for defeating the same bosses on lower difficulties, so achievement hunters should not neglect the normal and hard bosses available each week! Continue reading »",
-            url       = "https://www.wowhead.com/news=381663/difficulty-specific-prey-achievements-create-a-huge-grind-for-achievement",
             category  = "news",
         },
     },
