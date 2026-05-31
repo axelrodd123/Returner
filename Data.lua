@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-05-30T11:05:45Z",
+        generated_at = "2026-05-31T11:52:06Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780188654,
+            title     = "Spend Field Accolades on Ethereal Weapons and Winter Cosmetics in Patch 12.0.7",
+            body      = "Two more bulging bags have been added to the Patch 12.0.7 PTR, allowing players to spend extra Field Accolades to obtain ethereal-themed weapons and cold winter weather gear! Continue reading »",
+            url       = "https://www.wowhead.com/news=381751/spend-field-accolades-on-ethereal-weapons-and-winter-cosmetics-in-patch-12-0-7",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780152204,
+            title     = "The Story of Lorewalking: Loa in Patch 12.0.7",
+            body      = "In patch 12.0.7, we take a trip with Apprentice Lorewalker Li Li to recount the history of the Loa and their connection to the Troll tribes of Azeroth! Continue reading »",
+            url       = "https://www.wowhead.com/news=378221/the-story-of-lorewalking-loa-in-patch-12-0-7",
+            category  = "patch",
+        },
         {
             timestamp = 1780094427,
             title     = "Earn Unalloyed Abundance Faster by Using Multiple Shards of Dundun Simultaneously in Patch 12.0.7",
@@ -274,20 +288,6 @@ Returner_Data = {
             body      = "On May 28th at 1pm PDT, Blizzard is hosting a Sanctuary Sitdown in Discord to answer live questions and give more info about the next Diablo 4 Season! Continue reading »",
             url       = "https://www.wowhead.com/news=381695/blizzard-announces-new-sanctuary-sitdown-for-next-diablo-4-season",
             category  = "patch",
-        },
-        {
-            timestamp = 1779379935,
-            title     = "Does Balance Druid Have Too Many Choices? - Balance Druid Retrospective for Midnight",
-            body      = "Our Balance Druid class writer, Gamz, takes a look back at the state of Balance Druid in Midnight discussing the numerous talent builds and talent options that the spec currently has. Continue reading »",
-            url       = "https://www.wowhead.com/news=381686/does-balance-druid-have-too-many-choices-balance-druid-retrospective-for",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779373432,
-            title     = "A First Look into Sporefall's Raid Boss on Mythic Difficulty",
-            body      = "With Sporefall raid testing concluded last week, we have our first look at the Rotmire boss fight on Mythic difficulty! Continue reading »",
-            url       = "https://www.wowhead.com/news=381668/a-first-look-into-sporefalls-raid-boss-on-mythic-difficulty",
-            category  = "news",
         },
     },
 }
