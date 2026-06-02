@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-01T21:04:28Z",
+        generated_at = "2026-06-02T19:01:32Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780420188,
+            title     = "Blizzard Adds Visible Arena Matchmaking Rating to UI - The Burning Crusade Anniversary",
+            body      = "Blizzard has released a Hotfix on The Burning Crusade Anniversary, which allows players to see their pre-match MMR after each Arena match. Continue reading »",
+            url       = "https://www.wowhead.com/news=381771/blizzard-adds-visible-arena-matchmaking-rating-to-ui-the-burning-crusade",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1780420142,
+            title     = "The Midnight Season 1 AWC and MDI Finals are Here!",
+            body      = "The Midnight Season 1 Arena World Championship and Mythic Dungeon International begin this week, with teams from around the world competing to earn a spot at the grand finals and $600,000 prize pool at BlizzCon! Continue reading »",
+            url       = "https://www.wowhead.com/news=381769/the-midnight-season-1-awc-and-mdi-finals-are-here",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780416929,
+            title     = "Blizzard Releases Official Siege of Orgrimmar Trailer in Partnership With Hurricane",
+            body      = "Blizzard has partnered with Hurricane to release a new trailer for Mists of Pandaria Classic: Siege of Orgrimmar. Continue reading »",
+            url       = "https://www.wowhead.com/news=381767/blizzard-releases-official-siege-of-orgrimmar-trailer-in-partnership-with",
+            category  = "news",
+        },
+        {
+            timestamp = 1780408800,
+            title     = "Siege of Orgrimmar Guide Compendium: Everything Coming With Mists of Pandaria Classic Phase 5",
+            body      = "The Siege of Orgrimmar Phase will go live following weekly maintenance. Here's everything you need to know about Mists of Pandaria Classic Phase 5! Continue reading »",
+            url       = "https://www.wowhead.com/news=381758/siege-of-orgrimmar-guide-compendium-everything-coming-with-mists-of-pandaria",
+            category  = "news",
+        },
         {
             timestamp = 1780342595,
             title     = "Brian Holinka Joins Riot Games' MMORPG Team",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Blizzard has announced upcoming class tuning which includes many Hero Talent Buffs! Continue reading »",
             url       = "https://www.wowhead.com/news=381709/many-hero-talent-buffs-coming-upcoming-class-tuning-with-weekly-reset",
             category  = "news",
-        },
-        {
-            timestamp = 1779485386,
-            title     = "Siege of Orgrimmar Raid Test, Fixes, & Known Issues - Mists of Pandaria Classic PTR Development Notes",
-            body      = "The Siege of Orgrimmar raid test is available now until Monday, May 25th and 8:00 a.m. PDT on the Mists of Pandaria Classic PTR. Continue reading »",
-            url       = "https://www.wowhead.com/news=381708/siege-of-orgrimmar-raid-test-fixes-and-known-issues-mists-of-pandaria-classic",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779481655,
-            title     = "Turbulent Timeways Dates Changed on PTR",
-            body      = "With the latest 12.0.7 PTR build, the date for Turbulent Timeways has been pushed back to June 30th, a whole 2 weeks later than its previously expected release date. Continue reading »",
-            url       = "https://www.wowhead.com/news=381707/turbulent-timeways-dates-changed-on-ptr",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779474627,
-            title     = "Could This New Mount Be Another Hint That Wrath of the Lich King is Coming to Anniversary Servers?",
-            body      = "While Blizzard has continued to tease Wrath of the Lich King, there hasn't been anything in-game that points to a return to Northrend... until now. Continue reading »",
-            url       = "https://www.wowhead.com/news=381706/could-this-new-mount-be-another-hint-that-wrath-of-the-lich-king-is-coming-to",
-            category  = "news",
-        },
-        {
-            timestamp = 1779469883,
-            title     = "WoW Weekly: Fungarian Mischief Looms in Midnight, and More Matches in MDI!",
-            body      = "This week, Blizzard unveiled more about the Sporefall raid coming in Patch 12.0.7, and the MDI Group Stage continues this weekend, with the top 2 teams moving on to the Finals! Continue reading »",
-            url       = "https://www.wowhead.com/news=381705/wow-weekly-fungarian-mischief-looms-in-midnight-and-more-matches-in-mdi",
-            category  = "patch",
         },
     },
 }
