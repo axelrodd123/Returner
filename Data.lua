@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-04T17:32:40Z",
+        generated_at = "2026-06-05T16:15:03Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780662600,
+            title     = "The Failings with Blizzard's Built-In Boss Timelines",
+            body      = "In a new video, the creator of Deadly Boss Mods discusses the many issues plaguing Blizzard's built-in boss timelines and how they've failed to make addons feel any less advantageous than before the changes in Midnight. Continue reading »",
+            url       = "https://www.wowhead.com/news=381795/the-failings-with-blizzards-built-in-boss-timelines",
+            category  = "news",
+        },
+        {
+            timestamp = 1780619213,
+            title     = "Finishes Siege of Orgrimmar Raid in Just 2 Hours and 17 Minutes",
+            body      = "Just 2 hours and 17 minutes after the release of Siege of Orgrimmar, Numen has defeated Garrosh Hellscream and completed the raid! Continue reading »",
+            url       = "https://www.wowhead.com/news=381801/numen-finishes-siege-of-orgrimmar-raid-in-just-2-hours-and-17-minutes",
+            category  = "news",
+        },
+        {
+            timestamp = 1780610520,
+            title     = "Blizzard Clarifies Mastery of the Timeways Buff is Not Account-Wide",
+            body      = "Blizzard has updated their Turbulent Timeways article and clarified that the Mastery of the Timeways buff is not account-wide. Continue reading »",
+            url       = "https://www.wowhead.com/news=381799/blizzard-clarifies-mastery-of-the-timeways-buff-is-not-account-wide",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780609926,
+            title     = "The Siege of Orgrimmar Raid is Now Live in Mists of Pandaria Classic",
+            body      = "The final raid of Mists of Pandaria Classic, Siege of Orgrimmar, is now available! Continue reading »",
+            url       = "https://www.wowhead.com/news=381796/the-siege-of-orgrimmar-raid-is-now-live-in-mists-of-pandaria-classic",
+            category  = "news",
+        },
+        {
+            timestamp = 1780607118,
+            title     = "Reduced Repair Bills in Patch 12.0.7 - PTR Development Notes",
+            body      = "Blizzard has posted Patch 12.0.7 PTR notes for today which includes changing durability and increasing rewards from Val and Naigtal. Continue reading »",
+            url       = "https://www.wowhead.com/news=381797/reduced-repair-bills-in-patch-12-0-7-ptr-development-notes",
+            category  = "patch",
+        },
         {
             timestamp = 1780583406,
             title     = "Frontal Visibility in Dungeons and Raids Needs Improvement",
@@ -40,7 +75,7 @@ Returner_Data = {
         {
             timestamp = 1780520397,
             title     = "Experience Buff Now Account-Wide During Turbulent Timeways - June 30 to August 11",
-            body      = "Blizzard has released a blog post confirming that Turbulent Timeways in Patch 12.0.7 will take place between June 30th and August 11th, and this time the experience buff \"Mastery of the Timeways\" lasts through death and is account-wide! Continue reading »",
+            body      = "Blizzard has released a blog post confirming that the experience buff \"Mastery of the Timeways\" lasts through death and is account-wide in the next Turbulent Timeways! UPDATE: Blizzard has clarified their statement. Continue reading »",
             url       = "https://www.wowhead.com/news=381788/experience-buff-now-account-wide-during-turbulent-timeways-june-30-to-august-11",
             category  = "patch",
         },
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "New music has been added to the Patch 12.0.7 PTR for Midsummer and the Rotmire Raid Boss! Continue reading »",
             url       = "https://www.wowhead.com/news=381737/new-midsummer-and-rotmire-raid-boss-music-on-patch-12-0-7-ptr",
             category  = "patch",
-        },
-        {
-            timestamp = 1779920260,
-            title     = "Spawn of Vyranoth Mount Requires One Less Week of Timewalking During Turbulent Timeways",
-            body      = "On the latest Patch 12.0.7 PTR build, the Master of the Turbulent Timeways achievement which awards the Spawn of Vyranoth Mount requires one less week of Timewalking. Continue reading »",
-            url       = "https://www.wowhead.com/news=381738/spawn-of-vyranoth-mount-requires-one-less-week-of-timewalking-during-turbulent",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779919563,
-            title     = "Midnight Patch 12.0.7 PTR Now a Release Candidate Build",
-            body      = "The Midnight Patch 12.0.7 PTR has now been flagged as a release candidate, indicating that it should be going live within a couple weeks! Continue reading »",
-            url       = "https://www.wowhead.com/news=381735/midnight-patch-12-0-7-ptr-now-a-release-candidate-build",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779902620,
-            title     = "Blizzard Previews The Omnium Folio - More Power for All of Midnight",
-            body      = "Blizzard has released a preview of the Omnium Folio, a new system coming in Patch 12.0.7 that will provide you with more power for the rest of Midnight! Continue reading »",
-            url       = "https://www.wowhead.com/news=381734/blizzard-previews-the-omnium-folio-more-power-for-your-characters-in-patch-12-0",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779893711,
-            title     = "New Helpful Alerts in NSRT Update - Re-enable Encounter Alerts",
-            body      = "A new update for NSRT has added more customization and features for raiders, but if you use the Encounter Alerts, you'll have to turn them on again with the update. Continue reading »",
-            url       = "https://www.wowhead.com/news=381731/new-helpful-alerts-in-nsrt-update-re-enable-encounter-alerts",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779860100,
-            title     = "Diablo 4 Celebrates Third Anniversary with Events Starting June 2nd",
-            body      = "Blizzard has announced a slew of events for Diablo 4's third anniversary, starting June 2nd. Included are increased Experience, more Goblins, and free cosmetics! Continue reading »",
-            url       = "https://www.wowhead.com/news=381730/diablo-4-celebrates-third-anniversary-with-events-starting-june-2nd",
-            category  = "event",
         },
     },
 }
