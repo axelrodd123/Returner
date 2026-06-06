@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-05T16:15:03Z",
+        generated_at = "2026-06-06T11:12:06Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780704300,
+            title     = "Blizzard Reduces Requirements to Enter Heroic World Tier - Midnight: Revelations PTR",
+            body      = "Blizzard has reduced the requirements to enter Heroic World Tier on the Midnight: Revelations PTR. Now, any level 90 character may select the Heroic World Tier option from the start. Continue reading »",
+            url       = "https://www.wowhead.com/news=381809/blizzard-reduces-requirements-to-enter-heroic-world-tier-midnight-revelations",
+            category  = "patch",
+        },
+        {
+            timestamp = 1780686194,
+            title     = "Fanattik Launches New Line of World of Warcraft Collectables",
+            body      = "Fanattik has launched a new line of World of Warcraft collectibles, including art, badges, and even a replica of the original game's CD-ROM! Continue reading »",
+            url       = "https://www.wowhead.com/news=381807/fanattik-launches-new-line-of-world-of-warcraft-collectables",
+            category  = "news",
+        },
+        {
+            timestamp = 1780680772,
+            title     = "WoW Weekly: Midnight, Mists of Pandaria Classic, Turbulent Timeways, and More!",
+            body      = "This week in WoW, Blizzard announced the release date of Patch 12.0.7 and the Siege of Orgrimmar raid is now live in Mists of Pandaria Classic! Continue reading »",
+            url       = "https://www.wowhead.com/news=381806/wow-weekly-midnight-mists-of-pandaria-classic-turbulent-timeways-and-more",
+            category  = "patch",
+        },
         {
             timestamp = 1780662600,
             title     = "The Failings with Blizzard's Built-In Boss Timelines",
@@ -267,27 +288,6 @@ Returner_Data = {
             body      = "Blizzard has announced the June Trading Post which includes the Flame-Painted Sun Roc mount. Continue reading »",
             url       = "https://www.wowhead.com/news=381741/take-a-midsummer-stroll-in-the-june-trading-post",
             category  = "event",
-        },
-        {
-            timestamp = 1779980358,
-            title     = "Get Champion Gear for Alts Using Field Accolades in Patch 12.0.7",
-            body      = "Warbound Champion-track gear caches for each slot have been added to the Patch 12.0.7 PTR, giving players another way of spending excess Field Accolades and gear up their alts! Continue reading »",
-            url       = "https://www.wowhead.com/news=381739/get-champion-gear-for-alts-using-field-accolades-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779935116,
-            title     = "Buy Lost Armament Transmogs for Dark Particles in Patch 12.0.7",
-            body      = "Save your Dark Particles to purchase Bulging Field Pouches in Patch 12.0.7, giving players a more reliable way of obtaining cosmetic Lost Armaments! Continue reading »",
-            url       = "https://www.wowhead.com/news=381740/buy-lost-armament-transmogs-for-dark-particles-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1779924600,
-            title     = "New Midsummer and Rotmire Raid Boss Music on Patch 12.0.7 PTR",
-            body      = "New music has been added to the Patch 12.0.7 PTR for Midsummer and the Rotmire Raid Boss! Continue reading »",
-            url       = "https://www.wowhead.com/news=381737/new-midsummer-and-rotmire-raid-boss-music-on-patch-12-0-7-ptr",
-            category  = "patch",
         },
     },
 }
