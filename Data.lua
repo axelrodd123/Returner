@@ -4,11 +4,18 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-06T11:12:06Z",
+        generated_at = "2026-06-08T11:08:37Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1780836968,
+            title     = "Make Last Boss of Skyreach Easier Using Animated Bench Toy",
+            body      = "KessLive has revealed that players can use the Animated Bench toy from Decor Duels to make the last boss of Skyreach easier! Continue reading »",
+            url       = "https://www.wowhead.com/news=381812/make-last-boss-of-skyreach-easier-using-animated-bench-toy",
+            category  = "news",
+        },
         {
             timestamp = 1780704300,
             title     = "Blizzard Reduces Requirements to Enter Heroic World Tier - Midnight: Revelations PTR",
@@ -281,13 +288,6 @@ Returner_Data = {
             body      = "A new feature on the Patch 12.0.7 PTR for Macros prevents players from overwriting Target Markers on enemies! Continue reading »",
             url       = "https://www.wowhead.com/news=381742/new-interrupt-macro-prevents-overwriting-of-target-markers-in-patch-12-0-7",
             category  = "patch",
-        },
-        {
-            timestamp = 1779988235,
-            title     = "Take a Midsummer Stroll in the June Trading Post",
-            body      = "Blizzard has announced the June Trading Post which includes the Flame-Painted Sun Roc mount. Continue reading »",
-            url       = "https://www.wowhead.com/news=381741/take-a-midsummer-stroll-in-the-june-trading-post",
-            category  = "event",
         },
     },
 }
