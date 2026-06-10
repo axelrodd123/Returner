@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-08T11:08:37Z",
+        generated_at = "2026-06-10T10:13:32Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1781053734,
+            title     = "PvP World Quest Appears Again - Patch 12.0.5 Hotfixes for June 9th",
+            body      = "Blizzard has posted hotfixes for today which includes fixing a PvP World Quest that is needed for the Uprising achievement! Continue reading »",
+            url       = "https://www.wowhead.com/news=381822/pvp-world-quest-appears-again-patch-12-0-5-hotfixes-for-june-9th",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1781038867,
+            title     = "High Quality Tyrande, Jaina, and Varian Statues from HEX Collectibles",
+            body      = "HEX Collectibles is releasing another set of high quality Warcraft character statues inspired by their Hearthstone designs, featuring Tyrande Whisperwind, Jaina Proudmore, and Varian Wrynn! Continue reading »",
+            url       = "https://www.wowhead.com/news=381819/high-quality-tyrande-jaina-and-varian-statues-from-hex-collectibles",
+            category  = "news",
+        },
+        {
+            timestamp = 1781038489,
+            title     = "Celestial Dungeon Season 3 Coming June 16th and Challenge Mode: Diamond Coming June 23rd",
+            body      = "Blizzard has announced the release dates for both Celestial Dungeons Season 3 and Diamond Challenge Mode in Mists of Pandaria Classic! Continue reading »",
+            url       = "https://www.wowhead.com/news=381820/celestial-dungeon-season-3-coming-june-16th-and-challenge-mode-diamond-coming",
+            category  = "patch",
+        },
+        {
+            timestamp = 1781007592,
+            title     = "Creating Warcraft Inspired LEGO Sets with the BrickLink Designer Program",
+            body      = "For more than a year now, TheKalais has been working on their own personal project to bring Warcraft to the world of LEGO, creating custom sets inspired by orcish designs! Continue reading »",
+            url       = "https://www.wowhead.com/news=381815/creating-warcraft-inspired-lego-sets-with-the-bricklink-designer-program",
+            category  = "news",
+        },
         {
             timestamp = 1780836968,
             title     = "Make Last Boss of Skyreach Easier Using Animated Bench Toy",
@@ -25,7 +53,7 @@ Returner_Data = {
         },
         {
             timestamp = 1780686194,
-            title     = "Fanattik Launches New Line of World of Warcraft Collectables",
+            title     = "Fanattik Launches New Line of World of Warcraft Collectibles",
             body      = "Fanattik has launched a new line of World of Warcraft collectibles, including art, badges, and even a replica of the original game's CD-ROM! Continue reading »",
             url       = "https://www.wowhead.com/news=381807/fanattik-launches-new-line-of-world-of-warcraft-collectables",
             category  = "news",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Blizzard has released the WoW Weekly Recap which includes the upcoming power system that will last throughout all of Midnight, the June Trading Post and new WoW Ambassadors! Continue reading »",
             url       = "https://www.wowhead.com/news=381749/wow-weekly-recap-omnium-folio-in-midnight-june-trading-post-wow-ambassadors",
             category  = "news",
-        },
-        {
-            timestamp = 1780061259,
-            title     = "Dodge Lightning Strikes for Fun and Nostalgia in Val",
-            body      = "While exploring the icy world of Val in Patch 12.0.7, players may find themselves caught in a storm, dodging lightning strikes in a way that feels very familiar to older RPG fans! Continue reading »",
-            url       = "https://www.wowhead.com/news=381727/dodge-lightning-strikes-for-fun-and-nostalgia-in-val",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780010727,
-            title     = "Save Gold on Repairs with Weapon Durability Changes in Patch 12.0.7",
-            body      = "It looks like players will be able to shave some gold off their repair bills in Patch 12.0.7, as weapons and shields no longer take durability damage from combat on the PTR! Continue reading »",
-            url       = "https://www.wowhead.com/news=381744/save-gold-on-repairs-with-weapon-durability-changes-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780008731,
-            title     = "Diablo 4's Bleak Future - Season 14 Announcement & Patch Notes",
-            body      = "Diablo 4's Lord of Hatred Expansion has been praised for its groundbreaking changes to the game, but that momentum is gone after the Season 14 preview. Continue reading »",
-            url       = "https://www.wowhead.com/news=381745/diablo-4s-bleak-future-season-14-announcement-and-patch-notes",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780002035,
-            title     = "New Interrupt Macro Prevents Overwriting of Target Markers in Patch 12.0.7",
-            body      = "A new feature on the Patch 12.0.7 PTR for Macros prevents players from overwriting Target Markers on enemies! Continue reading »",
-            url       = "https://www.wowhead.com/news=381742/new-interrupt-macro-prevents-overwriting-of-target-markers-in-patch-12-0-7",
-            category  = "patch",
         },
     },
 }
