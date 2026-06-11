@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-10T10:13:32Z",
+        generated_at = "2026-06-11T10:48:12Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1781147707,
+            title     = "Highly-Detailed Spring Panda Mount Seen on Mists of Pandaria Classic Servers",
+            body      = "With a recent Hotfix, players have found a new Spring Panda mount in the Mount Journal on Mists of Pandaria Classic! Continue reading »",
+            url       = "https://www.wowhead.com/news=381831/highly-detailed-spring-panda-mount-seen-on-the-mists-of-pandaria-classic-servers",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1781137298,
+            title     = "Siegecrafter Blackfuse Saw Blades Fixed - Mists of Pandaria Classic Hotfixes",
+            body      = "Blizzard has released a Hotfix for Mists of Pandaria Classic, causing Siegecrafter Blackfuse's Saw Blades to deal damage against Automated Shredders. Continue reading »",
+            url       = "https://www.wowhead.com/news=381829/siegecrafter-blackfuse-saw-blades-fixed-mists-of-pandaria-classic-hotfixes",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1781137152,
+            title     = "Players Can Now Disable & Re-Enable Experience Gains - Season of Discovery Hotfix",
+            body      = "Blizzard has released a Hotfix for Season of Discovery, which allows players to disable or re-enable experience gains. Continue reading »",
+            url       = "https://www.wowhead.com/news=381830/players-can-now-disable-and-enable-experience-gains-season-of-discovery-hotfix",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1781115292,
+            title     = "Blizzard Releases New Youtooz and Funko Pop! Figures",
+            body      = "A new line of Murlocified Funko Pop! and Youtooz character figures are now available on the Gear Store, featuring Thrall, Anduin, Alexstrasza, and Nozdormu! Continue reading »",
+            url       = "https://www.wowhead.com/news=381825/blizzard-releases-new-youtooz-and-funko-pop-figures",
+            category  = "news",
+        },
+        {
+            timestamp = 1781108780,
+            title     = "Blizzard Has a Plan to Take Care of Casino Bots",
+            body      = "Blizzard is aware of the recent casino bot epidemic and is taking steps to remove these bots from the game. Continue reading »",
+            url       = "https://www.wowhead.com/news=381824/blizzard-has-a-plan-to-take-care-of-casino-bots",
+            category  = "news",
+        },
+        {
+            timestamp = 1781103329,
+            title     = "Mythic L'ura Macros and Positioning Assignments",
+            body      = "After the Hall of Fame nerfs, Mythic L'ura is still a formidable boss with a lot of setup. If you're going for Cutting Edge: Midnight Falls, here is what you need to know about setting up Mythic L'ura for your guild. Continue reading »",
+            url       = "https://www.wowhead.com/news=381813/mythic-lura-macros-and-positioning-assignments",
+            category  = "news",
+        },
         {
             timestamp = 1781053734,
             title     = "PvP World Quest Appears Again - Patch 12.0.5 Hotfixes for June 9th",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "Players have recently discovered that a Darkmoon Trinket is very powerful, but you have to buildcraft your gear setup in a very interesting way. Continue reading »",
             url       = "https://www.wowhead.com/news=381759/darkmoon-trinket-discovered-to-be-very-powerful-by-adjusting-gear",
             category  = "patch",
-        },
-        {
-            timestamp = 1780270496,
-            title     = "A Polarizing Talent in the Talent Tree - Survival Hunter Retrospective",
-            body      = "Take a look back at Survival Hunter in Midnight with our class writer, Doolb, who discusses a polarizing talent, 2-hander versus dual wielding balance and more! Continue reading »",
-            url       = "https://www.wowhead.com/news=381755/a-polarizing-talent-in-the-talent-tree-survival-hunter-retrospective",
-            category  = "news",
-        },
-        {
-            timestamp = 1780236468,
-            title     = "Too Much Power in Chain Heal - Restoration Shaman Retrospective",
-            body      = "Our Restoration Shaman writer, Harreks, takes a look at the spec this tier and discusses why Restoration Shaman is good in Mythic+ and not great in Raid at the same time. Continue reading »",
-            url       = "https://www.wowhead.com/news=381754/too-much-power-in-chain-heal-restoration-shaman-retrospective",
-            category  = "news",
-        },
-        {
-            timestamp = 1780188654,
-            title     = "Spend Field Accolades on Ethereal Weapons and Winter Cosmetics in Patch 12.0.7",
-            body      = "Two more bulging bags have been added to the Patch 12.0.7 PTR, allowing players to spend extra Field Accolades to obtain ethereal-themed weapons and cold winter weather gear! Continue reading »",
-            url       = "https://www.wowhead.com/news=381751/spend-field-accolades-on-ethereal-weapons-and-winter-cosmetics-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780152204,
-            title     = "The Story of Lorewalking: Loa in Patch 12.0.7",
-            body      = "In patch 12.0.7, we take a trip with Apprentice Lorewalker Li Li to recount the history of the Loa and their connection to the Troll tribes of Azeroth! Continue reading »",
-            url       = "https://www.wowhead.com/news=378221/the-story-of-lorewalking-loa-in-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780094427,
-            title     = "Earn Unalloyed Abundance Faster by Using Multiple Shards of Dundun Simultaneously in Patch 12.0.7",
-            body      = "Players can earn Unalloyed Abundance faster by offering multiple Shards of Dundun simultaneously in Patch 12.0.7! Continue reading »",
-            url       = "https://www.wowhead.com/news=381750/earn-unalloyed-abundance-faster-by-using-multiple-shards-of-dundun",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780074437,
-            title     = "WoW Weekly Recap - Omnium Folio in Midnight, June Trading Post, WoW Ambassadors",
-            body      = "Blizzard has released the WoW Weekly Recap which includes the upcoming power system that will last throughout all of Midnight, the June Trading Post and new WoW Ambassadors! Continue reading »",
-            url       = "https://www.wowhead.com/news=381749/wow-weekly-recap-omnium-folio-in-midnight-june-trading-post-wow-ambassadors",
-            category  = "news",
         },
     },
 }
