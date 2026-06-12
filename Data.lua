@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-11T10:48:12Z",
+        generated_at = "2026-06-12T10:23:06Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1781228833,
+            title     = "The Weekly Reset with Taliesin and Evitel: The Pros & Cons of Patch 12.0.7",
+            body      = "This week, Taliesin and Evitel cover all of the content coming in Patch 12.0.7, and whether it will be enough to bring players back. Continue reading »",
+            url       = "https://www.wowhead.com/news=381827/the-weekly-reset-with-taliesin-and-evitel-the-pros-and-cons-of-patch-12-0-7",
+            category  = "patch",
+        },
+        {
+            timestamp = 1781198187,
+            title     = "Cuddly Cotton Candy Grrgle - New Twitch Drop with Patch 12.0.7 Launch",
+            body      = "Blizzard has announced a new Twitch Drop coming with Patch 12.0.7's launch, the Cuddly Cotton Candy Grrgle. Continue reading »",
+            url       = "https://www.wowhead.com/news=381834/cuddly-cotton-candy-grrgle-new-twitch-drop-with-patch-12-0-7-launch",
+            category  = "patch",
+        },
+        {
+            timestamp = 1781197807,
+            title     = "Official Patch 12.0.7 \"Revelations\" Patch Notes",
+            body      = "Blizzard has posted the official Patch Notes for Patch 12.0.7 \"Revelations\". Continue reading »",
+            url       = "https://www.wowhead.com/news=381833/official-patch-12-0-7-revelations-patch-notes",
+            category  = "patch",
+        },
+        {
+            timestamp = 1781187810,
+            title     = "The Addon Trials - A WoW Addon Contest by Curseforge",
+            body      = "Curseforge has launched the Addon Trials, a new community contest to create mods of any kind for World of Warcraft: Midnight from now through July 5th, with 20 winners receiving a share of the $8,100 prize pool! Continue reading »",
+            url       = "https://www.wowhead.com/news=381823/the-addon-trials-a-wow-addon-contest-by-curseforge",
+            category  = "news",
+        },
         {
             timestamp = 1781147707,
             title     = "Highly-Detailed Spring Panda Mount Seen on Mists of Pandaria Classic Servers",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "The Siege of Orgrimmar Phase will go live following weekly maintenance. Here's everything you need to know about Mists of Pandaria Classic Phase 5! Continue reading »",
             url       = "https://www.wowhead.com/news=381758/siege-of-orgrimmar-guide-compendium-everything-coming-with-mists-of-pandaria",
             category  = "news",
-        },
-        {
-            timestamp = 1780342595,
-            title     = "Brian Holinka Joins Riot Games' MMORPG Team",
-            body      = "Former World of Warcraft Lead Combat Designer Brian Holinka has joined Riot Games, as a principal game designer on their League of Legends MMORPG! Continue reading »",
-            url       = "https://www.wowhead.com/news=381762/brian-holinka-joins-riot-games-mmorpg-team",
-            category  = "news",
-        },
-        {
-            timestamp = 1780336895,
-            title     = "The Most In-Demand Specs for The Burning Crusade Anniversary Phase 2",
-            body      = "With a few weeks of Phase 2 raiding data, the community is discussing what the most in-demand Specializations are in The Burning Crusade Anniversary. Continue reading »",
-            url       = "https://www.wowhead.com/news=381757/the-most-in-demand-specs-for-the-burning-crusade-anniversary-phase-2",
-            category  = "news",
-        },
-        {
-            timestamp = 1780322400,
-            title     = "Final Update: Mists of Pandaria Classic Servers Are Back Online",
-            body      = "Update: Mists of Pandaria Classic servers are now online, and the Siege of Orgrimmar content Phase is now live. Continue reading »",
-            url       = "https://www.wowhead.com/news=381756/8-hour-maintenance-ahead-of-phase-5-on-june-2nd-mists-of-pandaria-classic",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780318384,
-            title     = "Darkmoon Trinket Discovered to Be Very Powerful by Adjusting Gear",
-            body      = "Players have recently discovered that a Darkmoon Trinket is very powerful, but you have to buildcraft your gear setup in a very interesting way. Continue reading »",
-            url       = "https://www.wowhead.com/news=381759/darkmoon-trinket-discovered-to-be-very-powerful-by-adjusting-gear",
-            category  = "patch",
         },
     },
 }
