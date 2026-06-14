@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-13T09:25:13Z",
+        generated_at = "2026-06-14T09:46:10Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1781367173,
+            title     = "Blizzard Issues Cease & Desist Against Project Ascension Private Server",
+            body      = "Blizzard has filed an injunction against one of the largest remaining private servers still running - Project Ascension. Continue reading »",
+            url       = "https://www.wowhead.com/news=381849/blizzard-issues-cease-and-desist-against-project-ascension-private-server",
+            category  = "news",
+        },
+        {
+            timestamp = 1781356050,
+            title     = "New Sporefall Raid Rewards in Patch 12.0.7 - New Sporefused Gear and Mount",
+            body      = "The new single-boss Sporefall raid in Patch 12.0.7 drops the highest item level Sporefused equipment, as well as toys, decor, transmog, and a mount! Continue reading »",
+            url       = "https://www.wowhead.com/news=381473/new-sporefall-raid-rewards-in-patch-12-0-7-new-sporefused-gear-and-mount",
+            category  = "patch",
+        },
+        {
+            timestamp = 1781352000,
+            title     = "Fresh Season of Discovery Community Event Begins Next Week!",
+            body      = "Starting on June 19th, a Fresh Season of Discovery community event will begin on the Wild Growth (EU) server! Continue reading »",
+            url       = "https://www.wowhead.com/news=381845/fresh-season-of-discovery-community-event-begins-next-week",
+            category  = "patch",
+        },
         {
             timestamp = 1781309703,
             title     = "Targeted Spells on Raid Frames Returns in Addon",
@@ -267,27 +288,6 @@ Returner_Data = {
             body      = "Blizzard has announced that the Patch 12.0.7 release date is June 16th! Continue reading »",
             url       = "https://www.wowhead.com/news=381783/patch-12-0-7-release-on-june-16",
             category  = "patch",
-        },
-        {
-            timestamp = 1780495057,
-            title     = "New Models for Darkspear Dash Microholiday on Patch 12.0.7",
-            body      = "World of Warcraft is set to release its first official Darkspear Dash microholiday in Patch 12.0.7, and we've datamined some new models for it! Continue reading »",
-            url       = "https://www.wowhead.com/news=381773/new-models-for-darkspear-dash-microholiday-on-patch-12-0-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1780455316,
-            title     = "Darkmoon Dominion: Blood Trinket Fixed - Midnight Hotfixes for June 2, 2026",
-            body      = "Blizzard has posted hotfixes for today which includes a fix for the Darkmoon Dominion: Blood trinket. Continue reading »",
-            url       = "https://www.wowhead.com/news=381779/darkmoon-dominion-blood-trinket-fixed-midnight-hotfixes-for-june-2-2026",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1780439668,
-            title     = "Earn Progress Towards the Reins of Galakras Mount Beginning June 4th",
-            body      = "Beginning June 4th, earning Achievements in the Siege of Orgrimmar raid will allow players to earn progress towards the Reins of Galakras mount! Continue reading »",
-            url       = "https://www.wowhead.com/news=381777/earn-progress-towards-the-reins-of-galakras-mount-beginning-june-4th",
-            category  = "news",
         },
     },
 }
