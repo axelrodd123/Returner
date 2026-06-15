@@ -4,11 +4,18 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-14T09:46:10Z",
+        generated_at = "2026-06-15T12:29:41Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1781446374,
+            title     = "Power Up with the Omnium Folio in Patch 12.0.7",
+            body      = "Gain bonus character power that lasts for the remainder of the Midnight expansion with the Omnium Folio coming in Patch 12.0.7! Continue reading »",
+            url       = "https://www.wowhead.com/news=381836/power-up-with-the-omnium-folio-in-patch-12-0-7",
+            category  = "patch",
+        },
         {
             timestamp = 1781367173,
             title     = "Blizzard Issues Cease & Desist Against Project Ascension Private Server",
@@ -281,13 +288,6 @@ Returner_Data = {
             body      = "Warcraft Logs has officially released their Parsing & Speedrun Rules for Mist of Pandaria Classic's Siege of Orgrimmar raid. Continue reading »",
             url       = "https://www.wowhead.com/news=381784/siege-of-orgrimmar-parsing-and-speedrun-rules-on-warcraft-logs",
             category  = "news",
-        },
-        {
-            timestamp = 1780506433,
-            title     = "Midnight Patch 12.0.7 \"Revelations\" Releases on June 16!",
-            body      = "Blizzard has announced that the Patch 12.0.7 release date is June 16th! Continue reading »",
-            url       = "https://www.wowhead.com/news=381783/patch-12-0-7-release-on-june-16",
-            category  = "patch",
         },
     },
 }
