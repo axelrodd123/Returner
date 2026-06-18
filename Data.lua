@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-17T11:07:54Z",
+        generated_at = "2026-06-18T10:39:19Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1781744906,
+            title     = "Siege of Orgrimmar Bonus Roll Chance & Celestial Dungeon Fixes - Mists of Pandaria Classic Hotfix",
+            body      = "Blizzard has released a Hotfix, which gives players a chance to earn a bonus roll for an extra piece of loot after defeating Garrosh Hellscream. Continue reading »",
+            url       = "https://www.wowhead.com/news=381889/siege-of-orgrimmar-bonus-roll-chance-and-celestial-dungeon-fixes-mists-of",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1781743915,
+            title     = "June 17th Hotfixes - Abundance, Naigtal, and Lorewalking",
+            body      = "Blizzard has updated the hotfix blog to correct issues with Abundance in Voidstorm, increasing the intellect on Void-Touched Torch, adding account wide progress to Naigtal quests, and ensure Nexus-Captain Leth'ir drops emblems as intended! Continue reading »",
+            url       = "https://www.wowhead.com/news=381888/june-17th-hotfixes-abundance-naigtal-and-lorewalking",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1781719236,
+            title     = "When Will The Burning Crusade Anniversary Phase 3 Release?",
+            body      = "About a month into The Burning Crusade Anniversary Phase 2, players are already asking, when will Phase 3 launch? Continue reading »",
+            url       = "https://www.wowhead.com/news=381884/when-will-the-burning-crusade-anniversary-phase-3-release",
+            category  = "news",
+        },
+        {
+            timestamp = 1781717150,
+            title     = "Patch 12.0.7 Survival Guide: Activities, Content, Power, and Rewards",
+            body      = "Patch 12.0.7 is here, offering many new activities for all types of players to enjoy, whether they consider themselves power players, collectors, or somewhere in between! Continue reading »",
+            url       = "https://www.wowhead.com/news=381860/patch-12-0-7-survival-guide-activities-content-power-and-rewards",
+            category  = "patch",
+        },
+        {
+            timestamp = 1781704098,
+            title     = "Sporefused Gear from Rotmire Can be Catalyzed",
+            body      = "Sporefused gear earned from the Sporefall raid can be catalyzed, granting bonus item levels for certain armor slots! Continue reading »",
+            url       = "https://www.wowhead.com/news=381880/sporefused-gear-from-rotmire-can-be-catalyzed",
+            category  = "news",
+        },
         {
             timestamp = 1781653302,
             title     = "The Addon Trials Community Competition Extended Eligibility",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "With a recent Hotfix, players have found a new Spring Panda mount in the Mount Journal on Mists of Pandaria Classic! Continue reading »",
             url       = "https://www.wowhead.com/news=381831/highly-detailed-spring-panda-mount-seen-on-the-mists-of-pandaria-classic-servers",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1781137298,
-            title     = "Siegecrafter Blackfuse Saw Blades Fixed - Mists of Pandaria Classic Hotfixes",
-            body      = "Blizzard has released a Hotfix for Mists of Pandaria Classic, causing Siegecrafter Blackfuse's Saw Blades to deal damage against Automated Shredders. Continue reading »",
-            url       = "https://www.wowhead.com/news=381829/siegecrafter-blackfuse-saw-blades-fixed-mists-of-pandaria-classic-hotfixes",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1781137152,
-            title     = "Players Can Now Disable & Re-Enable Experience Gains - Season of Discovery Hotfix",
-            body      = "Blizzard has released a Hotfix for Season of Discovery, which allows players to disable or re-enable experience gains. Continue reading »",
-            url       = "https://www.wowhead.com/news=381830/players-can-now-disable-and-enable-experience-gains-season-of-discovery-hotfix",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1781115292,
-            title     = "Blizzard Releases New Youtooz and Funko Pop! Figures",
-            body      = "A new line of Murlocified Funko Pop! and Youtooz character figures are now available on the Gear Store, featuring Thrall, Anduin, Alexstrasza, and Nozdormu! Continue reading »",
-            url       = "https://www.wowhead.com/news=381825/blizzard-releases-new-youtooz-and-funko-pop-figures",
-            category  = "news",
-        },
-        {
-            timestamp = 1781108780,
-            title     = "Blizzard Has a Plan to Take Care of Casino Bots",
-            body      = "Blizzard is aware of the recent casino bot epidemic and is taking steps to remove these bots from the game. Continue reading »",
-            url       = "https://www.wowhead.com/news=381824/blizzard-has-a-plan-to-take-care-of-casino-bots",
-            category  = "news",
-        },
-        {
-            timestamp = 1781103329,
-            title     = "Mythic L'ura Macros and Positioning Assignments",
-            body      = "After the Hall of Fame nerfs, Mythic L'ura is still a formidable boss with a lot of setup. If you're going for Cutting Edge: Midnight Falls, here is what you need to know about setting up Mythic L'ura for your guild. Continue reading »",
-            url       = "https://www.wowhead.com/news=381813/mythic-lura-macros-and-positioning-assignments",
-            category  = "news",
         },
     },
 }
