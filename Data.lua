@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-21T09:58:14Z",
+        generated_at = "2026-06-22T12:15:44Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1782072033,
+            title     = "Should Blizzard Add Mass Resurrection to The Burning Crusade Anniversary?",
+            body      = "Players are asking Blizzard to make #SomeChanges and bring the Mass Resurrection spell to The Burning Crusade Anniversary. Continue reading »",
+            url       = "https://www.wowhead.com/news=381949/should-blizzard-add-mass-resurrection-to-the-burning-crusade-anniversary",
+            category  = "news",
+        },
+        {
+            timestamp = 1782063032,
+            title     = "Midsummer Fire Festival Now Live",
+            body      = "The Midsummer Fire Festival is now live! Check out the new activities in the update. Continue reading »",
+            url       = "https://www.wowhead.com/news=381947/midsummer-fire-festival-now-live",
+            category  = "patch",
+        },
+        {
+            timestamp = 1782055800,
+            title     = "Catalyst Charges Changes in Season 2 - Charges Might Drop From Start",
+            body      = "We've found another Catalyst change on the 12.1 PTR and catalyst charges might start dropping from the start. Continue reading »",
+            url       = "https://www.wowhead.com/news=381944/get-3-extra-catalyst-charges-from-aotc-or-keystone-master-in-midnight-season-2",
+            category  = "patch",
+        },
+        {
+            timestamp = 1782044684,
+            title     = "New Outdoor Armor Sets Datamined on Patch 12.1 PTR",
+            body      = "Check out these new datamined armor sets for the various outdoor content coming in Patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=381926/new-outdoor-armor-sets-datamined-on-patch-12-1-ptr",
+            category  = "patch",
+        },
         {
             timestamp = 1782009702,
             title     = "Tend Azeroth’s Fires During the Midsummer Fire Festival in Mists of Pandaria Classic",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Blizzard has released a Hotfix, which gives players a chance to earn a bonus roll for an extra piece of loot after defeating Garrosh Hellscream. Continue reading »",
             url       = "https://www.wowhead.com/news=381889/siege-of-orgrimmar-bonus-roll-chance-and-celestial-dungeon-fixes-mists-of",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1781743915,
-            title     = "June 17th Hotfixes - Abundance, Naigtal, and Lorewalking",
-            body      = "Blizzard has updated the hotfix blog to correct issues with Abundance in Voidstorm, increasing the intellect on Void-Touched Torch, adding account wide progress to Naigtal quests, and ensure Nexus-Captain Leth'ir drops emblems as intended! Continue reading »",
-            url       = "https://www.wowhead.com/news=381888/june-17th-hotfixes-abundance-naigtal-and-lorewalking",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1781719236,
-            title     = "When Will The Burning Crusade Anniversary Phase 3 Release?",
-            body      = "About a month into The Burning Crusade Anniversary Phase 2, players are already asking, when will Phase 3 launch? Continue reading »",
-            url       = "https://www.wowhead.com/news=381884/when-will-the-burning-crusade-anniversary-phase-3-release",
-            category  = "news",
-        },
-        {
-            timestamp = 1781717150,
-            title     = "Patch 12.0.7 Survival Guide: Activities, Content, Power, and Rewards",
-            body      = "Patch 12.0.7 is here, offering many new activities for all types of players to enjoy, whether they consider themselves power players, collectors, or somewhere in between! Continue reading »",
-            url       = "https://www.wowhead.com/news=381860/patch-12-0-7-survival-guide-activities-content-power-and-rewards",
-            category  = "patch",
-        },
-        {
-            timestamp = 1781704098,
-            title     = "Sporefused Gear from Rotmire Can be Catalyzed",
-            body      = "Sporefused gear earned from the Sporefall raid can be catalyzed, granting bonus item levels for certain armor slots! Continue reading »",
-            url       = "https://www.wowhead.com/news=381880/sporefused-gear-from-rotmire-can-be-catalyzed",
-            category  = "news",
         },
     },
 }
