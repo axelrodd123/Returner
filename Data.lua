@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-06-28T09:19:38Z",
+        generated_at = "2026-06-29T11:11:35Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1782727200,
+            title     = "Phase 2 of the Season of Discovery Community Fresh Event is Now Live!",
+            body      = "Phase 2 of the Community Fresh Event is now live in Season of Discovery, unlocking level 40, the Gnomeregan raid, and new best-in-slot gear! Continue reading »",
+            url       = "https://www.wowhead.com/news=382031/phase-2-of-the-season-of-discovery-community-fresh-event-is-now-live",
+            category  = "patch",
+        },
+        {
+            timestamp = 1782680402,
+            title     = "Undocumented Sigil Changes - Vengeance Demon Hunter Class Changes and Tier Set Review",
+            body      = "Our Vengeance Demon Hunter writer, Itamae, discusses some of the undocumented changes for Sigils, and how it's unclear what the vision is for this spec. Continue reading »",
+            url       = "https://www.wowhead.com/news=382022/undocumented-sigil-changes-vengeance-demon-hunter-class-changes-and-tier-set",
+            category  = "news",
+        },
+        {
+            timestamp = 1782670298,
+            title     = "Blizzard Moves Forward With Summons Request Against Project Ascension Personnel",
+            body      = "Blizzard has taken the next step in their case against the Project Ascension private server, issuing Summons Requests to the individuals involved. Continue reading »",
+            url       = "https://www.wowhead.com/news=382029/blizzard-moves-forward-with-summons-request-against-project-ascension-personnel",
+            category  = "news",
+        },
+        {
+            timestamp = 1782658887,
+            title     = "Tauren and Dwarf Mythology in the Midsummer Fire Festival Revamp",
+            body      = "In this year's Midsummer Fire Festival update, new quests are available involving the histories of the Tauren and Wildhammer Dwarves -- with a bonus of 230 Burning Blossoms for first time completion! Continue reading »",
+            url       = "https://www.wowhead.com/news=381985/tauren-and-dwarf-mythology-in-the-midsummer-fire-festival-revamp",
+            category  = "patch",
+        },
+        {
+            timestamp = 1782651650,
+            title     = "History Doesn't Repeat, It Rhymes - Devastation Evoker Class Changes and Tier Set Review",
+            body      = "Our Devastation Evoker writer, Preheat, discusses the change to the apex talents for Devastation Evoker! Continue reading »",
+            url       = "https://www.wowhead.com/news=382020/history-doesnt-repeat-it-rhymes-devastation-evoker-class-changes-and-tier-set",
+            category  = "news",
+        },
         {
             timestamp = 1782595800,
             title     = "Making Subtlety Worse, One Nerf at a Time - 12.1 Class Changes and Tier Set Review",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "Our Augmentation Evoker class writer, Jereico, discusses how the changes affect the playstyle of the Double-Time talent, and how a 2+2 tier set bonus might be on the horizon. Continue reading »",
             url       = "https://www.wowhead.com/news=381986/addressing-the-power-of-double-time-augmentation-evoker-class-changes-and-tier",
             category  = "news",
-        },
-        {
-            timestamp = 1782319224,
-            title     = "Season 2 Keystone Master and Keystone Legend Mounts",
-            body      = "We've datamined the upcoming Keystone Master and Keystone Legend mounts for Season 2! Continue reading »",
-            url       = "https://www.wowhead.com/news=381988/season-2-keystone-master-and-keystone-legend-mounts",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782313700,
-            title     = "New Toys and Treasures Datamined on the Patch 12.1 PTR",
-            body      = "Over a dozen new toys have been datamined in Patch 12.1, featured as new rewards from Prey, Delves, PvP, and discovered as treasure throughout the Coiled Isle! Continue reading »",
-            url       = "https://www.wowhead.com/news=381966/new-toys-and-treasures-datamined-on-the-patch-12-1-ptr",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782308559,
-            title     = "Great Numbers, But Completely Passive Tier Set - Survival Hunter Changes in Patch 12.1",
-            body      = "Our Survival Hunter class writer, Doolb, reviews the Season 2 Tier set and the upcoming class changes to Survival Hunter on the Patch 12.1 PTR. Continue reading »",
-            url       = "https://www.wowhead.com/news=381976/great-numbers-but-completely-passive-tier-set-survival-hunter-changes-in-patch",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782267789,
-            title     = "Challenge Conqueror: Platinum (Season 3) Achievement Now Available - MoP Classic Hotfix",
-            body      = "Blizzard has released a Hotfix for Mists of Pandaria Classic, which enables the Challenge Conqueror: Platinum (Season 3) Achievement. Continue reading »",
-            url       = "https://www.wowhead.com/news=381983/challenge-conqueror-platinum-season-3-achievement-now-available-mop-classic",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1782264153,
-            title     = "Patch 12.1 PTR Datamined Class Tuning and Tier Set Changes",
-            body      = "We've datamined the large round of spell tuning changes for several classes on the Patch 12.1 PTR, alongside a handful of tier set updates! Continue reading »",
-            url       = "https://www.wowhead.com/news=381982/patch-12-1-ptr-class-tuning-and-tier-set-changes",
-            category  = "patch",
         },
     },
 }
