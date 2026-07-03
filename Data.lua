@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-02T09:23:19Z",
+        generated_at = "2026-07-03T09:27:47Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783029721,
+            title     = "Umbral Ashes Datamined Animations - Top 1% Mythic+ Mount",
+            body      = "Check out the animations for the Umbral Ashes, a dark phoenix mount awarded for placing within the top 1% of Mythic+ players during Midnight Season 1! Continue reading »",
+            url       = "https://www.wowhead.com/news=382064/umbral-ashes-datamined-animations-top-1-mythic-mount",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783019743,
+            title     = "New Season 2 Mythic+ Dungeons Available for Testing - Reduced Casters and Mechanical Changes",
+            body      = "New Mythic+ dungeons are available for testing and Blizzard has posted developer notes for them which includes reducing the number of casters and mechanical changes. Continue reading »",
+            url       = "https://www.wowhead.com/news=382074/new-season-2-mythic-dungeons-available-for-testing-reduced-casters-and",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783018868,
+            title     = "New Nameplate Options on The Burning Crusade Anniversary PTR",
+            body      = "With the latest update to the Burning Crusade Anniversary PTR build, Blizzard has added new options for players to customize the appearance of nameplates, add threat indicators, Cast Bar Information, and more! Continue reading »",
+            url       = "https://www.wowhead.com/news=382073/new-nameplate-options-on-the-burning-crusade-anniversary-ptr",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783012663,
+            title     = "WoW Weekly: Turbulent Timeways, Curse of Ula'tek, July Trading Post, and More!",
+            body      = "This week in WoW, the Turbulent Timeways opened with Dragonflight Timewalking, Blizzard revealed the July Trading Post, and a new customizable mount made its way to the Blizzard shop! Continue reading »",
+            url       = "https://www.wowhead.com/news=382072/wow-weekly-turbulent-timeways-curse-of-ulatek-july-trading-post-and-more",
+            category  = "news",
+        },
+        {
+            timestamp = 1782996752,
+            title     = "Season 2 Splash Screen Revealed on Patch 12.1 PTR",
+            body      = "The Midnight Season 2 splash screen has been revealed on the Patch 12.1 PTR, highlighting the updated Mythic+ rotation and new Venomous Abyss raid! Continue reading »",
+            url       = "https://www.wowhead.com/news=382065/season-2-splash-screen-revealed-on-patch-12-1-ptr",
+            category  = "patch",
+        },
         {
             timestamp = 1782951894,
             title     = "Updated Raid Maps for The Venomous Abyss on Patch 12.1 PTR",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "Our Subtlety Rogue writer, Fuu, discusses how the nerfs on the 12.1 PTR feel awful and the Tier Set misses the mark. Continue reading »",
             url       = "https://www.wowhead.com/news=382018/making-subtlety-worse-one-nerf-at-a-time-12-1-class-changes-and-tier-set-review",
             category  = "patch",
-        },
-        {
-            timestamp = 1782588600,
-            title     = "Celebrate Pride with the 11th Annual Running of the Trolls",
-            body      = "The 11th Annual Running of the Trolls community charity event starts this weekend at 6 PM on Saturday in the US and Sunday in the EU, so roll your troll and join us in racing across Azeroth! Continue reading »",
-            url       = "https://www.wowhead.com/news=382021/celebrate-pride-with-the-11th-annual-running-of-the-trolls",
-            category  = "event",
-        },
-        {
-            timestamp = 1782583828,
-            title     = "A New Season of Discovery Build Has Been Found - Is Blizzard Planning Additional Content?",
-            body      = "A new Season of Discovery build has been detected, and speculation is running rampant on whether this could be new content or an official SoD Fresh release! Continue reading »",
-            url       = "https://www.wowhead.com/news=382027/a-new-season-of-discovery-build-has-been-found-is-blizzard-planning-additional",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782580257,
-            title     = "A New Specialty for Dream Breath - Preservation Evoker Class Changes and Tier Set Review",
-            body      = "Our Preservation Evoker writer, Voulk, discusses the new Dream Breath changes, and how there might be a new niche for Preservation Evoker in Mythic+ dungeons. Continue reading »",
-            url       = "https://www.wowhead.com/news=382017/a-new-specialty-for-dream-breath-preservation-evoker-class-changes-and-tier-set",
-            category  = "news",
-        },
-        {
-            timestamp = 1782569218,
-            title     = "New Curios and Poisons Choice Node Added to Valeera in Patch 12.1 Delves",
-            body      = "With Patch 12.1, Valeera is getting new Curios and a new Poisons choice node to tackle the next season of Midnight Delves! Continue reading »",
-            url       = "https://www.wowhead.com/news=381968/new-curios-and-poisons-choice-node-added-to-valeera-in-patch-12-1-delves",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782545758,
-            title     = "Do the Darkspear Dash - New Microholiday Now Available",
-            body      = "World of Warcraft's new Darkspear Dash microholiday is now live, giving Horde players an opportunity earn a tabard, toy, and title all weekend long! Continue reading »",
-            url       = "https://www.wowhead.com/news=382024/do-the-darkspear-dash-new-microholiday-now-available",
-            category  = "event",
         },
     },
 }
