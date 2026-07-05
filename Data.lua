@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-04T08:45:08Z",
+        generated_at = "2026-07-05T09:13:34Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783195213,
+            title     = "Great Spec Changes But Lacking Otherwise - Assassination Rogue Class Changes and Tier Set Review",
+            body      = "Our Assassination Rogue writer, Whispyr, discusses changes to resource economy, reworked and new talents, and the missed opportunities of the patch. Continue reading »",
+            url       = "https://www.wowhead.com/news=382079/great-spec-changes-but-lacking-otherwise-assassination-rogue-class-changes-and",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783192426,
+            title     = "Last Chance to Stock Up on Midsummer Food Before the Event Ends July 5th - TBC Anniversary",
+            body      = "With just one day left of the Midsummer Fire Festival, today is the last day that players can obtain their item level 128 Necklaces and stock up on the limited-time consumables! Continue reading »",
+            url       = "https://www.wowhead.com/news=382088/last-chance-to-stock-up-on-midsummer-food-before-the-event-ends-july-5th-tbc",
+            category  = "event",
+        },
+        {
+            timestamp = 1783174122,
+            title     = "Put Pepe in Your Player Home in Patch 12.1",
+            body      = "Players can now bring their best bird friend home with the new Mechanically Indistinguishable Pepe decor in Patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=382070/put-pepe-in-your-player-home-in-patch-12-1",
+            category  = "patch",
+        },
         {
             timestamp = 1783120241,
             title     = "Super Spreader Debuff from Brackenhide Hollow Now Hotfixed",
@@ -267,27 +288,6 @@ Returner_Data = {
             body      = "Blizzard has released details on the July 2026 Trading Post which includes a Blue Firework Rocket mount! Continue reading »",
             url       = "https://www.wowhead.com/news=382036/july-s-trading-post-ignites-a-true-blue-celebration",
             category  = "news",
-        },
-        {
-            timestamp = 1782741600,
-            title     = "2-Hour Maintenance Scheduled for June 30th - Mists of Pandaria Classic",
-            body      = "Blizzard has announced a 2-hour maintenance for Mists of Pandaria Classic, scheduled for Tuesday, June 30th at 7:00 a.m. PDT (03:00 CEST on July 1st). Continue reading »",
-            url       = "https://www.wowhead.com/news=382030/2-hour-maintenance-scheduled-for-june-30th-mists-of-pandaria-classic",
-            category  = "news",
-        },
-        {
-            timestamp = 1782741257,
-            title     = "New Datamined Maps from Patch 12.1 PTR",
-            body      = "We've datamined new maps on the Patch 12.1 PTR, which includes the new Midnight Map, new Delve maps and the new raid lair! Continue reading »",
-            url       = "https://www.wowhead.com/news=382032/new-datamined-maps-from-patch-12-1-ptr",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782727200,
-            title     = "Phase 2 of the Season of Discovery Community Fresh Event is Now Live!",
-            body      = "Phase 2 of the Community Fresh Event is now live in Season of Discovery, unlocking level 40, the Gnomeregan raid, and new best-in-slot gear! Continue reading »",
-            url       = "https://www.wowhead.com/news=382031/phase-2-of-the-season-of-discovery-community-fresh-event-is-now-live",
-            category  = "patch",
         },
     },
 }
