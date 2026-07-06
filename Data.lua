@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-05T09:13:34Z",
+        generated_at = "2026-07-06T10:49:52Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783292441,
+            title     = "A Very Controversial 4-Set - Retribution Paladin Class Changes and Tier Set Review",
+            body      = "Our Retribution Paladin class writer, Bolas, discusses the Holy Power economy changes for in Patch 12.1 as well as the controversial 4-set Tier Bonus. Continue reading »",
+            url       = "https://www.wowhead.com/news=382093/a-very-controversial-4-set-retribution-paladin-class-changes-and-tier-set-review",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783274429,
+            title     = "He Ran Across the Continent of Kalimdor Just to See How Big It Really Is",
+            body      = "As a follow-up to his previous video, WoW Classic content creator and map explorer, 720 Zone, is back to show us just how big the continent of Kalimdor really is. Continue reading »",
+            url       = "https://www.wowhead.com/news=382089/he-ran-across-the-continent-of-kalimdor-just-to-see-how-big-it-really-is",
+            category  = "news",
+        },
+        {
+            timestamp = 1783261988,
+            title     = "Fun to Play, But Has Some Baggage - Enhancement Shaman Class Changes and Tier Set Review",
+            body      = "Our Enhancement Shaman writer, Wordup, discusses the Patch 12.1 changes and how the overall spec is fun to play, but has some issues that have remained since the Midnight Beta. Continue reading »",
+            url       = "https://www.wowhead.com/news=382092/fun-to-play-but-has-some-baggage-enhancement-shaman-class-changes-and-tier-set",
+            category  = "patch",
+        },
         {
             timestamp = 1783195213,
             title     = "Great Spec Changes But Lacking Otherwise - Assassination Rogue Class Changes and Tier Set Review",
@@ -267,27 +288,6 @@ Returner_Data = {
             body      = "After speculation about what the new 1.15.9 Patch could be, Blizzard has confirmed that they will not be hosting an official Fresh Season of Discovery server. Continue reading »",
             url       = "https://www.wowhead.com/news=382040/blizzard-confirms-there-will-not-be-an-official-fresh-season-of-discovery",
             category  = "patch",
-        },
-        {
-            timestamp = 1782765861,
-            title     = "Blizzard Removing Havoc DH PvP Tuning from Upcoming Class Changes",
-            body      = "Blizzard has announced that the Havoc DH PvP tuning that was supposed to go live tomorrow has been removed. Continue reading »",
-            url       = "https://www.wowhead.com/news=382038/blizzard-removing-havoc-dh-pvp-tuning-from-upcoming-class-changes",
-            category  = "news",
-        },
-        {
-            timestamp = 1782763939,
-            title     = "Cast Harder, Not Smarter - Fire Mage Class Changes and Tier Set Review",
-            body      = "Our Fire Mage class writer, Preheat, discusses the class changes and how the tier set revolves around Pyroclasm, where players will be standing still to hard-cast Pyroblast. Continue reading »",
-            url       = "https://www.wowhead.com/news=382033/cast-harder-not-smarter-fire-mage-class-changes-and-tier-set-review",
-            category  = "news",
-        },
-        {
-            timestamp = 1782753201,
-            title     = "July’s Trading Post Ignites a True-Blue Celebration",
-            body      = "Blizzard has released details on the July 2026 Trading Post which includes a Blue Firework Rocket mount! Continue reading »",
-            url       = "https://www.wowhead.com/news=382036/july-s-trading-post-ignites-a-true-blue-celebration",
-            category  = "news",
         },
     },
 }
