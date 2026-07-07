@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-06T10:49:52Z",
+        generated_at = "2026-07-07T09:52:17Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783383311,
+            title     = "Only Minimal Reductions at Blizzard Entertainment after Xbox Layoffs... for Now",
+            body      = "Blizzard has seen comparatively minimal reductions and BlizzCon hasn't been cancelled after sweeping cuts across Xbox today, though a note from President Johanna Faries promising more information to come suggests more changes on the horizon. Continue reading »",
+            url       = "https://www.wowhead.com/news=382100/only-minimal-reductions-at-blizzard-entertainment-after-xbox-layoffs-for-now",
+            category  = "news",
+        },
+        {
+            timestamp = 1783360879,
+            title     = "This Player Reached Level 60 on Hardcore Self-Found With Every Class, Here's How",
+            body      = "A Classic Hardcore Self-Found player recently completed their goal of reaching level 60 on every Class in the game. Here are their tips! Continue reading »",
+            url       = "https://www.wowhead.com/news=382091/this-player-reached-level-60-on-hardcore-self-found-with-every-class-heres-how",
+            category  = "news",
+        },
+        {
+            timestamp = 1783350449,
+            title     = "Xbox Announces Restructure - ~1,600 Role Eliminations Today",
+            body      = "Xbox has announced that they are undergoing a significant restructure and will be reducing the team by 1,600 today and 3,200 through FY27. Continue reading »",
+            url       = "https://www.wowhead.com/news=382097/xbox-announces-restructure-1-600-role-eliminations-today",
+            category  = "news",
+        },
+        {
+            timestamp = 1783346400,
+            title     = "8-Hour Maintenance Scheduled for July 7th - The Burning Crusade Anniversary",
+            body      = "Blizzard has announced an 8-hour maintenance for The Burning Crusade Anniversary scheduled to begin on Tuesday, July 7th, at 7:00 am PDT (03:00 CET on July 8th). Continue reading »",
+            url       = "https://www.wowhead.com/news=382090/8-hour-maintenance-scheduled-for-july-7th-the-burning-crusade-anniversary",
+            category  = "news",
+        },
+        {
+            timestamp = 1783344757,
+            title     = "Cancelaura-ing Beast Cleave Due to Tier Bonus - Beast Mastery Hunter Class Changes and Tier Set Review",
+            body      = "Our Beast Mastery Hunter guide writer, Tarlo, discusses how the Tier Set for Beast Mastery will cause players to want to /cancelaura Beast Cleave in certain circumstances, and explain how all of these changes impact Dark Ranger. Continue reading »",
+            url       = "https://www.wowhead.com/news=382096/cancelaura-ing-beast-cleave-due-to-tier-bonus-beast-mastery-hunter-class-changes",
+            category  = "news",
+        },
         {
             timestamp = 1783292441,
             title     = "A Very Controversial 4-Set - Retribution Paladin Class Changes and Tier Set Review",
@@ -75,7 +110,7 @@ Returner_Data = {
         {
             timestamp = 1783098000,
             title     = "The Shadowhunters' Hexblade - New Two-Bladed Cosmetic Sword in Patch 12.1",
-            body      = "The Shadowhunters' Hexblade is a new two-bladed sword on the Patch 12.1 PTR, giving more classes the opportunity to transmog a warblade-like weapon! Continue reading »",
+            body      = "The Shadowhunters' Hexblade is a new two-bladed sword on the Patch 12.1 PTR, giving more classes the opportunity to transmog a warglaive-like weapon! Continue reading »",
             url       = "https://www.wowhead.com/news=382077/the-shadowhunters-hexblade-new-two-bladed-cosmetic-sword-in-patch-12-1",
             category  = "patch",
         },
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "With the weekly reset, the first Dragonflight Timewalking is now available and the Turbulent Timeways is now live! Continue reading »",
             url       = "https://www.wowhead.com/news=382043/first-dragonflight-timewalking-available-turbulent-timeways-now-live",
             category  = "news",
-        },
-        {
-            timestamp = 1782836465,
-            title     = "Blizzard Classic Cup Players Revealed at BlizzCon 2026",
-            body      = "Blizzard has announced the Legacy Match players that are taking place in the Blizzard Classic Cup at BlizzCon 2026 across Blizzard titles including StarCraft: Remastered, StarCraft II, Heroes of the Storm, Warcraft III. and more! Continue reading »",
-            url       = "https://www.wowhead.com/news=382045/blizzard-classic-cup-players-revealed-at-blizzcon-2026",
-            category  = "news",
-        },
-        {
-            timestamp = 1782826203,
-            title     = "Patch 12.1 Splash Screen Datamined - Unravel the Coiled Isle",
-            body      = "We've datamined a new splash screen for Patch 12.1: Curse of Ula'tek, showcasing the new Coiled Isle world zone and the first world boss Lair! Continue reading »",
-            url       = "https://www.wowhead.com/news=382041/patch-12-1-splash-screen-datamined-unravel-the-coiled-isle",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782813600,
-            title     = "Tips & Tricks for Reaching Level 40 in Season of Discovery Phase 2",
-            body      = "With Phase 2 of the Season of Discovery Community Fresh Event now live, players will unlock their experience bars and travel to new zones. Here are some tips to help you on your way to level 40! Continue reading »",
-            url       = "https://www.wowhead.com/news=382039/tips-and-tricks-for-reaching-level-40-in-season-of-discovery-phase-2",
-            category  = "patch",
-        },
-        {
-            timestamp = 1782774928,
-            title     = "A Small Step in the Right Direction - Shadow Priest Class Changes and Tier Set Review",
-            body      = "Our Shadow Priest writer, Ellipsis, discusses the brand new source of AoE for the spec, as well as explaining why the new Tier Set struggles to deliver. Continue reading »",
-            url       = "https://www.wowhead.com/news=382034/a-small-step-in-the-right-direction-shadow-priest-class-changes-and-tier-set",
-            category  = "news",
-        },
-        {
-            timestamp = 1782771294,
-            title     = "Blizzard Confirms - There Will NOT Be an Official Fresh Season of Discovery",
-            body      = "After speculation about what the new 1.15.9 Patch could be, Blizzard has confirmed that they will not be hosting an official Fresh Season of Discovery server. Continue reading »",
-            url       = "https://www.wowhead.com/news=382040/blizzard-confirms-there-will-not-be-an-official-fresh-season-of-discovery",
-            category  = "patch",
         },
     },
 }
