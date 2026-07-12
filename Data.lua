@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-11T08:04:04Z",
+        generated_at = "2026-07-12T08:25:26Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783807242,
+            title     = "Ion Hazzikostas Interview with PCGamesN - WoW in 2026",
+            body      = "In an interview with PCGamesN, Senior Game Director Ion Hazzikostas discussed Midnight housing, the changes to addons, and why you should be playing WoW in 2026! Continue reading »",
+            url       = "https://www.wowhead.com/news=382144/ion-hazzikostas-interview-with-pcgamesn-wow-in-2026",
+            category  = "news",
+        },
+        {
+            timestamp = 1783792874,
+            title     = "Dungeon Changes & New Dungeons We Could See in Classic+",
+            body      = "With BlizzCon only two months away, players are discussing dungeon changes and brand-new dungeons they would like to see in the next iteration of WoW Classic. Continue reading »",
+            url       = "https://www.wowhead.com/news=382146/dungeon-changes-and-new-dungeons-we-could-see-in-classic",
+            category  = "news",
+        },
+        {
+            timestamp = 1783789201,
+            title     = "WoW Portal Room Q&A with Ion Hazzikostas Next Friday",
+            body      = "Blizzard has announced that a Q&A with Game Director Ion Hazzikostas will take place next Friday! Continue reading »",
+            url       = "https://www.wowhead.com/news=382142/wow-portal-room-q-a-with-ion-hazzikostas-next-friday",
+            category  = "news",
+        },
+        {
+            timestamp = 1783776431,
+            title     = "Haranir and Amani Murals as Player Housing Decor on Patch 12.1 PTR",
+            body      = "Player housing enthusiasts will be able to decorate their homes with huge new wall-spanning murals of Amani and Haranir origin in Patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=382138/haranir-and-amani-murals-as-player-housing-decor-on-patch-12-1-ptr",
+            category  = "patch",
+        },
         {
             timestamp = 1783735014,
             title     = "Patch 12.1 Datamined Artisanal Interior Room Previews for Player Housing",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "As a follow-up to his previous video, WoW Classic content creator and map explorer, 720 Zone, is back to show us just how big the continent of Kalimdor really is. Continue reading »",
             url       = "https://www.wowhead.com/news=382089/he-ran-across-the-continent-of-kalimdor-just-to-see-how-big-it-really-is",
             category  = "news",
-        },
-        {
-            timestamp = 1783261988,
-            title     = "Fun to Play, But Has Some Baggage - Enhancement Shaman Class Changes and Tier Set Review",
-            body      = "Our Enhancement Shaman writer, Wordup, discusses the Patch 12.1 changes and how the overall spec is fun to play, but has some issues that have remained since the Midnight Beta. Continue reading »",
-            url       = "https://www.wowhead.com/news=382092/fun-to-play-but-has-some-baggage-enhancement-shaman-class-changes-and-tier-set",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783195213,
-            title     = "Great Spec Changes But Lacking Otherwise - Assassination Rogue Class Changes and Tier Set Review",
-            body      = "Our Assassination Rogue writer, Whispyr, discusses changes to resource economy, reworked and new talents, and the missed opportunities of the patch. Continue reading »",
-            url       = "https://www.wowhead.com/news=382079/great-spec-changes-but-lacking-otherwise-assassination-rogue-class-changes-and",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783192426,
-            title     = "Last Chance to Stock Up on Midsummer Food Before the Event Ends July 5th - TBC Anniversary",
-            body      = "With just one day left of the Midsummer Fire Festival, today is the last day that players can obtain their item level 128 Necklaces and stock up on the limited-time consumables! Continue reading »",
-            url       = "https://www.wowhead.com/news=382088/last-chance-to-stock-up-on-midsummer-food-before-the-event-ends-july-5th-tbc",
-            category  = "event",
-        },
-        {
-            timestamp = 1783174122,
-            title     = "Put Pepe in Your Player Home in Patch 12.1",
-            body      = "Players can now bring their best bird friend home with the new Mechanically Indistinguishable Pepe decor in Patch 12.1! Continue reading »",
-            url       = "https://www.wowhead.com/news=382070/put-pepe-in-your-player-home-in-patch-12-1",
-            category  = "patch",
         },
     },
 }
