@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-12T08:25:26Z",
+        generated_at = "2026-07-13T09:37:50Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783900586,
+            title     = "A Reduction in Defensives? - Frost Mage Class Changes and Tier Set Review",
+            body      = "Our Frost Mage guide writer, Dorovon, discusses how the changes to the spec may actually lead to Frost Mage feeling weaker defensively, and how the TIer Set could lead to some unintended gameplay. Continue reading »",
+            url       = "https://www.wowhead.com/news=382151/a-reduction-in-defensives-frost-mage-class-changes-and-tier-set-review",
+            category  = "news",
+        },
+        {
+            timestamp = 1783879356,
+            title     = "The Unfinished Secrets of Azshara & How They Might Fit Into Classic+",
+            body      = "With 15 unused quests, an unfinished Battleground, and several other mysteries, the zone of Azshara could use a revamp in a future version of Classic. Continue reading »",
+            url       = "https://www.wowhead.com/news=382149/the-unfinished-secrets-of-azshara-and-how-they-might-fit-into-classic",
+            category  = "news",
+        },
+        {
+            timestamp = 1783879230,
+            title     = "Earn a Scholarship Through WoW Achievements at the University of Silicon Valley",
+            body      = "The University of Silicon Valley has unveiled the Max Achievement Scholarship, recognizing students who have demonstrated extraordinary mastery, persistence, and systems thinking through the completion of rare and demanding achievements in digital gaming environments... including World of Warcraft! Continue reading »",
+            url       = "https://www.wowhead.com/news=382147/earn-a-scholarship-through-wow-achievements-at-the-university-of-silicon-valley",
+            category  = "news",
+        },
+        {
+            timestamp = 1783863436,
+            title     = "Unlock Large Exteriors at Player Housing Level 12 in Patch 12.1",
+            body      = "Large-size exterior houses for Human, Night Elf, Orc, and Blood Elf styles become available upon reaching Housing Level 12 in Patch 12.1, allowing players to make their home bigger and better than ever before! Continue reading »",
+            url       = "https://www.wowhead.com/news=382148/unlock-large-exteriors-at-player-housing-level-12-in-patch-12-1",
+            category  = "patch",
+        },
         {
             timestamp = 1783807242,
             title     = "Ion Hazzikostas Interview with PCGamesN - WoW in 2026",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "Xbox Announces Restructure - ~1,600 Role Eliminations Today",
             body      = "Xbox has announced that they are undergoing a significant restructure and will be reducing the team by 1,600 today and 3,200 through FY27. Continue reading »",
             url       = "https://www.wowhead.com/news=382097/xbox-announces-restructure-1-600-role-eliminations-today",
-            category  = "news",
-        },
-        {
-            timestamp = 1783346400,
-            title     = "8-Hour Maintenance Scheduled for July 7th - The Burning Crusade Anniversary",
-            body      = "Update: as of 9:45 am PDT, servers are live and include the new Nameplate options from PTR. Continue reading »",
-            url       = "https://www.wowhead.com/news=382090/8-hour-maintenance-scheduled-for-july-7th-the-burning-crusade-anniversary",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783344757,
-            title     = "Cancelaura-ing Beast Cleave Due to Tier Bonus - Beast Mastery Hunter Class Changes and Tier Set Review",
-            body      = "Our Beast Mastery Hunter guide writer, Tarlo, discusses how the Tier Set for Beast Mastery will cause players to want to /cancelaura Beast Cleave in certain circumstances, and explain how all of these changes impact Dark Ranger. Continue reading »",
-            url       = "https://www.wowhead.com/news=382096/cancelaura-ing-beast-cleave-due-to-tier-bonus-beast-mastery-hunter-class-changes",
-            category  = "news",
-        },
-        {
-            timestamp = 1783292441,
-            title     = "A Very Controversial 4-Set - Retribution Paladin Class Changes and Tier Set Review",
-            body      = "Our Retribution Paladin class writer, Bolas, discusses the Holy Power economy changes for in Patch 12.1 as well as the controversial 4-set Tier Bonus. Continue reading »",
-            url       = "https://www.wowhead.com/news=382093/a-very-controversial-4-set-retribution-paladin-class-changes-and-tier-set-review",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783274429,
-            title     = "He Ran Across the Continent of Kalimdor Just to See How Big It Really Is",
-            body      = "As a follow-up to his previous video, WoW Classic content creator and map explorer, 720 Zone, is back to show us just how big the continent of Kalimdor really is. Continue reading »",
-            url       = "https://www.wowhead.com/news=382089/he-ran-across-the-continent-of-kalimdor-just-to-see-how-big-it-really-is",
             category  = "news",
         },
     },
