@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-13T09:37:50Z",
+        generated_at = "2026-07-14T08:18:10Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1783979258,
+            title     = "Season of Discovery Community Fresh Event Extended By Two Additional Endgame Phases",
+            body      = "The Season of Discovery community fresh event is being extended to include two additional endgame Phases! Continue reading »",
+            url       = "https://www.wowhead.com/news=382162/season-of-discovery-community-fresh-event-extended-by-two-additional-endgame",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783978083,
+            title     = "Patch 12.1 PTR News and Datamining Recap for Last Week - Build 68570",
+            body      = "Learn about what you missed from last week's Patch 12.1 PTR update in our news and datamining recap! Continue reading »",
+            url       = "https://www.wowhead.com/news=382158/patch-12-1-ptr-news-and-datamining-recap-for-last-week-build-68570",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783965740,
+            title     = "Should Classic+ Include Optimized Flight Paths From The Burning Crusade?",
+            body      = "The Burning Crusade added more Flight Points and optimized Flight Paths to the world of Azeroth. Should Blizzard include these changes in Classic+? Continue reading »",
+            url       = "https://www.wowhead.com/news=382154/should-classic-include-optimized-flight-paths-from-the-burning-crusade",
+            category  = "news",
+        },
+        {
+            timestamp = 1783964339,
+            title     = "More Mythic Venomous Abyss Raid Testing on July 16th",
+            body      = "Blizzard has updated the raid test schedule with four more Mythic encounters from The Venomous Abyss this Thursday on the Patch 12.1 PTR! Continue reading »",
+            url       = "https://www.wowhead.com/news=382157/more-mythic-venomous-abyss-raid-testing-on-july-16th",
+            category  = "patch",
+        },
+        {
+            timestamp = 1783955700,
+            title     = "The Big Haranir Revelation - Does It Make Sense?",
+            body      = "Patch 12.0.7 reveals that the elves and trolls are all related to each other through the Haranir -- but is that really a revelation? Here, we break down all the details of this reveal, and how it might matter to these groups. Continue reading »",
+            url       = "https://www.wowhead.com/news=382153/the-big-haranir-revelation-does-it-make-sense",
+            category  = "patch",
+        },
         {
             timestamp = 1783900586,
             title     = "A Reduction in Defensives? - Frost Mage Class Changes and Tier Set Review",
@@ -60,8 +95,8 @@ Returner_Data = {
         },
         {
             timestamp = 1783776431,
-            title     = "Haranir and Amani Murals as Player Housing Decor on Patch 12.1 PTR",
-            body      = "Player housing enthusiasts will be able to decorate their homes with huge new wall-spanning murals of Amani and Haranir origin in Patch 12.1! Continue reading »",
+            title     = "Amani Murals as Player Housing Decor on Patch 12.1 PTR",
+            body      = "Player housing enthusiasts will be able to decorate their homes with huge new wall-spanning murals of Amani origin in Patch 12.1! Continue reading »",
             url       = "https://www.wowhead.com/news=382138/haranir-and-amani-murals-as-player-housing-decor-on-patch-12-1-ptr",
             category  = "patch",
         },
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "Chapter 1 of the Patch 12.1 Campaign is now live. The campaign has two new cutscenes and awards a new mount and pet! Continue reading »",
             url       = "https://www.wowhead.com/news=382105/chapter-1-of-curse-of-ulatek-patch-12-1-campaign-now-live",
             category  = "patch",
-        },
-        {
-            timestamp = 1783434810,
-            title     = "Patch 12.1 PTR News and Datamining Recap for Last Week - Build 68412",
-            body      = "Learn about what you missed from last week's Patch 12.1 PTR update in our news and datamining recap! Continue reading »",
-            url       = "https://www.wowhead.com/news=382104/patch-12-1-ptr-news-and-datamining-recap-for-last-week-build-68412",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783432800,
-            title     = "Specializations That Need Changes in Classic+",
-            body      = "Ahead of BlizzCon 2026, hype is building around what could be the next version of WoW Classic, and players are discussing which Classes and Specializations deserve changes. Continue reading »",
-            url       = "https://www.wowhead.com/news=382094/specializations-that-need-changes-in-classic",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783383311,
-            title     = "Only Minimal Reductions at Blizzard Entertainment after Xbox Layoffs... for Now",
-            body      = "Blizzard has seen comparatively minimal reductions and BlizzCon hasn't been cancelled after sweeping cuts across Xbox today, though a note from President Johanna Faries promising more information to come suggests more changes on the horizon. Continue reading »",
-            url       = "https://www.wowhead.com/news=382100/only-minimal-reductions-at-blizzard-entertainment-after-xbox-layoffs-for-now",
-            category  = "news",
-        },
-        {
-            timestamp = 1783360879,
-            title     = "This Player Reached Level 60 on Hardcore Self-Found With Every Class, Here's How",
-            body      = "A Classic Hardcore Self-Found player recently completed their goal of reaching level 60 on every Class in the game. Here are their tips! Continue reading »",
-            url       = "https://www.wowhead.com/news=382091/this-player-reached-level-60-on-hardcore-self-found-with-every-class-heres-how",
-            category  = "news",
-        },
-        {
-            timestamp = 1783350449,
-            title     = "Xbox Announces Restructure - ~1,600 Role Eliminations Today",
-            body      = "Xbox has announced that they are undergoing a significant restructure and will be reducing the team by 1,600 today and 3,200 through FY27. Continue reading »",
-            url       = "https://www.wowhead.com/news=382097/xbox-announces-restructure-1-600-role-eliminations-today",
-            category  = "news",
         },
     },
 }
