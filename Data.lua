@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-15T08:23:31Z",
+        generated_at = "2026-07-16T08:22:42Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1784164304,
+            title     = "Create Your Own Aquarium with Enchanted Voidwell Fish in Patch 12.1",
+            body      = "If pepes and pet beds aren't enough, enchanters can create fully articulated enchanted voidwell fish in Patch 12.1, adding even more life to your player home! Continue reading »",
+            url       = "https://www.wowhead.com/news=382159/create-your-own-aquarium-with-enchanted-voidwell-fish-in-patch-12-1",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784154238,
+            title     = "Defeat Ral'kala Fifty Times to Earn Special Prey Achievement in Patch 12.1",
+            body      = "Ral'kala, Terror of the Isle is a special Nightmare difficulty Prey encounter in Patch 12.1, which must be summoned and defeated 50 times to unlock an achievement! Continue reading »",
+            url       = "https://www.wowhead.com/news=382164/defeat-ralkala-fifty-times-to-earn-special-prey-achievement-in-patch-12-1",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784134813,
+            title     = "Player Housing Jukebox Decor Datamined",
+            body      = "Although not yet available on the Patch 12.1 PTR, the recently datamined Tune-O-Tron 6000 decor suggests that a personal jukebox may be coming to player housing! Continue reading »",
+            url       = "https://www.wowhead.com/news=382160/player-housing-jukebox-decor-datamined",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784109600,
+            title     = "Season of Discovery Community Fresh Event Phase 4 Compendium",
+            body      = "The first endgame Phase for the Season of Discovery Community Fresh Event is now live, allowing players to reach level 60 and enter their first raids! Continue reading »",
+            url       = "https://www.wowhead.com/news=382178/season-of-discovery-community-fresh-event-phase-4-compendium",
+            category  = "patch",
+        },
         {
             timestamp = 1784083945,
             title     = "Patch 12.1 PTR Datamined Class and Tier Set Changes - Warlock, Shadow Priest, Survival Hunter",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "We're happy to share some of the new features coming to Wowhead for Premium users, as well as some new additions for all logged-in users. Continue reading »",
             url       = "https://www.wowhead.com/news=382068/new-features-on-wowhead-news-filters-pinned-pages-and-more",
             category  = "news",
-        },
-        {
-            timestamp = 1783625743,
-            title     = "Additional Nerfs to King's Rest and Ruby Life Pools On Patch 12.1 PTR",
-            body      = "Blizzard has applied some quick hotfixes to King's Rest and Ruby Life Pools on the Patch 12.1 PTR. Continue reading »",
-            url       = "https://www.wowhead.com/news=382135/additional-nerfs-to-kings-rest-and-ruby-life-pools-on-patch-12-1-ptr",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1783620102,
-            title     = "What the Original Map of Eastern Kingdoms Could Tell Us About Classic+",
-            body      = "The original map of the Eastern Kingdoms shows content that was never released in Vanilla, including the Dragon Isles, Karazhan, Outland, and the Black Temple! Continue reading »",
-            url       = "https://www.wowhead.com/news=382102/what-the-original-map-of-eastern-kingdoms-could-tell-us-about-classic",
-            category  = "news",
-        },
-        {
-            timestamp = 1783615007,
-            title     = "Mythic+ Top 1% and 0.1% Score Cutoff History & Prediction Website",
-            body      = "Xephyris of Warcraft Logs has created a website tracking Mythic+ 1% and 0.1% score cutoff history and estimating future breakpoints over the coming weeks, helping players predict whether they will be in the running to earn one of the prestigious rewards. Continue reading »",
-            url       = "https://www.wowhead.com/news=382122/mythic-top-1-and-0-1-score-cutoff-history-and-prediction-website",
-            category  = "news",
-        },
-        {
-            timestamp = 1783558856,
-            title     = "New Housing Exteriors and Artisanal Room Interiors Discovered on the Patch 12.1 PTR",
-            body      = "Though not yet available for testing, this week's Patch 12.1 PTR update includes two new exteriors and many artisanal room interiors for player housing! Continue reading »",
-            url       = "https://www.wowhead.com/news=382123/new-housing-exteriors-and-artisanal-room-interiors-discovered-on-the-patch-12-1",
-            category  = "patch",
         },
     },
 }
