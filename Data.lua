@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-18T08:00:59Z",
+        generated_at = "2026-07-19T08:26:56Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1784419245,
+            title     = "Additional Wooden Construction Decor on Patch 12.1",
+            body      = "A new neighborhood vendor on the Patch 12.1 PTR sells additional wooden tiles and columns, allowing players to construct new designs within player housing! Continue reading »",
+            url       = "https://www.wowhead.com/news=382179/additional-wooden-construction-decor-on-patch-12-1",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784403554,
+            title     = "Smaller Changes We'd Like to See in Classic+",
+            body      = "As \"leaks\" and rumors continue to ramp up ahead of BlizzCon in September, content creator WillE has shared some smaller changes that he would like to see in Classic+. Continue reading »",
+            url       = "https://www.wowhead.com/news=382206/smaller-changes-wed-like-to-see-in-classic",
+            category  = "news",
+        },
+        {
+            timestamp = 1784390445,
+            title     = "Season 2 Delve Boss Azta'rec Preview - Simon Says Memory Game Mechanic",
+            body      = "The Season 2 Delve Boss, Azta'rec, is available for testing on the 12.1 PTR and the encounter has a Simon Says memory game mechanic! Continue reading »",
+            url       = "https://www.wowhead.com/news=382197/season-2-delve-boss-aztarec-preview-simon-says-memory-game-mechanic",
+            category  = "patch",
+        },
         {
             timestamp = 1784350227,
             title     = "Upcoming PvP Class Tuning Incoming with Weekly Reset",
@@ -28,13 +49,6 @@ Returner_Data = {
             title     = "Claim Daily Bounties and Break The Meta with Raider.IO",
             body      = "Raider.IO's attempt to Break the Meta of Midnight Season 1 is in full swing, with its new daily bounties adding new a challenge to familiar keys! Continue reading »",
             url       = "https://www.wowhead.com/news=382202/claim-daily-bounties-and-break-the-meta-with-raider-io",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784336385,
-            title     = "Season 2 Delve Boss Azta'rec Preview - Simon Says Memory Game Mechanic",
-            body      = "The Season 2 Delve Boss, Azta'rec, is available for testing on the 12.1 PTR and the encounter has a Simon Says memory game mechanic! Continue reading »",
-            url       = "https://www.wowhead.com/news=382197/season-2-delve-boss-aztarec-preview-simon-says-memory-game-mechanic",
             category  = "patch",
         },
         {
@@ -274,20 +288,6 @@ Returner_Data = {
             body      = "The Burning Crusade added more Flight Points and optimized Flight Paths to the world of Azeroth. Should Blizzard include these changes in Classic+? Continue reading »",
             url       = "https://www.wowhead.com/news=382154/should-classic-include-optimized-flight-paths-from-the-burning-crusade",
             category  = "news",
-        },
-        {
-            timestamp = 1783964339,
-            title     = "More Mythic Venomous Abyss Raid Testing on July 16th",
-            body      = "Blizzard has updated the raid test schedule with four more Mythic encounters from The Venomous Abyss this Thursday on the Patch 12.1 PTR! Continue reading »",
-            url       = "https://www.wowhead.com/news=382157/more-mythic-venomous-abyss-raid-testing-on-july-16th",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783955700,
-            title     = "The Big Haranir Revelation - Does It Make Sense?",
-            body      = "Patch 12.0.7 reveals that the elves and trolls are all related to each other through the Haranir -- but is that really a revelation? Here, we break down all the details of this reveal, and how it might matter to these groups. Continue reading »",
-            url       = "https://www.wowhead.com/news=382153/the-big-haranir-revelation-does-it-make-sense",
-            category  = "patch",
         },
     },
 }
