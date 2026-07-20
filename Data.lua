@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-19T08:26:56Z",
+        generated_at = "2026-07-20T09:25:36Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1784498416,
+            title     = "The Weekly Reset with Taliesin and Evitel: Everyone Was Wrong About the Haranir Reveal...",
+            body      = "This week, Taliesin and Evitel covered the latest Haranir cinematic, the recently datamined Artisanal Interior Rooms, an interview with Ion Hazzikostas, and more! Continue reading »",
+            url       = "https://www.wowhead.com/news=382209/the-weekly-reset-with-taliesin-and-evitel-everyone-was-wrong-about-the-haranir",
+            category  = "news",
+        },
+        {
+            timestamp = 1784484444,
+            title     = "How Quel'thalas & Northern Lordaeron Could Fit Into Classic+",
+            body      = "The Ghostlands & Eversong Woods were recently redesigned in the Midnight expansion, but what could these zones look like in the next version of Classic? Continue reading »",
+            url       = "https://www.wowhead.com/news=382210/how-quelthalas-and-northern-lordaeron-could-fit-into-classic",
+            category  = "news",
+        },
+        {
+            timestamp = 1784477164,
+            title     = "First Look at New Temple of Sethraliss in Mythic+ Season 2",
+            body      = "Temple of Sethraliss received some large reworks in preparation for Midnight Season 2. Here's a breakdown of the major changes to the dungeon and how Blizzard addressed old problem points. Continue reading »",
+            url       = "https://www.wowhead.com/news=382156/first-look-at-new-temple-of-sethraliss-in-mythic-season-2",
+            category  = "patch",
+        },
         {
             timestamp = 1784419245,
             title     = "Additional Wooden Construction Decor on Patch 12.1",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "What is Classic+?",
             body      = "While no one can quite agree on what Classic+ is, we've compiled all of the relevant speculation, evidence, and datamining into one comprehensive Guide. Continue reading »",
             url       = "https://www.wowhead.com/news=382163/what-is-classic",
-            category  = "news",
-        },
-        {
-            timestamp = 1783979258,
-            title     = "Season of Discovery Community Fresh Event Extended By Two Additional Endgame Phases",
-            body      = "The Season of Discovery community fresh event is being extended to include two additional endgame Phases! Continue reading »",
-            url       = "https://www.wowhead.com/news=382162/season-of-discovery-community-fresh-event-extended-by-two-additional-endgame",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783978083,
-            title     = "Patch 12.1 PTR News and Datamining Recap for Last Week - Build 68570",
-            body      = "Learn about what you missed from last week's Patch 12.1 PTR update in our news and datamining recap! Continue reading »",
-            url       = "https://www.wowhead.com/news=382158/patch-12-1-ptr-news-and-datamining-recap-for-last-week-build-68570",
-            category  = "patch",
-        },
-        {
-            timestamp = 1783965740,
-            title     = "Should Classic+ Include Optimized Flight Paths From The Burning Crusade?",
-            body      = "The Burning Crusade added more Flight Points and optimized Flight Paths to the world of Azeroth. Should Blizzard include these changes in Classic+? Continue reading »",
-            url       = "https://www.wowhead.com/news=382154/should-classic-include-optimized-flight-paths-from-the-burning-crusade",
             category  = "news",
         },
     },
