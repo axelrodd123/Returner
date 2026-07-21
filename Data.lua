@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-20T09:25:36Z",
+        generated_at = "2026-07-21T08:37:30Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1784597092,
+            title     = "New Combat Potions and Consumables in Patch 12.1",
+            body      = "Players will have more consumables to choose from in Patch 12.1, including a better health potion and a couple new combat potions! Continue reading »",
+            url       = "https://www.wowhead.com/news=382192/new-combat-potions-and-consumables-in-patch-12-1",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784576697,
+            title     = "(Spoilers) Datamined Cinematic Text from 12.1 PTR Potentially Shows Xal'atath Motivations",
+            body      = "From the 12.1 PTR, text of a Patch 12.1 Epilogue scene has been datamined. Spoilers ahead. Continue reading »",
+            url       = "https://www.wowhead.com/news=382215/spoilers-datamined-cinematic-text-from-12-1-ptr-potentially-shows-xalatath",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784559136,
+            title     = "First Look at New Ruby Life Pools in Mythic+ Season 2",
+            body      = "Ruby Life Pools is returning in Midnight Season 2, and here's a preview of the upcoming dungeon and changes! Continue reading »",
+            url       = "https://www.wowhead.com/news=382213/first-look-at-new-ruby-life-pools-in-mythic-season-2",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784556000,
+            title     = "8-Hour Maintenance Scheduled for July 21st - Classic Era, Hardcore, & Season of Discovery",
+            body      = "Blizzard has announced an 8-hour maintenance scheduled for 7:00 am PDT on July 21st for all Classic, Hardcore, & Season of Discovery servers. Continue reading »",
+            url       = "https://www.wowhead.com/news=382211/8-hour-maintenance-scheduled-for-july-21st-classic-era-hardcore-and-season-of",
+            category  = "patch",
+        },
         {
             timestamp = 1784498416,
             title     = "The Weekly Reset with Taliesin and Evitel: Everyone Was Wrong About the Haranir Reveal...",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "New Moth Mount & Pet on the Battle.net Store - Mists of Pandaria Classic",
             body      = "There's a new Moth mount and pet available on the Mists of Pandaria Classic Store as part of Subscription Offers and as standalone purchase options! Continue reading »",
             url       = "https://www.wowhead.com/news=382168/new-moth-mount-and-pet-on-the-battle-net-store",
-            category  = "news",
-        },
-        {
-            timestamp = 1784049072,
-            title     = "New 6-Month Subscription Mount: Sunflare Driftmoth",
-            body      = "A new 6-month subscription mount is available on live servers, the Sunflare Driftmoth! Continue reading »",
-            url       = "https://www.wowhead.com/news=382167/new-6-month-subscription-mount-sunflare-driftmoth",
-            category  = "news",
-        },
-        {
-            timestamp = 1784047272,
-            title     = "Complete World Quests in Naigtal to Finish the Omnium Folio",
-            body      = "All nodes in the Omnium Folio are now available and players will be completing Naigtal World Quests to claim the final node this week. Continue reading »",
-            url       = "https://www.wowhead.com/news=382166/complete-world-quests-in-naigtal-to-finish-the-omnium-folio",
-            category  = "news",
-        },
-        {
-            timestamp = 1784044074,
-            title     = "Third Week of Turbulent Timeways - Final Week to Start for Mount",
-            body      = "With the weekly reset, the third week of Turbulent Timeways V is now live with Shadowlands Timewalking. If you haven't started progress towards the mount, this the final week that you can start and still get the mount. Continue reading »",
-            url       = "https://www.wowhead.com/news=382165/third-week-of-turbulent-timeways-final-week-to-start-for-mount",
-            category  = "news",
-        },
-        {
-            timestamp = 1784037600,
-            title     = "What is Classic+?",
-            body      = "While no one can quite agree on what Classic+ is, we've compiled all of the relevant speculation, evidence, and datamining into one comprehensive Guide. Continue reading »",
-            url       = "https://www.wowhead.com/news=382163/what-is-classic",
             category  = "news",
         },
     },
