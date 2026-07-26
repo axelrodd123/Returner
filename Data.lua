@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-25T08:14:51Z",
+        generated_at = "2026-07-26T08:33:44Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1785036479,
+            title     = "In Game Map Coordinates Added to Base UI in Patch 12.1",
+            body      = "Player and cursor coordinates have been added to the world map as part of the default user interface in the Patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=382255/in-game-map-coordinates-added-to-base-ui-in-patch-12-1",
+            category  = "patch",
+        },
+        {
+            timestamp = 1784997057,
+            title     = "The Mediocre Berserker - Fury Warrior Class Review of Patch 12.1",
+            body      = "Fury Warriors have had received a few big changes on the Patch 12.1 PTR, including some exciting new gameplay options, though they remain a jack of all trades that doesn't really excel anywhere. Continue reading »",
+            url       = "https://www.wowhead.com/news=382219/the-mediocre-berserker-fury-warrior-class-review-of-patch-12-1",
+            category  = "patch",
+        },
         {
             timestamp = 1784944545,
             title     = "Complicit Individuals in GM Assisted Mythic+ Key Allegedly Get 1 Month Ban",
@@ -273,20 +287,6 @@ Returner_Data = {
             title     = "New Combat Potions and Consumables in Patch 12.1",
             body      = "Players will have more consumables to choose from in Patch 12.1, including a better health potion and a couple new combat potions! Continue reading »",
             url       = "https://www.wowhead.com/news=382192/new-combat-potions-and-consumables-in-patch-12-1",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784576697,
-            title     = "(Spoilers) Datamined Cinematic Text from 12.1 PTR Potentially Shows Xal'atath Motivations",
-            body      = "From the 12.1 PTR, text of a Patch 12.1 Epilogue scene has been datamined. Spoilers ahead. Continue reading »",
-            url       = "https://www.wowhead.com/news=382215/spoilers-datamined-cinematic-text-from-12-1-ptr-potentially-shows-xalatath",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784559136,
-            title     = "First Look at New Ruby Life Pools in Mythic+ Season 2",
-            body      = "Ruby Life Pools is returning in Midnight Season 2, and here's a preview of the upcoming dungeon and changes! Continue reading »",
-            url       = "https://www.wowhead.com/news=382213/first-look-at-new-ruby-life-pools-in-mythic-season-2",
             category  = "patch",
         },
     },
