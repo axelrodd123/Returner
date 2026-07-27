@@ -4,11 +4,18 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-26T08:33:44Z",
+        generated_at = "2026-07-27T10:00:50Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1785080332,
+            title     = "Level 80 Through 90 in Around 2 Hours With Turbulent Timeways",
+            body      = "Want to level up quickly before Patch 12.1? There's a strategy to get your characters from 80 to 90 in just a couple hours! Continue reading »",
+            url       = "https://www.wowhead.com/news=382257/level-through-midnight-fast-with-turbulent-timeways",
+            category  = "patch",
+        },
         {
             timestamp = 1785036479,
             title     = "In Game Map Coordinates Added to Base UI in Patch 12.1",
@@ -281,13 +288,6 @@ Returner_Data = {
             body      = "A 2004 interview with Jeff Kaplan has resurfaced, in which he discusses some of the planned World Events in World of Warcraft that never made the cut. Continue reading »",
             url       = "https://www.wowhead.com/news=382218/world-events-that-were-cut-from-vanilla",
             category  = "event",
-        },
-        {
-            timestamp = 1784597092,
-            title     = "New Combat Potions and Consumables in Patch 12.1",
-            body      = "Players will have more consumables to choose from in Patch 12.1, including a better health potion and a couple new combat potions! Continue reading »",
-            url       = "https://www.wowhead.com/news=382192/new-combat-potions-and-consumables-in-patch-12-1",
-            category  = "patch",
         },
     },
 }
