@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-07-27T10:00:50Z",
+        generated_at = "2026-07-28T08:43:58Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1785203629,
+            title     = "Patch 12.1 PTR News and Datamining Recap for Last Week - Build 68914",
+            body      = "Read all about what you missed from last week's Patch 12.1 PTR update in our news and datamining recap! Continue reading »",
+            url       = "https://www.wowhead.com/news=382284/patch-12-1-ptr-news-and-datamining-recap-for-last-week-build-68914",
+            category  = "patch",
+        },
+        {
+            timestamp = 1785198213,
+            title     = "Blood Death Knight Apex Talent Hotfixed to Reduce Damage Taken",
+            body      = "Blizzard has reported that a bug causing the Blood Death Knight apex talent has been hotfixed to reduce damage taken as intended, instead of mistakenly increasing it. Continue reading »",
+            url       = "https://www.wowhead.com/news=382285/blood-death-knight-apex-talents-hotfix",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1785189276,
+            title     = "Dark Legacy Comics Announces The End for Now After 1,000 Comics and 20 Years",
+            body      = "Having published their 1,000th comic over a continuous 20 year run, Dark Legacy Comics has announced an end to its World of Warcraft comics... at least for a while. Continue reading »",
+            url       = "https://www.wowhead.com/news=382279/dark-legacy-comics-announces-the-end-for-now-after-1-000-comics-and-20-years",
+            category  = "news",
+        },
+        {
+            timestamp = 1785175035,
+            title     = "Encrypted Patch 12.1.5 Build Now on Vendor Servers",
+            body      = "Patch 12.1 doesn't have an official release date yet, but it seems a Patch 12.1.5 PTR might be coming soon with an encrypted patch now on vendor servers! Continue reading »",
+            url       = "https://www.wowhead.com/news=382282/encrypted-patch-12-1-5-build-now-on-vendor-servers",
+            category  = "patch",
+        },
+        {
+            timestamp = 1785173609,
+            title     = "Beware of the Underground Enemies in Stonetalon Mountains",
+            body      = "Low-level hardcore characters should avoid the Boulderslide Ravine in Stonetalon Mountains, as the latest patch spawned several mobs underground that can kill your character. Continue reading »",
+            url       = "https://www.wowhead.com/news=382280/beware-of-the-underground-enemies-in-stonetalon-mountains",
+            category  = "patch",
+        },
+        {
+            timestamp = 1785170160,
+            title     = "Final Fantasy Taking Inspiration from WoW Player Housing",
+            body      = "Final Fantasy XIV Director Naoki Yoshida revealed that World of Warcraft's player housing has been a source of research for future improvement of their own game systems! Continue reading »",
+            url       = "https://www.wowhead.com/news=382278/final-fantasy-taking-inspiration-from-wow-player-housing",
+            category  = "news",
+        },
         {
             timestamp = 1785080332,
             title     = "Level 80 Through 90 in Around 2 Hours With Turbulent Timeways",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "A log alleges that some insta-kill spells may have been used in a +23 Nexus Point Xe'nas key. Continue reading »",
             url       = "https://www.wowhead.com/news=382228/alleged-cheating-in-23-nexus-point-xenas-log",
             category  = "news",
-        },
-        {
-            timestamp = 1784672201,
-            title     = "Midnight Season 2 Mythic+ Dungeon Test & Tuning from July 21st - 27th",
-            body      = "Blizzard has announced further tuning for Ruby Life Pools and Temple of Sethraliss, alongside a full week of Mythic+ dungeon testing on the Patch 12.1 PTR! Continue reading »",
-            url       = "https://www.wowhead.com/news=382227/midnight-season-2-mythic-dungeon-test-and-tuning-from-july-21st-27th",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784669823,
-            title     = "S-Tier Bugs - Arms Warrior Class Review of Patch 12.1",
-            body      = "By now, most players know that Arms Warriors are performing very well on the Patch 12.1 PTR, but what they might not know is how beset it is by buggy behavior. Continue reading »",
-            url       = "https://www.wowhead.com/news=382216/s-tier-bugs-arms-warrior-class-review-of-patch-12-1",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784657644,
-            title     = "Fourth Week of Turbulent Timeways - Classic Timewalking",
-            body      = "With the weekly reset, the fourth week of Turbulent Timeways V is now live with Classic Timewalking. Continue reading »",
-            url       = "https://www.wowhead.com/news=382222/fourth-week-of-turbulent-timeways-classic-timewalking",
-            category  = "news",
-        },
-        {
-            timestamp = 1784654605,
-            title     = "Decor Duels No Longer Available in Patch 12.1 - Double Currency Now Available",
-            body      = "Blizzard has announced that Decor Duels will no longer be available in Patch 12.1 -- until then, players will earn double the rate of the Illusionary Coins currency! Continue reading »",
-            url       = "https://www.wowhead.com/news=382221/decor-duels-no-longer-available-in-patch-12-1-double-currency-how",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784646878,
-            title     = "Patch 12.1 PTR News and Datamining Recap for Last Week - Build 68629",
-            body      = "Read all about what you missed from last week's Patch 12.1 PTR update in our news and datamining recap! Continue reading »",
-            url       = "https://www.wowhead.com/news=382220/patch-12-1-ptr-news-and-datamining-recap-for-last-week-build-68629",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784642400,
-            title     = "World Events That Were Cut From Vanilla",
-            body      = "A 2004 interview with Jeff Kaplan has resurfaced, in which he discusses some of the planned World Events in World of Warcraft that never made the cut. Continue reading »",
-            url       = "https://www.wowhead.com/news=382218/world-events-that-were-cut-from-vanilla",
-            category  = "event",
         },
     },
 }
