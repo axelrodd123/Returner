@@ -4,15 +4,29 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-01T08:28:00Z",
+        generated_at = "2026-08-02T08:30:50Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
         {
+            timestamp = 1785617940,
+            title     = "Achievement Panel Back Button Added in Patch 12.1",
+            body      = "Patch 12.1 has added a back button to the achievement panel, allowing players to return to previous selections, though it doesn't work quite the way some people think it should. Continue reading »",
+            url       = "https://www.wowhead.com/news=382313/achievement-back-button-doesnt-work-the-way-you-think-it-should",
+            category  = "patch",
+        },
+        {
+            timestamp = 1785597145,
+            title     = "Unlock New Warband Campsites from Weekly Quests in Patch 12.1",
+            body      = "Players can unlock two new Silvermoon City campsites by completing weekly quests in Patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=382316/unlock-new-warband-campsites-from-weekly-quests-in-patch-12-1",
+            category  = "patch",
+        },
+        {
             timestamp = 1785546491,
             title     = "No Bonus Rolls from First Season 2 Great Vault - More Season 2 Unlock Information",
-            body      = "Blizzard has posted more information on the end of Season 1 and the start of Season 2, noting that Bonus Rolls will not be available form the first Season 2 Great Vault. Continue reading »",
+            body      = "Blizzard has posted more information on the end of Season 1 and the start of Season 2, noting that Bonus Rolls will not be available from the first Season 2 Great Vault. Continue reading »",
             url       = "https://www.wowhead.com/news=382333/no-bonus-rolls-from-first-season-2-great-vault-more-season-2-unlock-information",
             category  = "patch",
         },
@@ -274,20 +288,6 @@ Returner_Data = {
             body      = "Fury Warriors have had received a few big changes on the Patch 12.1 PTR, including some exciting new gameplay options, though they remain a jack of all trades that doesn't really excel anywhere. Continue reading »",
             url       = "https://www.wowhead.com/news=382219/the-mediocre-berserker-fury-warrior-class-review-of-patch-12-1",
             category  = "patch",
-        },
-        {
-            timestamp = 1784944545,
-            title     = "Complicit Individuals in GM Assisted Mythic+ Key Allegedly Get 1 Month Ban",
-            body      = "According to a Jdotb tweet, one of the complicit individuals in the recent GM Assisted Mythic+ key has received a 1 month ban. Continue reading »",
-            url       = "https://www.wowhead.com/news=382264/complicit-individuals-in-gm-assisted-mythic-key-get-alleged-1-month-ban",
-            category  = "news",
-        },
-        {
-            timestamp = 1784942515,
-            title     = "Possible Dungeons and Dragons Crossover with World of Warcraft",
-            body      = "Enworld has reported that a World of Warcraft crossover with Dungeons and Dragons may be announced soon. Continue reading »",
-            url       = "https://www.wowhead.com/news=382263/possible-dungeons-and-dragons-crossover-with-world-of-warcraft",
-            category  = "news",
         },
     },
 }
