@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-02T08:30:50Z",
+        generated_at = "2026-08-03T09:56:15Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1785711008,
+            title     = "Azra'tec Delve Boss Buffed on 12.1 PTR - Simon Says Memory Now Harder",
+            body      = "The Azra'tec Delve on ?? difficulty has been buffed recently on the Patch 12.1 PTR, increasing the number of memory game steps on each intermission, and preventing the strategy of completely ignoring it. Continue reading »",
+            url       = "https://www.wowhead.com/news=382336/azratec-delve-boss-buffed-on-12-1-ptr-simon-says-memory-now-harder",
+            category  = "patch",
+        },
+        {
+            timestamp = 1785687117,
+            title     = "New Default Indicator for Successful and Wasted Interrupts in Patch 12.1",
+            body      = "Among the UI updates coming in Patch 12.1, Blizzard has added a new indicator for missed interrupts. Continue reading »",
+            url       = "https://www.wowhead.com/news=382326/new-default-indicator-for-hit-and-missed-interrupts-in-patch-12-1",
+            category  = "patch",
+        },
         {
             timestamp = 1785617940,
             title     = "Achievement Panel Back Button Added in Patch 12.1",
@@ -273,20 +287,6 @@ Returner_Data = {
             title     = "Level 80 Through 90 in Around 2 Hours With Turbulent Timeways",
             body      = "Want to level up quickly before Patch 12.1? There's a strategy to get your characters from 80 to 90 in just a couple hours! Continue reading »",
             url       = "https://www.wowhead.com/news=382257/level-through-midnight-fast-with-turbulent-timeways",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785036479,
-            title     = "In Game Map Coordinates Added to Base UI in Patch 12.1",
-            body      = "Player and cursor coordinates have been added to the world map as part of the default user interface in the Patch 12.1! Continue reading »",
-            url       = "https://www.wowhead.com/news=382255/in-game-map-coordinates-added-to-base-ui-in-patch-12-1",
-            category  = "patch",
-        },
-        {
-            timestamp = 1784997057,
-            title     = "The Mediocre Berserker - Fury Warrior Class Review of Patch 12.1",
-            body      = "Fury Warriors have had received a few big changes on the Patch 12.1 PTR, including some exciting new gameplay options, though they remain a jack of all trades that doesn't really excel anywhere. Continue reading »",
-            url       = "https://www.wowhead.com/news=382219/the-mediocre-berserker-fury-warrior-class-review-of-patch-12-1",
             category  = "patch",
         },
     },
