@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.87 (2026-08-04)
+- Auto-updated news data from Blizzard WoW RSS feed
+
+
 ## 1.0.86 (2026-08-03)
 - Auto-updated news data from Blizzard WoW RSS feed
 
