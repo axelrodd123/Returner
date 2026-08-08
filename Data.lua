@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-07T07:24:23Z",
+        generated_at = "2026-08-08T07:01:44Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1786149282,
+            title     = "Jimothy Added in Latest Patch 12.1 PTR Build",
+            body      = "Jimothy has been added to the latest Patch 12.1 PTR build! Continue reading »",
+            url       = "https://www.wowhead.com/news=382381/jimothy-added-in-latest-patch-12-1-ptr-build",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786140545,
+            title     = "More Season 2 Mythic+ Dungeon Tuning - Ruby Life Pools and Temple Changes",
+            body      = "Blizzard has announced lots more Season 2 Mythic+ dungeon tuning which includes large changes to Ruby Life Pools of Temple of Sethraliss! Continue reading »",
+            url       = "https://www.wowhead.com/news=382379/more-season-2-mythic-dungeon-tuning-ruby-life-pools-and-temple-changes",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786131177,
+            title     = "Blizzard Interview with Icy Veins, Raider.IO and Wowhead - Interrupt Trackers, Visual Clarity, Addons",
+            body      = "Wowhead, Icy Veins and Raider.IO teamed up in an interview with Andrew De Sousa, and Taylor Sanders to discuss interrupt trackers, how the removal of computational addons has gone, the visual clarity improvements and more! Continue reading »",
+            url       = "https://www.wowhead.com/news=382376/blizzard-interview-with-icy-veins-raider-io-and-wowhead-interrupt-trackers",
+            category  = "news",
+        },
+        {
+            timestamp = 1786131110,
+            title     = "Blizzard Interview with Icy Veins, Raider.IO and Wowhead for Patch 12.1 - Class Tuning, Myth 9/6",
+            body      = "Wowhead, Icy Veins and Raider.IO teamed up in an interview with Paul Kubit, and Rachel Vought, to discuss a class tuning roadmap, Mythic raiding dropping Myth 9/6 loot, Bonus Rolls in Vault, the Coiled Isle and more! Continue reading »",
+            url       = "https://www.wowhead.com/news=382375/blizzard-interview-with-icy-veins-raider-io-and-wowhead-for-patch-12-1-class",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786123973,
+            title     = "WoW Weekly: Curse of Ula'tek, Twitch Drops, Decor Duels, WoW Portal Room, and More!",
+            body      = "This week, Blizzard revealed all of the new content, features, and quality-of-life improvements coming in Patch 12.1 - Curse of Ula'tek, which launches August 11th! Continue reading »",
+            url       = "https://www.wowhead.com/news=382374/wow-weekly-curse-of-ulatek-twitch-drops-decor-duels-wow-portal-room-and-more",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786110823,
+            title     = "View Your Midnight Season 1 Recap Courtesy of Raider.IO",
+            body      = "Reveal your Midnight identity with personalized recaps from Raider.IO, detailing all of your dungeon and raid accomplishments in Midnight Season 1, alongside new quiz questions to see how well you know yourself! Continue reading »",
+            url       = "https://www.wowhead.com/news=382373/view-your-midnight-season-1-recap-courtesy-of-raider-io",
+            category  = "patch",
+        },
         {
             timestamp = 1786057101,
             title     = "First Instance of Patch 1.60.1 Detected on Blizzard's Developer Server - Project Camelot Update",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "Blizzard has posted class tuning and dev notes for the Patch 12.1 PTR which includes Rogue Aura buffs! Edit: Omnium Folio skip added. Continue reading »",
             url       = "https://www.wowhead.com/news=382322/patch-12-1-ptr-class-tuning-and-dev-notes-for-july-31st-rogue-aura-buffs",
             category  = "patch",
-        },
-        {
-            timestamp = 1785522466,
-            title     = "Patch 12.1 PTR Hotfixes - Freightrunners Nerfed and Small Class Tuning",
-            body      = "Last night, a few hotfixes were pushed to the Patch 12.1 PTR which nerfs the Freightrunners trinket, and applies a little class tuning. Continue reading »",
-            url       = "https://www.wowhead.com/news=382321/patch-12-1-ptr-hotfixes-freightrunners-nerfed-and-small-class-tuning",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1785521824,
-            title     = "Introducing the Pull 10 Classic+ Podcast ft. gbay99‬",
-            body      = "Pull 10 is a brand-new Classic+ podcast! This week, they're joined by special guest Gbay99 to discuss his new-player experience and how Blizzard could improve this experience in Classic+. Continue reading »",
-            url       = "https://www.wowhead.com/news=382319/introducing-the-pull-10-classic-podcast-ft-gbay99",
-            category  = "news",
-        },
-        {
-            timestamp = 1785521674,
-            title     = "Legacy of Rage - New World of Warcraft: Midnight Comic",
-            body      = "Blizzard has released Legacy of Rage, a new comic exploring the motivations of Zul'jan, who finds himself caught between his people’s fading legacy and the dangerous temptation of an ancient power. Continue reading »",
-            url       = "https://www.wowhead.com/news=382320/legacy-of-rage-new-world-of-warcraft-midnight-comic",
-            category  = "news",
-        },
-        {
-            timestamp = 1785518550,
-            title     = "This Week in WoW - Curse of Ula'tek, Trading Post, Comic",
-            body      = "This week in WoW, there's a new trading post for the month of August, a hidden threat coils in the shadows as the Curse of Ula’tek content update draws champions to the Coiled Isle in Patch 12.1, and Blizzard has released the World of Warcraft: Midnight Comic: Legacy of Rage! Continue reading »",
-            url       = "https://www.wowhead.com/news=382318/this-week-in-wow-curse-of-ulatek-trading-post-comic",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785509743,
-            title     = "Patch 12.1 Faction Spotlight - Zul'Jarra's Forces",
-            body      = "Zul'Jarra's Forces is the only new renown in Patch 12.1, representing the combined might of the troll tribes in their fight against Ula'tek, with a wealth of cosmetics for players to earn! Continue reading »",
-            url       = "https://www.wowhead.com/news=382305/patch-12-1-faction-spotlight-zuljarras-forces",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785454872,
-            title     = "Craft New Adventures with D&D: World of Warcraft",
-            body      = "Blizzard has officially revealed Dungeons & Dragons: World of Warcraft, releasing November 17th. Pre-purchasing also includes an in-game mount, pet, toy, and decor for retail WoW. Continue reading »",
-            url       = "https://www.wowhead.com/news=382314/craft-new-adventures-with-d-d-world-of-warcraft",
-            category  = "news",
         },
     },
 }
