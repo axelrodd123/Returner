@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-08T07:01:44Z",
+        generated_at = "2026-08-09T07:03:49Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1786225600,
+            title     = "The Very Boring Optimal Strategy for the Great Vault in Season 2",
+            body      = "A major controversial topic in the community is the addition of Bonus Rolls to the Great Vault from the start of the Season, as players are expecting to almost never take a piece of gear from the Great Vault again. Continue reading »",
+            url       = "https://www.wowhead.com/news=382384/the-very-boring-optimal-strategy-for-the-great-vault-in-season-2",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786211158,
+            title     = "From Narrative to End-Game Content - Blizzard Interviews With Inven Global",
+            body      = "Inven Global sat down with Blizzard staff for a two part interview - one discussing the narrative of Patch 12.1, and the other focused on end game content. Continue reading »",
+            url       = "https://www.wowhead.com/news=382377/from-narrative-to-end-game-content-blizzard-interviews-with-inven-global",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786194616,
+            title     = "Things to Do to Prepare for Patch 12.1",
+            body      = "Here are a couple of things that you can do to prepare for Patch 12.1 next week! Continue reading »",
+            url       = "https://www.wowhead.com/news=382370/things-to-do-to-prepare-for-patch-12-1",
+            category  = "patch",
+        },
         {
             timestamp = 1786149282,
             title     = "Jimothy Added in Latest Patch 12.1 PTR Build",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "Unlock New Warband Campsites from Weekly Quests in Patch 12.1",
             body      = "Players can unlock two new Silvermoon City campsites by completing weekly quests in Patch 12.1! Continue reading »",
             url       = "https://www.wowhead.com/news=382316/unlock-new-warband-campsites-from-weekly-quests-in-patch-12-1",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785546491,
-            title     = "No Bonus Rolls from First Season 2 Great Vault - More Season 2 Unlock Information",
-            body      = "Blizzard has posted more information on the end of Season 1 and the start of Season 2, noting that Bonus Rolls will not be available from the first Season 2 Great Vault. Continue reading »",
-            url       = "https://www.wowhead.com/news=382333/no-bonus-rolls-from-first-season-2-great-vault-more-season-2-unlock-information",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785537590,
-            title     = "Season 2 Mythic+ Dungeon Tuning Notes - Additional Routing Options for Ruby Life Pools",
-            body      = "Blizzard has released development notes for Mythic+ dungeon tuning which includes creating additional routing options for Ruby Life Pools! Continue reading »",
-            url       = "https://www.wowhead.com/news=382325/season-2-mythic-dungeon-tuning-notes-additional-routing-options-for-ruby-life",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785524243,
-            title     = "Patch 12.1 PTR Class Tuning and Dev Notes for July 31st - Rogue Aura Buffs",
-            body      = "Blizzard has posted class tuning and dev notes for the Patch 12.1 PTR which includes Rogue Aura buffs! Edit: Omnium Folio skip added. Continue reading »",
-            url       = "https://www.wowhead.com/news=382322/patch-12-1-ptr-class-tuning-and-dev-notes-for-july-31st-rogue-aura-buffs",
             category  = "patch",
         },
     },
