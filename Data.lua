@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-09T07:03:49Z",
+        generated_at = "2026-08-10T07:51:03Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1786312532,
+            title     = "Tettles Interview with Blizzard Encounter Designers - Resilient Keys, Splits and Updating Mythic+ Dungeons",
+            body      = "Tettles hosted an interview with Blizzard encounter designers to discuss resilient keys, splits and updating Mythic+ dungeons. Continue reading »",
+            url       = "https://www.wowhead.com/news=382388/tettles-interview-with-blizzard-encounter-designers-resilient-keys-splits-and",
+            category  = "news",
+        },
+        {
+            timestamp = 1786296935,
+            title     = "Windows Central Reports that Blizzard is Top Performing Xbox Studio",
+            body      = "According to Jez Corden via Windows Central, an Internal Email was sent to Blizzard employees noting that Blizzard is the top performing Xbox Studio in FY26 and celebrating their success. Continue reading »",
+            url       = "https://www.wowhead.com/news=382389/windows-central-reports-that-blizzard-is-top-performing-xbox-studio",
+            category  = "news",
+        },
+        {
+            timestamp = 1786285662,
+            title     = "Mage Roundtable Podcast ft. Porom, Forgy, Khaelt, Azuna",
+            body      = "Preheat, Porom, Forgy, Khaelt, and Azuna have hosted a Season 2 roundtable podcast where they discuss the state of mages going into Patch 12.1! Continue reading »",
+            url       = "https://www.wowhead.com/news=382387/mage-roundtable-podcast-ft-porom-forgy-khaelt-azuna",
+            category  = "patch",
+        },
         {
             timestamp = 1786225600,
             title     = "The Very Boring Optimal Strategy for the Great Vault in Season 2",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "Azra'tec Delve Boss Buffed on 12.1 PTR - Simon Says Memory Now Harder",
             body      = "The Azra'tec Delve on ?? difficulty has been buffed recently on the Patch 12.1 PTR, increasing the number of memory game steps on each intermission, and preventing the strategy of completely ignoring it. Continue reading »",
             url       = "https://www.wowhead.com/news=382336/azratec-delve-boss-buffed-on-12-1-ptr-simon-says-memory-now-harder",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785687117,
-            title     = "New Default Indicator for Successful and Wasted Interrupts in Patch 12.1",
-            body      = "Among the UI updates coming in Patch 12.1, Blizzard has added a new indicator for missed interrupts. Continue reading »",
-            url       = "https://www.wowhead.com/news=382326/new-default-indicator-for-hit-and-missed-interrupts-in-patch-12-1",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785617940,
-            title     = "Achievement Panel Back Button Added in Patch 12.1",
-            body      = "Patch 12.1 has added a back button to the achievement panel, allowing players to return to previous selections, though it doesn't work quite the way some people think it should. Continue reading »",
-            url       = "https://www.wowhead.com/news=382313/achievement-back-button-doesnt-work-the-way-you-think-it-should",
-            category  = "patch",
-        },
-        {
-            timestamp = 1785597145,
-            title     = "Unlock New Warband Campsites from Weekly Quests in Patch 12.1",
-            body      = "Players can unlock two new Silvermoon City campsites by completing weekly quests in Patch 12.1! Continue reading »",
-            url       = "https://www.wowhead.com/news=382316/unlock-new-warband-campsites-from-weekly-quests-in-patch-12-1",
             category  = "patch",
         },
     },
