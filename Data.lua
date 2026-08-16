@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-15T06:46:57Z",
+        generated_at = "2026-08-16T06:48:35Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1786840716,
+            title     = "How to Level Valeera Quickly to Prepare for Hall of Fame Delve Next Week",
+            body      = "A new powerleveling strategy for Valeera has been discovered that players are using to get Valeera up to level 80 before next week's ?? Delve Boss unlocks. Continue reading »",
+            url       = "https://www.wowhead.com/news=382473/how-to-level-valeera-quickly-to-prepare-for-hall-of-fame-delve-next-week",
+            category  = "news",
+        },
+        {
+            timestamp = 1786826140,
+            title     = "The 300 Cursed Surge Achievement Takes a Very Very Long Time",
+            body      = "One of the achievements on the new Coiled Isle requires 300 Cursed Surges, or at least 225 hours if you don't miss a single one. Continue reading »",
+            url       = "https://www.wowhead.com/news=382464/the-300-cursed-surge-achievement-takes-a-very-very-long-time",
+            category  = "news",
+        },
+        {
+            timestamp = 1786815607,
+            title     = "New Patrols and Strikes in Vaults of Atal'Utek - New Achievements Available",
+            body      = "We're halfway through the first week of Patch 12.1, and new Patrols and Strikes are available in the Vaults of Atal'Utek, allowing new achievements to be unlocked. Continue reading »",
+            url       = "https://www.wowhead.com/news=382472/new-patrols-and-strikes-in-vaults-of-atalutek-new-achievements-available",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786806470,
+            title     = "Saptor Salve Transformation Toy Now Available Again",
+            body      = "Patch 12.1 brings The Blinding Vale dungeon into the seasonal rotation, giving players a chance to obtain the Saptor transformation toy again! Continue reading »",
+            url       = "https://www.wowhead.com/news=382437/saptor-salve-transformation-toy-now-available-again",
+            category  = "patch",
+        },
         {
             timestamp = 1786755956,
             title     = "Extra Bonus Rolls Removed in Patch 12.1 Hotfixes for August 14th",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Players have discovered that some characters can actually get three crafting Sparks this week, but other characters can only get two. Continue reading »",
             url       = "https://www.wowhead.com/news=382428/three-sparks-available-this-week-for-some-characters-but-not-all",
             category  = "news",
-        },
-        {
-            timestamp = 1786508933,
-            title     = "Lair Grouping Issue Now Fixed",
-            body      = "Blizzard has announced that Lair Grouping issue is now fixed! Continue reading »",
-            url       = "https://www.wowhead.com/news=382427/lair-grouping-issue-now-fixed",
-            category  = "news",
-        },
-        {
-            timestamp = 1786503586,
-            title     = "The New Captain Tokka Friendship Reputation on the Coiled Isle - Sea-Dwelling Isle Serpent Mount",
-            body      = "By reaching the final Reputation level with Captain Tokka, players can earn a new Fishing Rod, which will allow them to unlock a new Mount! Continue reading »",
-            url       = "https://www.wowhead.com/news=382405/the-new-captain-tokka-friendship-reputation-on-the-coiled-isle-sea-dwelling-isle",
-            category  = "news",
-        },
-        {
-            timestamp = 1786491329,
-            title     = "Blizzard to Restore Missing Trophies from End-of-Season Raids",
-            body      = "Blizzard has released a bluepost confirming that missing trophies from raid kills during the last few hours of Season 1 should be awarded sometime over the next week. Continue reading »",
-            url       = "https://www.wowhead.com/news=382425/blizzard-to-restore-missing-trophies-from-end-of-season-raids",
-            category  = "patch",
-        },
-        {
-            timestamp = 1786491016,
-            title     = "Explore The Coiled Isle in Patch 12.1: The Curse of Ula'tek",
-            body      = "Among the features of Patch 12.1 is the Coiled Isle, a new zone which players will explore and plunder in the pursuit of an ancient evil. It also happens to be full of quests, rares, treasures, and collectables! Continue reading »",
-            url       = "https://www.wowhead.com/news=382410/explore-the-coiled-isle-in-patch-12-1-the-curse-of-ulatek",
-            category  = "patch",
         },
     },
 }
