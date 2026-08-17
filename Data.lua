@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-16T06:48:35Z",
+        generated_at = "2026-08-17T07:05:16Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1786925403,
+            title     = "The Venomous Abyss Raid BoEs Datamined",
+            body      = "We've datamined The Venomous Abyss raid BoEs for Season 2! Continue reading »",
+            url       = "https://www.wowhead.com/news=382391/the-venomous-abyss-raid-boes-datamined",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786906545,
+            title     = "Guaranteed Champion Gear Piece from the Vaults of Atal'Utek Activities",
+            body      = "Players can earn a Champion-track gear piece by completing activities inside the Vaults of Atal'Utek! Continue reading »",
+            url       = "https://www.wowhead.com/news=382455/guaranteed-champion-gear-piece-from-the-vaults-of-atalutek-activities",
+            category  = "news",
+        },
+        {
+            timestamp = 1786893111,
+            title     = "HandyNotes AddOn Updated for The Coiled Isle",
+            body      = "HandyNotes is updated to include the locations of rares and treasures in the new Coiled Isle zone! Continue reading »",
+            url       = "https://www.wowhead.com/news=382456/handynotes-addon-updated-for-the-coiled-isle",
+            category  = "patch",
+        },
+        {
+            timestamp = 1786878315,
+            title     = "New Shirts Available for Free T-Shirt Day Holiday",
+            body      = "The microholiday Free T-Shirt Day is now live, so head to your Faction Capital to get some new T-Shirts! Continue reading »",
+            url       = "https://www.wowhead.com/news=382474/new-shirts-available-for-free-t-shirt-day-holiday",
+            category  = "event",
+        },
         {
             timestamp = 1786840716,
             title     = "How to Level Valeera Quickly to Prepare for Hall of Fame Delve Next Week",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "Contract: Zul'jarra's Forces Bugged and Swaps to Different Faction",
             body      = "If you're looking to maximize Renown gains with Zul'jarra's Forces, there seems to be a bug where the new contract will swap to a different one. Continue reading »",
             url       = "https://www.wowhead.com/news=382432/contract-zuljarras-forces-bugged-and-swaps-to-different-faction",
-            category  = "news",
-        },
-        {
-            timestamp = 1786552916,
-            title     = "How to Acquire One Piece of Hero Gear This Week",
-            body      = "One piece of Hero track gear is available per character this week, dropping at Item Level 305 (Hero 1/6). Continue reading »",
-            url       = "https://www.wowhead.com/news=382431/how-to-acquire-one-piece-of-hero-gear-this-week",
-            category  = "news",
-        },
-        {
-            timestamp = 1786550310,
-            title     = "Plunder The Vaults of Atal'Utek to Claim Corrosive Power",
-            body      = "As players explore the Coiled Isle in Patch 12.1, they'll inevitably be drawn into the deep underground Vaults of Atal'Utek, which feature corrosive power for those able to withstand the poison! Continue reading »",
-            url       = "https://www.wowhead.com/news=382416/plunder-the-vaults-of-atalutek-to-claim-corrosive-power",
-            category  = "patch",
-        },
-        {
-            timestamp = 1786541264,
-            title     = "Renown Quest Rewards Reset and Now Item Level 279 in Patch 12.1",
-            body      = "Renown quest rewards have had their item levels increased to 279 in Patch 12.1. Continue reading »",
-            url       = "https://www.wowhead.com/news=382390/renown-quest-rewards-reset-and-now-item-level-279-in-patch-12-1",
-            category  = "patch",
-        },
-        {
-            timestamp = 1786518728,
-            title     = "Three Sparks Available This Week for Some Characters (But Not All)",
-            body      = "Players have discovered that some characters can actually get three crafting Sparks this week, but other characters can only get two. Continue reading »",
-            url       = "https://www.wowhead.com/news=382428/three-sparks-available-this-week-for-some-characters-but-not-all",
             category  = "news",
         },
     },
