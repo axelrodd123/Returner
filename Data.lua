@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-22T06:48:48Z",
+        generated_at = "2026-08-23T06:49:57Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1787456042,
+            title     = "Blizzard Addresses Evoker Disconnect Issues - High Priority Issue",
+            body      = "Blizzard has addressed the Evoker Disconnect issue, noting that its a high priority issue. Continue reading »",
+            url       = "https://www.wowhead.com/news=382572/blizzard-addresses-evoker-disconnect-issues-high-priority-issue",
+            category  = "news",
+        },
+        {
+            timestamp = 1787448469,
+            title     = "Mythic Nymrissa Wavecaller Nerfed to Reasonable Difficulty for Players",
+            body      = "Mythic Nymrissa was overtuned, and has now been nerfed to a much more reasonable difficulty for players. Continue reading »",
+            url       = "https://www.wowhead.com/news=382571/mythic-nymrissa-wavecaller-nerfed-to-reasonable-levels",
+            category  = "news",
+        },
+        {
+            timestamp = 1787447131,
+            title     = "M33kAuras Dungeon Pack by Yukero Now Available for Midnight Season 2",
+            body      = "Dungeon packs are back, offering customizable Mythic+ alerts and warnings in the Midnight S2 Dungeon Pack by Yukero! Continue reading »",
+            url       = "https://www.wowhead.com/news=382568/m33kauras-dungeon-pack-by-yukero-now-available-for-midnight-season-2",
+            category  = "patch",
+        },
+        {
+            timestamp = 1787430724,
+            title     = "Plan Your Raid with Raidstrats.gg in Midnight Season 2",
+            body      = "Following increased success in Midnight Season 1, Raidstrats.gg has developed new features to help its users create and share custom raid plans with their teams! Continue reading »",
+            url       = "https://www.wowhead.com/news=382536/plan-your-raid-with-raidstrats-gg-in-midnight-season-2",
+            category  = "patch",
+        },
+        {
+            timestamp = 1787413505,
+            title     = "Venomous Abyss Race to World First Day 4 Recap: Mythic Begins, Ula'tek Killed, and Class Tuning",
+            body      = "The Venomous Abyss Race to World First Day 4 is over! Dratnos & Tettles discuss Mythic progression heating up, Ula'tek's first Heroic death, and more in the Day 4 Recap of RWF Season 2. Continue reading »",
+            url       = "https://www.wowhead.com/news=382569/venomous-abyss-race-to-world-first-day-4-recap-mythic-begins-ulatek-killed-and",
+            category  = "patch",
+        },
+        {
+            timestamp = 1787410629,
+            title     = "Ellesmere Interview with Blizzard's Lead Encounter Designers",
+            body      = "In a new interview with Ellesmere, Lead Encounter Designers Taylor Sanders and Drew De Sousa discussed making memorable encounters, Mythic+ responsibilities, healing rollercoasters, targeted spells, and the responsibility over interrupts! Continue reading »",
+            url       = "https://www.wowhead.com/news=382544/ellesmere-interview-with-blizzards-lead-encounter-designers",
+            category  = "news",
+        },
         {
             timestamp = 1787369503,
             title     = "World First Mythic Lost Explorers by xD",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "Hunters are reportedly getting the Catalyst Unbound achievement when they acquire their 2-set, instead of their 4-set, allowing them to get additional catalyst charges early. Edit: This has been reportedly fixed. Continue reading »",
             url       = "https://www.wowhead.com/news=382522/hunters-reportedly-getting-catalyst-unbound-for-more-catalyst-charges-early",
             category  = "news",
-        },
-        {
-            timestamp = 1787152904,
-            title     = "Venomous Abyss Raid Buff Starts in 28 Days",
-            body      = "Just like Midnight Season 1, a raid buff providing increased damage and healing each week will be applied to players within the Venomous Abyss, starting September 15th. Continue reading »",
-            url       = "https://www.wowhead.com/news=382512/venomous-abyss-raid-buff-starts-in-28-days",
-            category  = "patch",
-        },
-        {
-            timestamp = 1787142823,
-            title     = "Earn a Champion-Track Ring from The Venomous Abyss Campaign Quest",
-            body      = "Players can earn a Champion-track ring by completing The Venomous Abyss raid campaign quest! Continue reading »",
-            url       = "https://www.wowhead.com/news=382518/earn-a-champion-track-ring-from-the-venomous-abyss-campaign-quest",
-            category  = "news",
-        },
-        {
-            timestamp = 1787110212,
-            title     = "Nightmare Prey Now Available - Earn a Guaranteed Trovehunter's Bounty Map",
-            body      = "Nightmare Prey Hunts are now available with the launch of Season 2, and players can earn a guaranteed Trovehunter's Bounty after completing 3 Nightmare Hunts! Continue reading »",
-            url       = "https://www.wowhead.com/news=382513/nightmare-prey-now-available-earn-a-guaranteed-trovehunters-bounty-map",
-            category  = "patch",
-        },
-        {
-            timestamp = 1787105537,
-            title     = "Coiled Altar Massively Nerfed - Venomous Abyss Raid Tuning Hotfixes",
-            body      = "A hotfix has massively nerfed the Coiled Altar encounter in the Venomous Abyss raid. Continue reading »",
-            url       = "https://www.wowhead.com/news=382517/coiled-altar-massively-nerfed-venomous-abyss-raid-tuning-hotfixes",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1787104627,
-            title     = "Patch 12.1 Hotfixes for August 18th - Many Class Bug Fixes",
-            body      = "Blizzard has posted Patch 12.1 hotfixes for August 18th which includes many class bug fixes, dungeon changes and more! Continue reading »",
-            url       = "https://www.wowhead.com/news=382516/patch-12-1-hotfixes-for-august-18th-many-class-bug-fixes",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1787101918,
-            title     = "?? Difficulty Nemesis Hall of Fame Now Available",
-            body      = "With the start of Season 2, the ?? difficulty Nemesis delve is now available for players to challenge their newest nemesis and claim a limited-time achievement! Continue reading »",
-            url       = "https://www.wowhead.com/news=382505/difficulty-nemesis-hall-of-fame-now-available",
-            category  = "patch",
         },
     },
 }
