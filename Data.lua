@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-08-23T06:49:57Z",
+        generated_at = "2026-08-24T07:08:11Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1787532995,
+            title     = "World First Mythic Entomed Sentinels by Liquid",
+            body      = "Team Liquid has destroyed the Mythic Entombed Sentinels, taking the lead in the Venomous Abyss Race to World First! Continue reading »",
+            url       = "https://www.wowhead.com/news=382495/world-first-mythic-entomed-sentinels-by-team-liquid",
+            category  = "news",
+        },
+        {
+            timestamp = 1787526216,
+            title     = "Team Liquid Enters Mythic The Venomous Abyss",
+            body      = "After five and a half days of splits, Team Liquid has finally entered The Venomous Abyss on Mythic difficulty! Continue reading »",
+            url       = "https://www.wowhead.com/news=382574/team-liquid-enters-mythic-the-venomous-abyss",
+            category  = "news",
+        },
+        {
+            timestamp = 1787520440,
+            title     = "RaidPlan.io Updated for Midnight Season 2",
+            body      = "With Season 2 in full swing, RaidPlan.io has launched a large round of updates supporting the Venomous Abyss and the Tidebound Grotto! Continue reading »",
+            url       = "https://www.wowhead.com/news=382555/raidplan-io-updated-for-midnight-season-2",
+            category  = "patch",
+        },
+        {
+            timestamp = 1787501558,
+            title     = "Concealed Pistol in Murder Row - Gain 20% Bonus Damage for 16 Seconds",
+            body      = "In the Murder Row dungeon, players can trade their Faceted Crystalline Fel crystals for powerful items, including a pistol that causes targets to take 20% more damage! Continue reading »",
+            url       = "https://www.wowhead.com/news=382564/concealed-pistol-in-murder-row-gain-20-bonus-damage-for-16-seconds",
+            category  = "news",
+        },
+        {
+            timestamp = 1787491489,
+            title     = "Venomous Abyss Race to World First Day 5 Recap: Mythic, but Not Really?",
+            body      = "The Venomous Abyss Race to World First Day 5 is over! Dratnos & Tettles discuss splits, M+, and more in the Day 5 Recap of RWF Season 2. Continue reading »",
+            url       = "https://www.wowhead.com/news=382573/venomous-abyss-race-to-world-first-day-5-recap-mythic-but-not-really",
+            category  = "patch",
+        },
         {
             timestamp = 1787456042,
             title     = "Blizzard Addresses Evoker Disconnect Issues - High Priority Issue",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "Blizzard's recent hotfix has reverted allowing two cantrip weapons to be equipped in either weapon slot, but the change leaves issues unaddressed. Continue reading »",
             url       = "https://www.wowhead.com/news=382525/blizzard-reverts-special-weapon-restrictions-cantrip-axe-changes",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1787174277,
-            title     = "(Fixed) Unspec Omnium Folio Power Due to Hotfix That Makes It Pull Every Nearby Mob",
-            body      = "A new hotfix on live servers now makes the Omnium Folio pull every nearby mob. Make sure to unspec this immediately. Continue reading »",
-            url       = "https://www.wowhead.com/news=382531/unspec-omnium-folio-power-due-to-hotfix-that-makes-it-pull-every-nearby-mob",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1787170562,
-            title     = "Players Reporting Being Unable to Get 4 Sparks This Week",
-            body      = "Some players appear to be bugged and unable to receive Sparks to cap out at 4 this week. Continue reading »",
-            url       = "https://www.wowhead.com/news=382524/players-reporting-being-unable-to-get-4-sparks-this-week",
-            category  = "news",
-        },
-        {
-            timestamp = 1787169591,
-            title     = "(Resolved) Blizzard Reporting Issues with Authentication Servers - 2+ Hour Queues",
-            body      = "Blizzard has announced issues with authentication servers, which seems to be affecting players from logging into the game. Continue reading »",
-            url       = "https://www.wowhead.com/news=382528/blizzard-reporting-issues-with-authentication-servers-2-hour-queues-on-eu",
-            category  = "news",
-        },
-        {
-            timestamp = 1787164401,
-            title     = "Cursebreaker Achievement Significantly Nerfed in Hotfix",
-            body      = "A brand new hotfix was just pushed to live servers which nerfs the Cursebreaker achievement significantly - 300 Cursed Surges are no longer required. Continue reading »",
-            url       = "https://www.wowhead.com/news=382523/cursebreaker-significantly-achievement-nerfed-in-hotfix",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1787155975,
-            title     = "(Reportedly Fixed) Hunters Reportedly Getting Catalyst Unbound for More Catalyst Charges Early",
-            body      = "Hunters are reportedly getting the Catalyst Unbound achievement when they acquire their 2-set, instead of their 4-set, allowing them to get additional catalyst charges early. Edit: This has been reportedly fixed. Continue reading »",
-            url       = "https://www.wowhead.com/news=382522/hunters-reportedly-getting-catalyst-unbound-for-more-catalyst-charges-early",
-            category  = "news",
         },
     },
 }
