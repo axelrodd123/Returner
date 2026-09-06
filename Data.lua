@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-05T10:20:38Z",
+        generated_at = "2026-09-06T10:40:16Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1788631200,
+            title     = "Valeera Sanguinar and Tyrande Whisperwind Statues Available For Pre-Order From HEX Collectibles",
+            body      = "HEX Collectibles brings you two new detailed, collectible statues of Valeera Sanguinar and Tyrande Whisperwind. Continue reading »",
+            url       = "https://www.wowhead.com/news=382694/valeera-sanguinar-and-tyrande-whisperwind-statues-available-for-pre-order-from",
+            category  = "news",
+        },
+        {
+            timestamp = 1788627600,
+            title     = "Class Specs From SoD That Could Work in Classic+",
+            body      = "Season of Discovery came with a handful of new Class Spec combinations that never worked before its creation. Which ones might work in a future Classic+? Continue reading »",
+            url       = "https://www.wowhead.com/news=382702/class-specs-from-sod-that-could-work-in-classic",
+            category  = "patch",
+        },
+        {
+            timestamp = 1788616800,
+            title     = "Tips and Tricks for Clearing Black Temple",
+            body      = "The Black Temple is one of two raids in TBC Classic Phase 3. We've got some tips and tricks to make your clears easier! Continue reading »",
+            url       = "https://www.wowhead.com/news=382737/tips-and-tricks-for-clearing-black-temple",
+            category  = "news",
+        },
+        {
+            timestamp = 1788613200,
+            title     = "The Power of Using Minimap Rotation for Addons in Season 2 of Midnight",
+            body      = "A new type of addon module has made its debut in Midnight Season 2, which can provide an arrow or map for boss mechanics. Continue reading »",
+            url       = "https://www.wowhead.com/news=382757/the-power-of-using-minimap-rotation-for-addons-in-season-2-of-midnight",
+            category  = "patch",
+        },
         {
             timestamp = 1788571846,
             title     = "September 4th Hotfixes - Ula'tek, Classes, Catalyst",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Heroic Coiled Altar has been nerfed in the latest hotfixes! Continue reading »",
             url       = "https://www.wowhead.com/news=382714/heroic-coiled-altar-nerfed-in-hotfix-the-venomous-abyss-raid",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1788304605,
-            title     = "September Trading Post Brings Back Over 300 Player Favorites and Previous Monthly Rewards",
-            body      = "In celebration of BlizzCon 2026, the September Trading Post is being expanded with new vendors featuring over 300 returning items and previous monthly bonus rewards! Continue reading »",
-            url       = "https://www.wowhead.com/news=382696/september-trading-post-brings-back-over-300-player-favorites-and-previous",
-            category  = "news",
-        },
-        {
-            timestamp = 1788298790,
-            title     = "Mythic BoEs No Longer BoP with Weekly Reset - List on the AH for Quick Gold",
-            body      = "With the third week of Season 2, Mythic Raid BoEs are now tradable, and can be used to make some quick gold on the Auction House if you're lucky enough to get one. Continue reading »",
-            url       = "https://www.wowhead.com/news=382712/mythic-boes-no-longer-bop-with-weekly-reset-list-on-the-ah-for-quick-gold",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788292935,
-            title     = "Venomous Abyss Race to World First Day 14 Recap: Eve of the Third Reset",
-            body      = "The Venomous Abyss Race to World First Day 14 is over! Dratnos & Tettles discuss Ula'tek phase 3, the weekly reset, and more in the Day 14 Recap of RWF Season 2. Continue reading »",
-            url       = "https://www.wowhead.com/news=382713/venomous-abyss-race-to-world-first-day-14-recap-eve-of-the-third-reset",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788289802,
-            title     = "Season 2 DPS Rankings for The Venomous Abyss: Week 2",
-            body      = "It's been 2 weeks since the release of The Venomous Abyss raid, and now that week 3 starts today, we're taking a look at how some specs are performing across different types of encounters! Continue reading »",
-            url       = "https://www.wowhead.com/news=382699/season-2-dps-rankings-for-the-venomous-abyss-week-2",
-            category  = "patch",
         },
     },
 }
