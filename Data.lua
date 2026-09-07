@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-06T10:40:16Z",
+        generated_at = "2026-09-07T12:06:48Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1788720222,
+            title     = "Would Classic Plus Even Work? The PULL 10 Podcast Featuring Josh Strife Hayes",
+            body      = "This week, the Pull 10 podcast is joined by Josh Strife Hayes, one of the most established MMORPG players, to see if a Classic Plus game would even work. Continue reading »",
+            url       = "https://www.wowhead.com/news=382762/would-classic-plus-even-work-the-pull-10-podcast-featuring-josh-strife-hayes",
+            category  = "news",
+        },
+        {
+            timestamp = 1788717600,
+            title     = "The Venomous Abyss Raid Skip Now Available",
+            body      = "The Venomous Abyss Raid Skip is now available and allows you to skip to Coiled Altar once you've completed the quest. Continue reading »",
+            url       = "https://www.wowhead.com/news=382759/the-venomous-abyss-raid-skip-now-available",
+            category  = "news",
+        },
+        {
+            timestamp = 1788703200,
+            title     = "Increase Your Power in Labyrinths with Delve Specific Glove Enhancements",
+            body      = "We've datamined four new glove enhancements on the Patch 12.1.5 PTR, providing powerful permanent bonuses while inside delves and labyrinths! Continue reading »",
+            url       = "https://www.wowhead.com/news=382761/increase-your-power-in-labyrinths-with-delve-specific-glove-enhancements",
+            category  = "patch",
+        },
+        {
+            timestamp = 1788699600,
+            title     = "Use Extra Badges of Justice for Quick Primal Nethers for Crafting",
+            body      = "With the arrival of Phase 3 of TBC Anniversary, Primal Nethers can now be obtained from the Badge of Justice vendor instead of farming heroic dungeons. Continue reading »",
+            url       = "https://www.wowhead.com/news=382640/use-extra-badges-of-justice-for-quick-primal-nethers-for-crafting",
+            category  = "news",
+        },
         {
             timestamp = 1788631200,
             title     = "Valeera Sanguinar and Tyrande Whisperwind Statues Available For Pre-Order From HEX Collectibles",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Blizzard has announced that the WoW Roofus Pack has raised more than $1.3M for Habitat for Humanity! Continue reading »",
             url       = "https://www.wowhead.com/news=382720/wow-roofus-pack-raises-more-than-1-3m-for-habitat-for-humanity",
             category  = "news",
-        },
-        {
-            timestamp = 1788357600,
-            title     = "How to Acquire New Epic Gems in TBC Anniversary",
-            body      = "Phase 3 brings new Epic Gems in The Burning Crusade Classic, both from the new raids, Black Temple and Mount Hyjal. Continue reading »",
-            url       = "https://www.wowhead.com/news=382663/how-to-acquire-new-epic-gems-in-tbc-anniversary",
-            category  = "news",
-        },
-        {
-            timestamp = 1788354000,
-            title     = "China Disqualifies 24,000 Characters from End-of-Season Rewards",
-            body      = "Continuing their effort to crack down on piloted sales, the China World of Warcraft operations team has disqualified over 21,000 characters from PvP and another 3,000 in Mythic+ from receiving end-of-season rewards in Midnight Season 1! Continue reading »",
-            url       = "https://www.wowhead.com/news=382705/china-disqualifies-24-000-characters-from-end-of-season-rewards",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788308628,
-            title     = "Venomous Abyss Raid Nerfs - Patch 12.1 Hotfixes for September 1st, 2026",
-            body      = "Blizzard has posted hotfixes for today, which includes many Venomous Abyss raid nerfs and making Delves not drop as many trinkets! Continue reading »",
-            url       = "https://www.wowhead.com/news=382716/venomous-abyss-raid-nerfs-patch-12-1-hotfixes-for-september-1st-2026",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1788306799,
-            title     = "Heroic Coiled Altar Nerfed in Hotfix - The Venomous Abyss Raid",
-            body      = "Heroic Coiled Altar has been nerfed in the latest hotfixes! Continue reading »",
-            url       = "https://www.wowhead.com/news=382714/heroic-coiled-altar-nerfed-in-hotfix-the-venomous-abyss-raid",
-            category  = "hotfix",
         },
     },
 }
