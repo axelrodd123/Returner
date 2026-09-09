@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-08T10:59:08Z",
+        generated_at = "2026-09-09T11:03:56Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1788914954,
+            title     = "The Unbinding of Kith'ix Raid Testing Schedule - Patch 12.1.5 PTR",
+            body      = "Blizzard has announced that raid testing for the Patch 12.1.5 raid, The Unbinding of Kith'ix, will take place next week! Continue reading »",
+            url       = "https://www.wowhead.com/news=382788/the-unbinding-of-kithix-raid-testing-schedule-patch-12-1-5-ptr",
+            category  = "patch",
+        },
+        {
+            timestamp = 1788891511,
+            title     = "New Foliage Coming to Player Housing - Draenor, Shadowlands, and BfA Plants and Greenery",
+            body      = "Player Housing is getting tons of new decor, freshly datamined from Patch 12.1.5 - and for those looking to add more foliage to their setups, there are tons of new options to choose from. Continue reading »",
+            url       = "https://www.wowhead.com/news=382772/new-foliage-coming-to-player-housing-draenor-shadowlands-and-bfa-plants-and",
+            category  = "patch",
+        },
+        {
+            timestamp = 1788883070,
+            title     = "Winds of Mysterious Fortune Now Live: Log In for 5 Days to Earn Trader's Tender",
+            body      = "A new surprise awaits with the Weekly Reset! Players who log into WoW 5 times over the next two weeks will earn 500 Trader's Tender. Continue reading »",
+            url       = "https://www.wowhead.com/news=382784/winds-of-mysterious-fortune-now-live-log-in-for-5-days-to-earn-traders-tender",
+            category  = "news",
+        },
+        {
+            timestamp = 1788879600,
+            title     = "Unfinished Questlines: Could Classic+ Give Certain Stories a Real Ending?",
+            body      = "With a potential Classic+ announcement looming at BlizzCon, there are many questlines for Vanilla WoW that could finally culminate in a proper manner. Continue reading »",
+            url       = "https://www.wowhead.com/news=382753/unfinished-questlines-could-classic-give-certain-stories-a-real-ending",
+            category  = "news",
+        },
+        {
+            timestamp = 1788876000,
+            title     = "Patch 12.1.5 Labyrinth Rewards Include Transmog, Titles, Toys, and More",
+            body      = "We've datamined several new rewards from the Labyrinth of Kindo'jan in Patch 12.1.5, including transmog, titles, toys, and two Myth armor pieces! Continue reading »",
+            url       = "https://www.wowhead.com/news=382776/patch-12-1-5-labyrinth-rewards-include-transmog-titles-toys-and-more",
+            category  = "patch",
+        },
         {
             timestamp = 1788812639,
             title     = "Could a Surprise Winds of Mysterious Fortune Event Begin Tomorrow?",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "The Venomous Abyss Race to World First Day 16 is over! Dratnos & Tettles discuss Echo's reclear, last-phase strategy, and more in the Day 16 Recap of RWF Season 2. Continue reading »",
             url       = "https://www.wowhead.com/news=382729/venomous-abyss-race-to-world-first-day-16-recap-the-end-is-near",
             category  = "patch",
-        },
-        {
-            timestamp = 1788451758,
-            title     = "Midnight Patch 12.1.5 Revealed! - Labyrinths and New 1-Boss Raid",
-            body      = "Blizzard has revealed Patch 12.1.5, which includes Labyrinths and a new 1-boss raid! Continue reading »",
-            url       = "https://www.wowhead.com/news=382728/midnight-patch-12-1-5-revealed-labyrinths-and-new-1-boss-raid",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788444000,
-            title     = "Take Advantage of Mark of the Illidari for Free Raid Consumables",
-            body      = "With Phase 3 of TBC Anniversary arriving, players can now collect Marks of the Illidari and use them to purchase various potions and flasks, saving them gold on the auction house. Continue reading »",
-            url       = "https://www.wowhead.com/news=382623/take-advantage-of-mark-of-the-illidari-for-free-raid-consumables",
-            category  = "news",
-        },
-        {
-            timestamp = 1788440400,
-            title     = "Venomous Abyss Could Be the Longest Race to World First in Modern WoW",
-            body      = "For the first time since Sepulcher of the First Ones, the Race to World First has entered the third week of Mythic progression - which means Venomous Abyss could become the longest RWF in modern WoW. Continue reading »",
-            url       = "https://www.wowhead.com/news=382723/venomous-abyss-could-be-the-longest-race-to-world-first-in-modern-wow",
-            category  = "news",
-        },
-        {
-            timestamp = 1788397655,
-            title     = "Ula'tek Changes and Class Fixes - Patch 12.1 Hotfixes for September 2nd",
-            body      = "Blizzard has posted hotfixes for today, which includes Ula'tek changes and more class bug fixes. Continue reading »",
-            url       = "https://www.wowhead.com/news=382725/ulatek-changes-and-class-fixes-patch-12-1-hotfixes-for-september-2nd",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1788386134,
-            title     = "Get Two More Chances at Tier with the Third Wing of LFR",
-            body      = "The third wing of LFR is available as of this week and includes the Lost Explorers and Sszorak bosses! Continue reading »",
-            url       = "https://www.wowhead.com/news=382715/get-two-more-chances-at-tier-with-the-third-wing-of-lfr",
-            category  = "news",
         },
     },
 }
