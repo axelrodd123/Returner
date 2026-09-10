@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-09T11:03:56Z",
+        generated_at = "2026-09-10T11:00:03Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1788997651,
+            title     = "Class Bugfixes and Delves Reward Proper Reputation in Latest Hotfixes",
+            body      = "Several classes have received bugfixes in the latest round of hotfixes, and Delves can now properly award Zul'jarra's Forces reputation from Bountiful Chests! Continue reading »",
+            url       = "https://www.wowhead.com/news=382794/class-bugfixes-and-delves-reward-proper-reputation-in-latest-hotfixes",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1788980884,
+            title     = "Tune in to World of Warcraft at BlizzCon 2026",
+            body      = "BlizzCon 2026 starts this weekend and here’s a preview of what’s happening for World of Warcraft! Continue reading »",
+            url       = "https://www.wowhead.com/news=382791/tune-in-to-world-of-warcraft-at-blizzcon-2026",
+            category  = "news",
+        },
+        {
+            timestamp = 1788976800,
+            title     = "The Wildfire Bomb Problem: How 12.1 Brings Hitbox Issues Back into the Crosshairs",
+            body      = "Wildfire Bomb is a signature ability for Survival Hunters, but Patch 12.1 highlights a huge issue: how hitboxes work for the ability causes problems for Hunters in raids. Continue reading »",
+            url       = "https://www.wowhead.com/news=382789/the-wildfire-bomb-problem-how-12-1-brings-hitbox-issues-back-into-the-crosshairs",
+            category  = "patch",
+        },
+        {
+            timestamp = 1788962400,
+            title     = "Patch 12.1.5 Story Preparation: Who is Kith'ix?",
+            body      = "Patch 12.1.5 introduces Kith'ix as our newest one-boss raid - but who is Kith'ix, and how does he tie into Xal'atath and her ongoing schemes in Midnight? Continue reading »",
+            url       = "https://www.wowhead.com/news=382735/patch-12-1-5-story-preparation-who-is-kithix",
+            category  = "patch",
+        },
         {
             timestamp = 1788914954,
             title     = "The Unbinding of Kith'ix Raid Testing Schedule - Patch 12.1.5 PTR",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "The Battle for Mount Hyjal is one of two raids in Phase 3 of TBC Anniversary. Here are some tips and tricks to make your runs go smoothly! Continue reading »",
             url       = "https://www.wowhead.com/news=382718/tips-and-tricks-for-the-battle-of-mount-hyjal",
             category  = "news",
-        },
-        {
-            timestamp = 1788456140,
-            title     = "Ascendant Venomstones Will Also Upgrade Necklaces in Patch 12.1.5",
-            body      = "Returning in Patch 12.1.5, Ascendant Venomstones will allow players to increase weapons, trinkets, and necklaces beyond their normal maximum item levels! Continue reading »",
-            url       = "https://www.wowhead.com/news=382731/ascendant-venomstones-will-also-upgrade-necklaces-in-patch-12-1-5",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788455203,
-            title     = "Updated: New Limited-Time Vendor Mount Costs 7 Million Gold for Everything",
-            body      = "Updated: The new 5 million gold vendor mount actually costs 7 million gold if you want to buy all the optional customizable vendors. Continue reading »",
-            url       = "https://www.wowhead.com/news=382733/new-limited-time-5-million-gold-mount-includes-customizable-vendors-in-patch-12",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788454039,
-            title     = "Class Changes for Devourer DH - Midnight 12.1.5 PTR Development Notes",
-            body      = "Blizzard has posted Midnight Patch 12.1.5 development notes, which includes large class changes for Devourer Demon Hunter and Marksmanship Hunter. Continue reading »",
-            url       = "https://www.wowhead.com/news=382730/class-changes-with-midnight-12-1-5-ptr-development-notes",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788453439,
-            title     = "Venomous Abyss Race to World First Day 16 Recap: The End is Near",
-            body      = "The Venomous Abyss Race to World First Day 16 is over! Dratnos & Tettles discuss Echo's reclear, last-phase strategy, and more in the Day 16 Recap of RWF Season 2. Continue reading »",
-            url       = "https://www.wowhead.com/news=382729/venomous-abyss-race-to-world-first-day-16-recap-the-end-is-near",
-            category  = "patch",
         },
     },
 }
