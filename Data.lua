@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-10T11:00:03Z",
+        generated_at = "2026-09-11T10:58:31Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1789098203,
+            title     = "Wildfire Bomb, Glory of the Vanguard, and More: Class Bugfixes in Today's Hotfixes",
+            body      = "Classes are getting several bugfixes in the latest batch of hotfixes, and some Delve and Prey fixes are mixed in too! Continue reading »",
+            url       = "https://www.wowhead.com/news=382799/wildfire-bomb-glory-of-the-vanguard-and-more-class-bugfixes-in-todays-hotfixes",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1789070060,
+            title     = "How Does the Fungal Strider Mount Compare to Previous Vendor Mount Costs?",
+            body      = "The Fungal Strider vendor mount in Patch 12.1.5 costs 7 million gold to buy everything. How does this stack up against the other vendor mounts? Continue reading »",
+            url       = "https://www.wowhead.com/news=382777/how-does-the-fungal-strider-mount-compare-to-previous-vendor-mount-costs",
+            category  = "patch",
+        },
+        {
+            timestamp = 1789057811,
+            title     = "Old Achivements Get New Decor in Patch 12.1.5",
+            body      = "We're getting a ton of new decor in Patch 12.1.5, but it's not all as simple as heading to a vendor - some decor is being added as rewards for older achievements in previous expansions. Continue reading »",
+            url       = "https://www.wowhead.com/news=382774/old-achivements-get-new-decor-in-patch-12-1-5",
+            category  = "patch",
+        },
         {
             timestamp = 1788997651,
             title     = "Class Bugfixes and Delves Reward Proper Reputation in Latest Hotfixes",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "Ula'tek Falls to Liquid - World Champions of the Venomous Abyss",
             body      = "After 17 days and 306 pulls, Team Liquid has defeated Ula'tek on Mythic difficulty, claiming the title of World Champions of the Venomous Abyss! Continue reading »",
             url       = "https://www.wowhead.com/news=382682/ulatek-falls-to-liquid-world-champions-of-the-venomous-abyss",
-            category  = "news",
-        },
-        {
-            timestamp = 1788459896,
-            title     = "New Game Key Bindings Datamined on 12.1.5 PTR: A Hint for Upcoming Content?",
-            body      = "A new Game Key Bindings file has been datamined on the 12.1.5 PTR, and it has some interesting implications. Continue reading »",
-            url       = "https://www.wowhead.com/news=382738/new-game-key-bindings-datamined-on-12-1-5-ptr-a-hint-for-upcoming-content",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788458520,
-            title     = "Battle for Azeroth and Legion Reputations Warband-Wide in Patch 12.1.5",
-            body      = "Blizzard has revealed that BFA and Legion reputations will be warband-wide in Patch 12.1.5! Continue reading »",
-            url       = "https://www.wowhead.com/news=382734/battle-for-azeroth-and-legion-reputations-warband-wide-in-patch-12-1-5",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788458400,
-            title     = "Tips and Tricks for The Battle of Mount Hyjal",
-            body      = "The Battle for Mount Hyjal is one of two raids in Phase 3 of TBC Anniversary. Here are some tips and tricks to make your runs go smoothly! Continue reading »",
-            url       = "https://www.wowhead.com/news=382718/tips-and-tricks-for-the-battle-of-mount-hyjal",
             category  = "news",
         },
     },
