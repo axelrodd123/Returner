@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-11T10:58:31Z",
+        generated_at = "2026-09-12T10:26:33Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1789164000,
+            title     = "Unlock a Secret Delve Gravestone in Undercity",
+            body      = "Players can unlock the Lordaeron's Loss Delve Gravestone by dying in present-day Lordaeron or Undercity! Continue reading »",
+            url       = "https://www.wowhead.com/news=382646/unlock-a-secret-delve-gravestone-in-undercity",
+            category  = "news",
+        },
+        {
+            timestamp = 1789149600,
+            title     = "Possible Winter Veil and Hallow's End Rewards Coming in Patch 12.1.5",
+            body      = "Possible new rewards for some holidays are coming in Patch 12.1.5, like candy-themed weapons, Krampus-style mogs, and new achievements! Continue reading »",
+            url       = "https://www.wowhead.com/news=382798/possible-winter-veil-and-hallows-end-rewards-coming-in-patch-12-1-5",
+            category  = "patch",
+        },
+        {
+            timestamp = 1789143837,
+            title     = "Blizzard's Guide to BlizzCon: What to Know Before You Go",
+            body      = "BlizzCon is officially tomorrow! If you're at the Con, Blizzard has some tips and tricks to help you enjoy your time in person. Continue reading »",
+            url       = "https://www.wowhead.com/news=382800/blizzards-guide-to-blizzcon-what-to-know-before-you-go",
+            category  = "news",
+        },
         {
             timestamp = 1789098203,
             title     = "Wildfire Bomb, Glory of the Vanguard, and More: Class Bugfixes in Today's Hotfixes",
@@ -267,27 +288,6 @@ Returner_Data = {
             body      = "A new Delve boss is coming in Patch 12.1.5 with the Labyrinths feature, and there's an achievement for defeating Kindo'Jan solo during the first week! Continue reading »",
             url       = "https://www.wowhead.com/news=382742/new-solo-delve-hall-of-fame-achievement-in-patch-12-1-5",
             category  = "patch",
-        },
-        {
-            timestamp = 1788467870,
-            title     = "World First Venomous Abyss Reactions and Celebratory Nerdscreams",
-            body      = "The Venomous Abyss Race to World First is finally over, erupting in a roar of nerd screams as Team Liquid secures their fifth consecutive victory! Continue reading »",
-            url       = "https://www.wowhead.com/news=382745/world-first-venomous-abyss-reactions-and-celebratory-nerdscreams",
-            category  = "news",
-        },
-        {
-            timestamp = 1788465538,
-            title     = "New Mount Models and Animations Datamined on the Patch 12.1.5 PTR",
-            body      = "We've datamined several new mount models on the Patch 12.1.5 PTR, a few of which have special animations! Continue reading »",
-            url       = "https://www.wowhead.com/news=382741/new-mount-models-and-animations-datamined-on-the-patch-12-1-5-ptr",
-            category  = "patch",
-        },
-        {
-            timestamp = 1788462343,
-            title     = "Ula'tek Falls to Liquid - World Champions of the Venomous Abyss",
-            body      = "After 17 days and 306 pulls, Team Liquid has defeated Ula'tek on Mythic difficulty, claiming the title of World Champions of the Venomous Abyss! Continue reading »",
-            url       = "https://www.wowhead.com/news=382682/ulatek-falls-to-liquid-world-champions-of-the-venomous-abyss",
-            category  = "news",
         },
     },
 }
