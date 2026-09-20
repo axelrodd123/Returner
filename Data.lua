@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-19T10:39:49Z",
+        generated_at = "2026-09-20T11:02:28Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1789842106,
+            title     = "It Be Pirate’s Day - Get Ye a New Transmog Fer Yer Peeper",
+            body      = "It's Pirate's Day in Azeroth and you know what that means! Head to Booty Bay for celebrations and a new transmog. Continue reading »",
+            url       = "https://www.wowhead.com/news=383003/it-be-pirate-s-day-get-ye-a-new-transmog-fer-yer-peeper",
+            category  = "news",
+        },
+        {
+            timestamp = 1789840800,
+            title     = "Behind the Scenes of the WoW: Forever Beta Issues - Tom Ellis Explains on X",
+            body      = "The WoW: Forever Beta launched yesterday with login and lag issues and Tom Ellis has given a behind-the-scenes look at the causes of the issues and how they fixed them. Continue reading »",
+            url       = "https://www.wowhead.com/news=382993/behind-the-scenes-of-the-wow-forever-beta-issues-tom-ellis-explains-on-x",
+            category  = "news",
+        },
+        {
+            timestamp = 1789830000,
+            title     = "Mythic Nymrissa May Guarantee Great Vault Loot Slots",
+            body      = "Players have discovered that killing Mythic Nymrissa may guarantee a piece of her loot in one of your Great Vault slots. Continue reading »",
+            url       = "https://www.wowhead.com/news=382966/mythic-nymrissa-may-guarantee-great-vault-loot-slots",
+            category  = "news",
+        },
+        {
+            timestamp = 1789826400,
+            title     = "New Phasing Notification in WoW: Forever - Changing Phases Safely",
+            body      = "In WoW: Forever, players will get a notification when they are about to phase, giving them time to get to a safe location before it triggers. Continue reading »",
+            url       = "https://www.wowhead.com/news=382994/new-phasing-notification-in-wow-forever-changing-phases-safely",
+            category  = "news",
+        },
         {
             timestamp = 1789772734,
             title     = "Augmentation Evoker Buff - Class Tuning Incoming",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "New Hyjal Raid Weapon Models in WoW: Forever",
             body      = "We've datamined over forty new models associated with the two Hyjal raids in World of Warcraft: Forever! Continue reading »",
             url       = "https://www.wowhead.com/news=382953/new-hyjal-raid-weapon-models-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1789597088,
-            title     = "New and Modified World Maps in World of Warcraft: Forever",
-            body      = "We've datamined both new and modified World Maps in World of Warcraft: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=382950/new-and-modified-world-maps-in-world-of-warcraft-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1789595255,
-            title     = "All Skyborne Male Customization Options in WoW: Forever",
-            body      = "We've datamined all the customizations coming for Skyborne body type 1 models! Continue reading »",
-            url       = "https://www.wowhead.com/news=382952/all-skyborne-male-customization-options-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1789593536,
-            title     = "Forty New Skyborne Weapon Models in WoW: Forever",
-            body      = "We've datamined forty new models, covering all of various Skyborne starter weapons in World of Warcraft: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=382951/forty-new-skyborne-weapon-models-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1789592263,
-            title     = "Over a Hundred Creature Models in WoW: Forever",
-            body      = "We've datamined over 100 creature models in World of Warcraft: Forever, some of which may look familiar, while others appear to be brand new! Continue reading »",
-            url       = "https://www.wowhead.com/news=382946/over-a-hundred-creature-models-in-wow-forever",
             category  = "news",
         },
     },
