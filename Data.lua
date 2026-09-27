@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-09-26T11:08:25Z",
+        generated_at = "2026-09-27T11:46:32Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1790456413,
+            title     = "WoW: Forever Adds Bad Luck Protection on Quest Drops While Grouped",
+            body      = "Aggrend has revealed on social media that WoW: Forever has a form of Bad Luck Protection for quest items while grouped. Continue reading »",
+            url       = "https://www.wowhead.com/news=383138/wow-forever-adds-bad-luck-protection-on-quest-drops-while-grouped",
+            category  = "news",
+        },
+        {
+            timestamp = 1790445600,
+            title     = "All Cooking Food that Currently Gives XP Buffs in WoW: Forever",
+            body      = "With Camping's focus on professions, plenty of players will be looking to level Cooking - so take a look at all the food that provides XP bonuses currently in the Forever beta. Continue reading »",
+            url       = "https://www.wowhead.com/news=382928/all-cooking-food-that-currently-gives-xp-buffs-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1790438400,
+            title     = "The Weekly Reset with Taliesin and Evitel: Forever",
+            body      = "Taliesin and Evitel dig in to WoW: Forever, giving an excellent overview of what Forever is and how it stacks up with Retail and Classic. Continue reading »",
+            url       = "https://www.wowhead.com/news=383079/the-weekly-reset-with-taliesin-and-evitel-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1790431200,
+            title     = "Classic Raid Population Dropping as WoW: Forever Beta Progresses",
+            body      = "With the release of WoW: Forever Beta, the TBC Anniversary and MOP Classic raiding populations have taken a massive hit. Continue reading »",
+            url       = "https://www.wowhead.com/news=383131/classic-raid-population-dropping-as-wow-forever-beta-progresses",
+            category  = "news",
+        },
         {
             timestamp = 1790366349,
             title     = "Recent Allies Feature in WoW: Forever Helps with a Sense of Community",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "Auto Shot and Wanding Cast Time Reduction in WoW: Forever Not Intended - Will Be Fixed",
             body      = "Blizzard has announced that the reduction in cast time to Auto Shot and Wanding in the WoW: Forever beta are bugs and it will be fixed. Continue reading »",
             url       = "https://www.wowhead.com/news=383064/auto-shot-and-wanding-cast-time-reduction-in-wow-forever-not-intended-will-be",
-            category  = "news",
-        },
-        {
-            timestamp = 1790175600,
-            title     = "Kodo Mount for Alliance from Reputation in WoW: Forever",
-            body      = "Kodo mounts are typically only for Horde players, but Alliance players can get a Kodo mount in WoW: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=383049/kodo-mount-for-alliance-from-reputation-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1790175498,
-            title     = "Exclusive Look at Dungeon Masters Campaign Characters for D&D: World of Warcraft",
-            body      = "D&D: World of Warcraft will be featured on the premiere of tonight's episode of D&D: Dungeon Masters and Dungeons & Dragons has provided us with some exclusive information about their upcoming campaign! Continue reading »",
-            url       = "https://www.wowhead.com/news=383061/exclusive-look-at-dungeon-masters-campaign-characters-for-d-d-world-of-warcraft",
-            category  = "news",
-        },
-        {
-            timestamp = 1790172000,
-            title     = "Open World Rare Spawn Item Sets Make Rares More Valuable in Forever",
-            body      = "WoW Forever introduces new set bonus pieces that can be farmed through rare spawns in the open world. Continue reading »",
-            url       = "https://www.wowhead.com/news=383053/open-world-rare-spawn-item-sets-make-rares-more-valuable-in-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1790168400,
-            title     = "Wailing Caverns Set Bonus Turns Players Into a Snake in Forever",
-            body      = "The Wailing Caverns set has a hidden set bonus, allowing some players to turn into a snake! Continue reading »",
-            url       = "https://www.wowhead.com/news=383046/wailing-caverns-set-bonus-turns-players-into-a-snake-in-forever",
             category  = "news",
         },
     },
