@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-03T11:25:59Z",
+        generated_at = "2026-10-04T12:06:21Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1791043200,
+            title     = "Necklace Rewards from Collecting Books Nerfed to Uncommon Quality in WoW: Forever",
+            body      = "The Necklace rewards from collecting books have been nerfed from Rare Quality to Uncommon in the latest WoW: Forever beta build. Continue reading »",
+            url       = "https://www.wowhead.com/news=383231/necklace-rewards-from-collecting-books-nerfed-to-uncommon-quality-in-wow-forever",
+            category  = "patch",
+        },
+        {
+            timestamp = 1791036000,
+            title     = "Every Quest in Excavation Site: Wetlands - WoW Forever",
+            body      = "Excavation Site is a brand new dungeon in WoW Forever, here you can find every quest for this dungeon. Continue reading »",
+            url       = "https://www.wowhead.com/news=383239/every-quest-in-excavation-site-wetlands-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1790980976,
             title     = "Unholy DK Nerfs - Incoming Class Tuning on Weekly Reset",
@@ -274,20 +288,6 @@ Returner_Data = {
             body      = "There are many new pets to acquire in World of Warcaft: Forever, including the new Musical Gustjumper. Continue reading »",
             url       = "https://www.wowhead.com/news=383087/how-to-get-the-new-musical-gustjumper-pet-in-wow-forever",
             category  = "news",
-        },
-        {
-            timestamp = 1790776800,
-            title     = "Earn Two New Pets in Capital Cities in WoW: Forever",
-            body      = "New companion pets are being found in WoW: Forever, including in Stormwind and Undercity! Continue reading »",
-            url       = "https://www.wowhead.com/news=383170/earn-two-new-pets-in-capital-cities-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1790727208,
-            title     = "Ula'tek Bug Fix - Patch 12.1 Midnight Hotfixes for September 29",
-            body      = "Blizzard has posted hotfixes for today which include Ula'tek and Coren Direbrew bug fixes. Continue reading »",
-            url       = "https://www.wowhead.com/news=383182/ulatek-bug-fix-patch-12-1-midnight-hotfixes-for-september-29",
-            category  = "hotfix",
         },
     },
 }
