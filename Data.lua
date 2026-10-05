@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-04T12:06:21Z",
+        generated_at = "2026-10-05T14:11:21Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1791208800,
+            title     = "WoW: Forever Character Creation Portraits Now Have SD and HD Versions",
+            body      = "After popular demand, Blizzard has added back SD character creation portraits whenever players have the SD toggle on in WoW: Forever. Continue reading »",
+            url       = "https://www.wowhead.com/news=383248/wow-forever-character-creation-portraits-now-have-sd-and-hd-versions",
+            category  = "news",
+        },
+        {
+            timestamp = 1791129600,
+            title     = "Professions get Fun Thematic Gear Bonuses in WoW: Forever",
+            body      = "Professions have gotten a ton of new recipes, bonuses, and even gear in WoW: Forever - including dungeon pieces that increase crafting speed and hammers that double as throwing weapons! Continue reading »",
+            url       = "https://www.wowhead.com/news=383236/professions-get-fun-thematic-gear-bonuses-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1791122400,
+            title     = "Student Fodder Doesn't Give Rested Experience in WoW: Forever",
+            body      = "The Sleeping Bag quest in Season of Discovery returned in WoW: Forever. However, one of the quest rewards, Student Fodder, doesn't have all the same effects. Continue reading »",
+            url       = "https://www.wowhead.com/news=383243/student-fodder-doesnt-give-rested-experience-in-wow-forever",
+            category  = "patch",
+        },
         {
             timestamp = 1791043200,
             title     = "Necklace Rewards from Collecting Books Nerfed to Uncommon Quality in WoW: Forever",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "Priest and Warrior Class Deep Dives in World of Warcraft: Forever",
             body      = "Blizzard has now released a deep dive for the Priest and Warrior classes for World of Warcraft: Forever! Continue reading »",
             url       = "https://www.wowhead.com/news=383192/priest-and-warrior-class-deep-dives-in-world-of-warcraft-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1790794959,
-            title     = "Druid and Hunter Class Deep Dives in World of Warcraft: Forever",
-            body      = "Blizzard has released a deep dive of the Hunter and Druid classes in WoW: Forever. Continue reading »",
-            url       = "https://www.wowhead.com/news=383190/druid-and-hunter-class-deep-dives-in-world-of-warcraft-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1790789521,
-            title     = "Class Highlights for Warriors, Rogues and Shamans in WoW: Forever",
-            body      = "Blizzard has released a video going over some of the major class changes for Warriors, Shamans and Rogues in WoW: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=383189/class-highlights-for-warriors-rogues-and-shamans-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1790780400,
-            title     = "How to Get the New Musical Gustjumper Pet in WoW: Forever",
-            body      = "There are many new pets to acquire in World of Warcaft: Forever, including the new Musical Gustjumper. Continue reading »",
-            url       = "https://www.wowhead.com/news=383087/how-to-get-the-new-musical-gustjumper-pet-in-wow-forever",
             category  = "news",
         },
     },
