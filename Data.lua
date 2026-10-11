@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-10T12:14:01Z",
+        generated_at = "2026-10-11T12:28:34Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1791655200,
+            title     = "Blizzard Teases Possible Change to Unlock Level of Dual Spec in WoW: Forever",
+            body      = "In this week's WoW: Forever podcast, Blizzard teases that they are looking at changing when dual spec unlocks! Continue reading »",
+            url       = "https://www.wowhead.com/news=383320/blizzard-teases-possible-change-to-unlock-level-of-dual-spec-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1791651132,
+            title     = "All Melee Swings Cause \"Phantom Damage\" to Health Bars in Midnight",
+            body      = "After the \"fake damage\" issues in Murder Row, players have now discovered a massive bug where all melee swings deal \"phantom damage,\" causing players to briefly appear more dead than in reality. Continue reading »",
+            url       = "https://www.wowhead.com/news=383363/all-melee-swings-cause-phantom-damage-to-health-bars-in-midnight",
+            category  = "news",
+        },
+        {
+            timestamp = 1791644301,
+            title     = "New Toy Available from Great Gnomeregan Run Holiday",
+            body      = "A new toy is available from the Great Gnomeregan Run holiday, which runs until Sunday evening! Continue reading »",
+            url       = "https://www.wowhead.com/news=383362/new-toy-available-from-great-gnomeregan-run-holiday",
+            category  = "event",
+        },
+        {
+            timestamp = 1791640800,
+            title     = "New Paladin-Exclusive Cloak Currently Alliance Only",
+            body      = "WoW Forever has rebranded a Season of Discovery Rune Quest Chain in WoW Forever. The Divine Storm rune chain now awards players the Cloak of Divine Storm - but it seems like only Alliance players can currently complete it. Continue reading »",
+            url       = "https://www.wowhead.com/news=383286/new-paladin-exclusive-cloak-currently-alliance-only",
+            category  = "patch",
+        },
         {
             timestamp = 1791592786,
             title     = "2nd Boss Murder Row Hotfixed and Now Deals Real Damage",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "The WoW: Forever Podcast Episode 3 Now Available - Dungeons and Questing",
             body      = "Blizzard has released Episode 3 of the WoW: Forever podcast and this week they're discussing dungeons and questing! Continue reading »",
             url       = "https://www.wowhead.com/news=383309/the-wow-forever-podcast-episode-3-now-available-dungeons-and-questing",
-            category  = "news",
-        },
-        {
-            timestamp = 1791476195,
-            title     = "Mage and Shaman Class Deep Dive for World of Warcraft: Forever",
-            body      = "Blizzard has released a large overview for the Mage and Shaman classes in WoW: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=383305/mage-and-shaman-class-deep-dive-for-world-of-warcraft-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1791471793,
-            title     = "WoW: Forever Beta Build Today - Expected Downtime of 6 Hours",
-            body      = "Blizzard has announced that the WoW: Forever Beta will be going down in an hour for a new build, with an expected downtime of 6 hours. Continue reading »",
-            url       = "https://www.wowhead.com/news=383306/wow-forever-beta-build-today-expected-downtime-of-6-hours",
-            category  = "patch",
-        },
-        {
-            timestamp = 1791471600,
-            title     = "Level 30 Guides are Here - Meet our WoW: Forever Class Writing Team",
-            body      = "Our level 30 class guides are ready for you to finish off the beta strong - now, meet our Class Guide Writing Team for WoW: Forever, bringing you the guides you'll need once the game releases on November 4th! Continue reading »",
-            url       = "https://www.wowhead.com/news=383169/level-30-guides-are-here-meet-our-wow-forever-class-writing-team",
-            category  = "news",
-        },
-        {
-            timestamp = 1791468900,
-            title     = "Do We Have Enough Bag Space in WoW: Forever?",
-            body      = "WoW: Forever has introduced new gear with unique buffs that players will want to keep even at higher levels. With so much to collect, as the game continues, will we run out of bag space? Continue reading »",
-            url       = "https://www.wowhead.com/news=383269/do-we-have-enough-bag-space-in-wow-forever",
             category  = "news",
         },
     },
