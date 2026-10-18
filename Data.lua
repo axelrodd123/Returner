@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-17T10:25:46Z",
+        generated_at = "2026-10-18T10:44:20Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1792260000,
+            title     = "New Warband Campsite Datamined in Patch 12.1.7",
+            body      = "A new Warband campsite has been datamined in Patch 12.1.7! Continue reading »",
+            url       = "https://www.wowhead.com/news=383453/new-warband-campsite-datamined-in-patch-12-1-7",
+            category  = "patch",
+        },
+        {
+            timestamp = 1792252800,
+            title     = "Labyrinth of Kindo'jan Has No Save Points Mid Run",
+            body      = "The Labyrinth of Kindo'jan does not allow you to save your run between sessions, forcing you to restart every run from the beginning. Continue reading »",
+            url       = "https://www.wowhead.com/news=383469/labyrinth-of-kindojan-has-no-save-points-mid-run",
+            category  = "news",
+        },
+        {
+            timestamp = 1792245600,
+            title     = "What's Going on With Layering in WoW: Forever?",
+            body      = "Players have noticed some interesting interactions when it comes to layers and layering in WoW: Forever, making for some frustrating gameplay. Continue reading »",
+            url       = "https://www.wowhead.com/news=383412/whats-going-on-with-layering-in-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1792203530,
             title     = "Many More Labyrinth Fixes - Patch 12.1.5 Hotfixes",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "The Secret Finding Discord is Sleuthing Again in WoW: Forever",
             body      = "WoW: Forever has tons of secrets in store, and the Secret Finding Discord is on the case! Join in the fun and keep an eye out for new, exciting discoveries. Continue reading »",
             url       = "https://www.wowhead.com/news=383414/the-secret-finding-discord-is-sleuthing-again-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1792079262,
-            title     = "Blizzard Addressing Issue with Nebulous Voidcores for Players Who Were Temporarily Suspended",
-            body      = "Blizzard has announced an upcoming fix for players who picked up too many Bonus Rolls last week, as they can no longer get more at the moment. Continue reading »",
-            url       = "https://www.wowhead.com/news=383427/blizzard-addressing-issue-with-nebulous-voidcores-for-players-who-were",
-            category  = "news",
-        },
-        {
-            timestamp = 1792076400,
-            title     = "Collect Hexmasks and Unlock Locked Rooms in Labyrinths",
-            body      = "Look out for Hexmasks and the Locked Room in the Labyrinth of Kindo'jan, which can give you bonus power and rewards! Continue reading »",
-            url       = "https://www.wowhead.com/news=383423/collect-hexmasks-and-unlock-locked-rooms-in-labyrinths",
-            category  = "news",
-        },
-        {
-            timestamp = 1792072800,
-            title     = "Mislaid Curiosities Allow Massive Stat Buff Stacking in Labyrinths",
-            body      = "When making your way through the Labyrinth of Kindo'jan, make sure to loot Mislaid Curiosities to stack up some massive stat buffs! Continue reading »",
-            url       = "https://www.wowhead.com/news=383422/mislaid-curiosities-allow-massive-stat-buff-stacking-in-labyrinths",
             category  = "news",
         },
     },
