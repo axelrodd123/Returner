@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-18T10:44:20Z",
+        generated_at = "2026-10-19T12:43:46Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1792346400,
+            title     = "New Glove Enchants Available from Loa-Sealed Rooms in Labyrinth of Kindo'jan",
+            body      = "New Glove Enchants are available from the Labyrinth of Kindo'jan, but they only work in Delves. Continue reading »",
+            url       = "https://www.wowhead.com/news=383426/new-glove-enchants-available-from-loa-sealed-rooms-in-labyrinth-of-kindojan",
+            category  = "news",
+        },
+        {
+            timestamp = 1792332000,
+            title     = "Premade Groups Will Only Match Against Other Premades in WoW: Forever Battlegrounds",
+            body      = "In the most recent WoW: Forever podcast, Blizzard revealed that if you queue a Battleground solo, you will not be matched against a premade. Continue reading »",
+            url       = "https://www.wowhead.com/news=383436/premade-groups-will-only-match-against-other-premades-in-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1792260000,
             title     = "New Warband Campsite Datamined in Patch 12.1.7",
@@ -273,20 +287,6 @@ Returner_Data = {
             title     = "The WoW: Forever Podcast Episode 4 Now Available - PvP Discussion",
             body      = "Blizzard has released Episode 4 of the WoW: Forever podcast and this week they're discussing PvP! Continue reading »",
             url       = "https://www.wowhead.com/news=383429/the-wow-forever-podcast-episode-3-now-available-pvp-discussion",
-            category  = "news",
-        },
-        {
-            timestamp = 1792080099,
-            title     = "More Omnium Folio Unlocks - Patch 12.1.7: Echoes of the Worldcore Overview",
-            body      = "Blizzard has released a preview of Patch 12.1.7: Echoes of the Worldcore, containing more Omnium Folio unlocks, Talebound and more! Continue reading »",
-            url       = "https://www.wowhead.com/news=383428/more-omnium-folio-unlocks-patch-12-1-7-echoes-of-the-worldcore-overview",
-            category  = "patch",
-        },
-        {
-            timestamp = 1792080000,
-            title     = "The Secret Finding Discord is Sleuthing Again in WoW: Forever",
-            body      = "WoW: Forever has tons of secrets in store, and the Secret Finding Discord is on the case! Join in the fun and keep an eye out for new, exciting discoveries. Continue reading »",
-            url       = "https://www.wowhead.com/news=383414/the-secret-finding-discord-is-sleuthing-again-in-wow-forever",
             category  = "news",
         },
     },
