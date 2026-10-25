@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-24T10:39:34Z",
+        generated_at = "2026-10-25T11:03:53Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1792864800,
+            title     = "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
+            body      = "We've datamined four new potions on the Patch 12.1.7 PTR that grant 30% bonus experience. Continue reading »",
+            url       = "https://www.wowhead.com/news=383566/new-30-bonus-experience-potions-datamined-on-patch-12-1-7-ptr",
+            category  = "patch",
+        },
+        {
+            timestamp = 1792850400,
+            title     = "Catch Up on Renown Quickly with Aqir Invasions",
+            body      = "If you're looking to quickly level your Midnight Faction renown, complete Aqir Invasions weekly for exchange tokens. Continue reading »",
+            url       = "https://www.wowhead.com/news=383544/catch-up-on-renown-quickly-with-aqir-invasions",
+            category  = "news",
+        },
         {
             timestamp = 1792801437,
             title     = "Den of Nalorakk and Murder Row Bug Fixes - Patch 12.1.5 Hotfixes",
@@ -273,20 +287,6 @@ Returner_Data = {
             title     = "How to Reserve Your World of Warcraft: Forever Character Name on October 27th",
             body      = "Blizzard has revealed how players can reserve their character names in World of Warcraft: Forever on October 27th! Continue reading »",
             url       = "https://www.wowhead.com/news=383515/how-to-reserve-your-world-of-warcraft-forever-character-name-on-october-27th",
-            category  = "news",
-        },
-        {
-            timestamp = 1792528972,
-            title     = "Blizzard Announces Closing Date and Extension for WoW: Forever Beta",
-            body      = "The World of Warcraft: Forever Beta has been extended an extra two days and will be going offline on Friday, October 23rd. Continue reading »",
-            url       = "https://www.wowhead.com/news=383514/blizzard-announces-closing-date-and-extension-for-wow-forever-beta",
-            category  = "news",
-        },
-        {
-            timestamp = 1792528407,
-            title     = "WoW: Forever Stress Test Start Times on October 21st",
-            body      = "Blizzard has confirmed the start times for the WoW: Forever stress test! Continue reading »",
-            url       = "https://www.wowhead.com/news=383513/wow-forever-stress-test-start-times-on-october-21st",
             category  = "news",
         },
     },
