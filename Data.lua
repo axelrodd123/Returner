@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-25T11:03:53Z",
+        generated_at = "2026-10-26T12:37:10Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1792951200,
+            title     = "More Readable Book Decor Coming in Patch 12.1.7",
+            body      = "Patch 12.1.7 is bringing more book decor from Lorewalking, and they're all readable! Continue reading »",
+            url       = "https://www.wowhead.com/news=383516/more-readable-book-decor-coming-in-patch-12-1-7",
+            category  = "patch",
+        },
+        {
+            timestamp = 1792936800,
+            title     = "New Winter Veil Neighborhood Activities Updates in Patch 12.1.7",
+            body      = "New achievements indicate that Housing Neighborhoods are getting updates for Winter Veil in Patch 12.1.7, which includes a new Tree Defense activity. Continue reading »",
+            url       = "https://www.wowhead.com/news=383562/new-winter-veil-neighborhood-activities-updates-in-patch-12-1-7",
+            category  = "patch",
+        },
         {
             timestamp = 1792864800,
             title     = "New 30% Bonus Experience Potions Datamined on Patch 12.1.7 PTR",
@@ -274,20 +288,6 @@ Returner_Data = {
             body      = "Blizzard has posted hotfixes for today, which prevent Spirits Conduits from being used on the Kindo'jan encounter. Continue reading »",
             url       = "https://www.wowhead.com/news=383519/spirit-conduit-loa-powers-can-no-longer-be-used-on-kindo-jan-patch-12-1-5",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1792534443,
-            title     = "Turn Restored Coffer Keys into Ascendant Venomstones by Doing Tier 11 Delves",
-            body      = "If you have a lot of Restored Coffer Keys, you can turn them into Ascendant Venomstones by opening Bountiful Chests from Tier 11 Delves and Labyrinths. Continue reading »",
-            url       = "https://www.wowhead.com/news=383518/turn-restored-coffer-keys-into-ascendant-venomstones",
-            category  = "news",
-        },
-        {
-            timestamp = 1792530142,
-            title     = "How to Reserve Your World of Warcraft: Forever Character Name on October 27th",
-            body      = "Blizzard has revealed how players can reserve their character names in World of Warcraft: Forever on October 27th! Continue reading »",
-            url       = "https://www.wowhead.com/news=383515/how-to-reserve-your-world-of-warcraft-forever-character-name-on-october-27th",
-            category  = "news",
         },
     },
 }
