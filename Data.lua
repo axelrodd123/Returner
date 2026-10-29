@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-28T12:30:06Z",
+        generated_at = "2026-10-29T12:41:02Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1793222237,
+            title     = "New Class and Item Tuning on WoW: Forever - Hunter Changes",
+            body      = "With name reservations now live in WoW: Forever, there are some tuning changes for Hunters and an Alchemy potion. Continue reading »",
+            url       = "https://www.wowhead.com/news=383641/new-class-and-item-tuning-on-wow-forever-hunter-changes",
+            category  = "news",
+        },
+        {
+            timestamp = 1793215838,
+            title     = "Retail Team Discussing Lighting and Water Improvements from WoW: Forever",
+            body      = "In an interview with IGN, Kris Zierhut confirms that the Retail WoW team has been discussing many of the lightning and water improvements from WoW: Forever. Continue reading »",
+            url       = "https://www.wowhead.com/news=383637/retail-team-discussing-lighting-and-water-improvements-from-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1793207134,
+            title     = "New Player’s Starter Guide for World of Warcraft: Forever",
+            body      = "Blizzard has released a new player's starter guide for World of Warcraft: Forever! Continue reading »",
+            url       = "https://www.wowhead.com/news=383632/new-player-s-starter-guide-for-world-of-warcraft-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1793205495,
+            title     = "Planet Azeroth: Episode 1 ft. Bill Bailey",
+            body      = "Learn more about wolves, boars and the Barrens Chat in the new YouTube video series, Planet Azeroth, narrated by Bill Bailey. Continue reading »",
+            url       = "https://www.wowhead.com/news=383630/planet-azeroth-episode-1-ft-bill-bailey",
+            category  = "news",
+        },
+        {
+            timestamp = 1793199600,
+            title     = "New Cabin-Themed Shop Decor Discovered in Patch 12.1.7",
+            body      = "New decor sourced from the shop has been discovered on the 12.1.7 PTR, and it looks to be cozy, winter cabin-themed. Continue reading »",
+            url       = "https://www.wowhead.com/news=383593/new-cabin-themed-shop-decor-discovered-in-patch-12-1-7",
+            category  = "patch",
+        },
+        {
+            timestamp = 1793196000,
+            title     = "Warlords of Draenor Timewalking Week Now Live",
+            body      = "Warlords of Draenor Timewalking is now live for the week! Continue reading »",
+            url       = "https://www.wowhead.com/news=383619/warlords-of-draenor-timewalking-week-now-live",
+            category  = "news",
+        },
         {
             timestamp = 1793151005,
             title     = "Name Reservations Included Overly Restrictive Name Check But Fix Incoming",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "Players can now see various stats about their WoW: Forever Beta experience and share their results with their friends! Continue reading »",
             url       = "https://www.wowhead.com/news=383557/get-your-wow-forever-beta-stats",
             category  = "news",
-        },
-        {
-            timestamp = 1792771200,
-            title     = "Dalaran Updated Ahead of the Beta's End in WoW: Forever",
-            body      = "Dalaran opened its doors to Alliance players in WoW: Forever. In the final build of the Beta, the city received some significant updates! Continue reading »",
-            url       = "https://www.wowhead.com/news=383523/dalaran-updated-ahead-of-the-betas-end-in-wow-forever",
-            category  = "patch",
-        },
-        {
-            timestamp = 1792767600,
-            title     = "Bind to Account Mythic+ Gear Chests Now Available",
-            body      = "Mythic+ gear crates are now available to purchase for your alts and are a great source of catch-up gear! Continue reading »",
-            url       = "https://www.wowhead.com/news=383529/bind-to-account-mythic-gear-chests-now-available",
-            category  = "news",
-        },
-        {
-            timestamp = 1792764900,
-            title     = "Some Decor Costs Adjusted on the Patch 12.1.7 PTR",
-            body      = "Some decor costs are being adjusted on the Patch 12.1.7 PTR, with The War Within costs getting modestly nerfed while some Midnight decor is rising in price. Continue reading »",
-            url       = "https://www.wowhead.com/news=383511/some-decor-costs-adjusted-on-the-patch-12-1-7-ptr",
-            category  = "patch",
-        },
-        {
-            timestamp = 1792764000,
-            title     = "Who is WoW: Forever Meant For? Blizzard Discusses on Forever Podcast",
-            body      = "In the latest podcast episode, Associate Production Director Clay Stone breaks down who World of Warcraft: Forever is meant for. Continue reading »",
-            url       = "https://www.wowhead.com/news=383547/who-is-wow-forever-meant-for-blizzard-discusses-on-forever-podcast",
-            category  = "news",
-        },
-        {
-            timestamp = 1792760400,
-            title     = "Four New Titles Available from Talebound in Patch 12.1.7",
-            body      = "Four new titles are awarded to players for completing various achievements in Talebound! Continue reading »",
-            url       = "https://www.wowhead.com/news=383551/four-new-titles-available-from-talebound-in-patch-12-1-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1792721988,
-            title     = "Item Level Changes for Ascended Venomforged Gear",
-            body      = "A recent hotfix has changed the item level of gear after you use Ascended Venomstones on it. Continue reading »",
-            url       = "https://www.wowhead.com/news=383552/item-level-changes-for-ascended-venomforged-gear",
-            category  = "hotfix",
         },
     },
 }
