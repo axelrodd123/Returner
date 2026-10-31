@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-30T12:32:21Z",
+        generated_at = "2026-10-31T11:58:51Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1793402534,
+            title     = "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
+            body      = "Druids and Paladins have some massive talent tree changes, with many others getting class tuning changes ahead of WoW: Forever's launch on November 4th! Continue reading »",
+            url       = "https://www.wowhead.com/news=383670/massive-talent-tree-changes-to-druids-and-paladins-class-tuning-for-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1793389024,
+            title     = "Over 8 Million Characters Were Created in the WoW: Forever Beta",
+            body      = "Blizzard has released some statistics about the WoW: Forever Beta, and over 8 million characters were created! Continue reading »",
+            url       = "https://www.wowhead.com/news=383669/over-8-million-characters-were-created-in-the-wow-forever-beta",
+            category  = "news",
+        },
+        {
+            timestamp = 1793381506,
+            title     = "November Traveler's Log Bonus Reward - Hot Motocross Bunmover 4600 Mount",
+            body      = "Blizzard has announced the November Traveler's Log bonus reward, the Motocross Bunmover 4600! Continue reading »",
+            url       = "https://www.wowhead.com/news=383666/november-travelers-log-bonus-reward-hot-motocross-bunmover-4600-mount",
+            category  = "news",
+        },
+        {
+            timestamp = 1793380818,
+            title     = "WoW Weekly Recap - WoW: Forever, Talebound Demo, New Shop Decor Packs",
+            body      = "Blizzard has posted this week's WoW weekly recap, which includes WoW: Forever launching next week, the Talebound Demo starting today, and new shop decor packs. Continue reading »",
+            url       = "https://www.wowhead.com/news=383664/wow-weekly-recap-wow-forever-talebound-demo-new-shop-decor-packs",
+            category  = "news",
+        },
+        {
+            timestamp = 1793372400,
+            title     = "Blizzard Addresses Day and Night Cycle Issues for Oceanic Players in WoW: Forever",
+            body      = "In the latest episode of the WoW: Forever Podcast, Blizzard has addressed Day and Night cycle issues for Oceanic Players in WoW: Forever. Continue reading »",
+            url       = "https://www.wowhead.com/news=383652/blizzard-addresses-day-and-night-cycle-issues-for-oceanic-players-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1793368800,
+            title     = "Returning to Dornogal - Patch 12.1.7 Campaign Playthrough (Story Spoilers)",
+            body      = "In patch 12.1.7, players depart Silvermoon and return to Dornogal in pursuit of Xal'atath! Here, we showcase the story of this prologue chapter for patch 12.2. Continue reading »",
+            url       = "https://www.wowhead.com/news=383482/returning-to-dornogal-patch-12-1-7-campaign-playthrough-story-spoilers",
+            category  = "patch",
+        },
         {
             timestamp = 1793317863,
             title     = "Talebound End-Game Player Power Rewards - Venomstones, Bonus Rolls, Experience Potions",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "New housing items have been decrypted on live servers and we've datamined a new Grimtide housing exterior and decor! Continue reading »",
             url       = "https://www.wowhead.com/news=383598/new-grimtide-housing-exterior-and-decor-datamined",
             category  = "news",
-        },
-        {
-            timestamp = 1793047094,
-            title     = "Racial Ability Tuning Pass for WoW: Forever",
-            body      = "Blizzard has announced upcoming racial ability tuning for the launch of WoW: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=383597/racial-ability-tuning-pass-for-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1793041781,
-            title     = "Meet the Devs at WoW: Forever Poster Signing - Limited Tickets Available Tomorrow",
-            body      = "Blizzard has announced a WoW: Forever Poster Signing on November 2nd where players can meet the devs and tickets are available starting tomorrow! Continue reading »",
-            url       = "https://www.wowhead.com/news=383595/meet-the-devs-at-wow-forever-poster-signing-limited-tickets-available-now",
-            category  = "news",
-        },
-        {
-            timestamp = 1793037691,
-            title     = "Test Talebound on the Patch 12.1.7 PTR This Friday!",
-            body      = "Blizzard is hosting a test of Talebound this Friday on the Patch 12.1.7 PTR! No subscription is needed. Continue reading »",
-            url       = "https://www.wowhead.com/news=383592/test-talebound-on-the-patch-12-1-7-ptr-this-friday",
-            category  = "patch",
-        },
-        {
-            timestamp = 1793034429,
-            title     = "Watch the WoW: Forever Short Story, “Unbowed”",
-            body      = "A new World of Warcraft: Forever short story called \"Unbowed\" focuses on the story of Cormack, a former Scarlet Crusader, as he struggles to accept his undead existence. Continue reading »",
-            url       = "https://www.wowhead.com/news=383589/watch-the-wow-forever-short-story-unbowed-world-of-warcraft-blizzard-news",
-            category  = "news",
-        },
-        {
-            timestamp = 1793026800,
-            title     = "Blizzard Hints The WoW: Forever Podcast Will Continue",
-            body      = "In Blizzard's latest episode of the WoW Forever Podcast, they have strongly hinted that it will continue through WoW: Forever's launch! Continue reading »",
-            url       = "https://www.wowhead.com/news=383573/blizzard-hints-the-wow-forever-podcast-will-continue",
-            category  = "news",
-        },
-        {
-            timestamp = 1793023200,
-            title     = "New Talebound Toy Allows Companion Pets to Fly on an Enchanted Book",
-            body      = "A new item datamined on the Patch 12.1.7 PTR allows battle and companion pets to fly on an enchanted flying book! Continue reading »",
-            url       = "https://www.wowhead.com/news=383565/new-talebound-toy-allows-companion-pets-to-fly-on-an-enchanted-book",
-            category  = "patch",
         },
     },
 }
