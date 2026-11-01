@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-10-31T11:58:51Z",
+        generated_at = "2026-11-01T12:59:12Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1793512981,
+            title     = "Get a Chef Uniform and a Warturkey Mount in November 2026 Trading Post",
+            body      = "Here's everything in the November 2026 Trading Post, which contains two chef uniforms and a Warturkey mount! Continue reading »",
+            url       = "https://www.wowhead.com/news=383680/get-a-chef-uniform-and-a-warturkey-mount-in-november-2026-trading-post",
+            category  = "news",
+        },
+        {
+            timestamp = 1793469600,
+            title     = "Could the WoW: Forever Podcast be Teasing a Secret New Weapon?",
+            body      = "A mysterious message on the latest WoW: Forever podcast board has players decoding Darnassian and speculating about what Blizzard could be hinting at. Continue reading »",
+            url       = "https://www.wowhead.com/news=383657/could-the-wow-forever-podcast-be-teasing-a-secret-new-weapon",
+            category  = "news",
+        },
+        {
+            timestamp = 1793469600,
+            title     = "Repeatable Quest Experience Exploit Fixed for WoW: Forever Launch",
+            body      = "Players discovered a repeatable Alliance-only quest that continuously gave XP, but Blizzard has fixed the quest for Forever's launch - don't plan to level with it! Continue reading »",
+            url       = "https://www.wowhead.com/news=383574/repeatable-quest-experience-exploit-fixed-for-wow-forever-launch",
+            category  = "news",
+        },
+        {
+            timestamp = 1793455200,
+            title     = "New Drust-Themed Hearthstone Available from Talebound",
+            body      = "A brand-new Hearthstone is available from Talebound, and we've datamined its animation! Continue reading »",
+            url       = "https://www.wowhead.com/news=383662/new-drust-themed-hearthstone-available-from-talebound",
+            category  = "news",
+        },
         {
             timestamp = 1793402534,
             title     = "Massive Talent Tree Changes to Druids and Paladins - Class Tuning for WoW: Forever",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Blizzard has added even more racial ability tuning in WoW: Forever, now also affecting Trolls. Continue reading »",
             url       = "https://www.wowhead.com/news=383602/more-racial-ability-tuning-on-wow-forever",
             category  = "patch",
-        },
-        {
-            timestamp = 1793113200,
-            title     = "New Theatre-Themed Decor Takes the Stage in Patch 12.1.7",
-            body      = "New theatre decor is coming in Patch 12.1.7, and players will be able to decorate with new curtains and stage backdrops in their homes. Continue reading »",
-            url       = "https://www.wowhead.com/news=383512/new-theatre-themed-decor-takes-the-stage-in-patch-12-1-7",
-            category  = "patch",
-        },
-        {
-            timestamp = 1793109600,
-            title     = "EllesmereUI Adds Fellowship-Inspired Nameplate Kick Tracker",
-            body      = "The popular EllesmereUI has added a new feature: a kick tracker that shows kick cooldowns right on the nameplate! Continue reading »",
-            url       = "https://www.wowhead.com/news=383591/ellesmereui-adds-fellowship-inspired-nameplate-kick-tracker",
-            category  = "news",
-        },
-        {
-            timestamp = 1793071347,
-            title     = "More Labyrinth & Class Bug Fixes - Patch 12.1.5 Hotfixes for October 26th",
-            body      = "Blizzard has posted hotfixes for today which includes more Labyrinth and Class bug fixes. Continue reading »",
-            url       = "https://www.wowhead.com/news=383599/more-labyrinth-and-class-bug-fixes-patch-12-1-5-hotfixes-for-october-26th",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1793057058,
-            title     = "New Grimtide Housing Exterior and Decor Datamined",
-            body      = "New housing items have been decrypted on live servers and we've datamined a new Grimtide housing exterior and decor! Continue reading »",
-            url       = "https://www.wowhead.com/news=383598/new-grimtide-housing-exterior-and-decor-datamined",
-            category  = "news",
         },
     },
 }
