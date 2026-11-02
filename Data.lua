@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-01T12:59:12Z",
+        generated_at = "2026-11-02T15:19:33Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1793579061,
+            title     = "Day of the Dead Celebrations Now Live",
+            body      = "The Day of the Dead celebration is now here, and for a few short days, players can earn exclusive transmog, achievements, and even snag some cool toys. Continue reading »",
+            url       = "https://www.wowhead.com/news=383689/day-of-the-dead-celebrations-now-live",
+            category  = "news",
+        },
+        {
+            timestamp = 1793556328,
+            title     = "Planet Azeroth: Episode 2 ft. Bill Bailey",
+            body      = "In the second episode of Planet Azeroth, Bill Bailey helps you learn more about Azeroth, including its raptors, tigers, and pirates. Continue reading »",
+            url       = "https://www.wowhead.com/news=383685/planet-azeroth-episode-2-ft-bill-bailey",
+            category  = "news",
+        },
+        {
+            timestamp = 1793545200,
+            title     = "The Story of Lorewalking: Titans in Patch 12.1.7",
+            body      = "In patch 12.1.7, we take a trip with Apprentice Lorewalker Li Li in a new Lorewalking questline to recount the history of the Titans, including a new look at their past conflict with Sargeras and set up for The Last Titan! Continue reading »",
+            url       = "https://www.wowhead.com/news=383483/the-story-of-lorewalking-titans-in-patch-12-1-7",
+            category  = "patch",
+        },
         {
             timestamp = 1793512981,
             title     = "Get a Chef Uniform and a Warturkey Mount in November 2026 Trading Post",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "Update: Name Reservations for WoW: Forever Now Live in EU, NA",
             body      = "Updated: The delay on Forever name reservations is complete, and players can now reserve their names on EU and NA! Continue reading »",
             url       = "https://www.wowhead.com/news=383608/name-reservations-for-wow-forever-delayed",
-            category  = "patch",
-        },
-        {
-            timestamp = 1793121871,
-            title     = "New Grimtide Housing Bundles Available for Hearthsteel",
-            body      = "New real-money bundles for Housing are available on the Battle.net Store: The Haunted Grimtide Estate and the Grimtide Decor pack. Continue reading »",
-            url       = "https://www.wowhead.com/news=383606/new-grimtide-housing-bundles-available-for-hearthsteel",
-            category  = "news",
-        },
-        {
-            timestamp = 1793121192,
-            title     = "World of Warcraft: Forever AMV - WARPATH",
-            body      = "To highlight the upcoming launch of WoW: Forever, Blizzard has released a brand new AMV called WARPATH! Continue reading »",
-            url       = "https://www.wowhead.com/news=383605/world-of-warcraft-forever-amv-warpath",
-            category  = "news",
-        },
-        {
-            timestamp = 1793116059,
-            title     = "[Updated] More Racial Ability Tuning on WoW: Forever",
-            body      = "Blizzard has added even more racial ability tuning in WoW: Forever, now also affecting Trolls. Continue reading »",
-            url       = "https://www.wowhead.com/news=383602/more-racial-ability-tuning-on-wow-forever",
             category  = "patch",
         },
     },
