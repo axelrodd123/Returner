@@ -4,11 +4,53 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-02T15:19:33Z",
+        generated_at = "2026-11-03T13:55:46Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1793677888,
+            title     = "WoW: Forever Official Development Notes and Class Tuning",
+            body      = "Blizzard has posted the official development notes and class tuning changes for the WoW: Forever launch! Continue reading »",
+            url       = "https://www.wowhead.com/news=383704/wow-forever-official-development-notes-and-class-tuning",
+            category  = "news",
+        },
+        {
+            timestamp = 1793669581,
+            title     = "Hunter Class Buffs on WoW: Forever",
+            body      = "Hunters have been buffed in WoW: Forever, increasing the power of various abilities and passives! Continue reading »",
+            url       = "https://www.wowhead.com/news=383702/hunter-buffs-on-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1793664325,
+            title     = "Planet Azeroth with Bill Bailey: Plaguelands, Winterspring, and More",
+            body      = "The third episode of Planet Azeroth has been released, and it covers the extremes of Azeroth: the highs, the lows, the heat, the cold, and the murlocs. Continue reading »",
+            url       = "https://www.wowhead.com/news=383698/planet-azeroth-with-bill-bailey-plaguelands-winterspring-and-more",
+            category  = "news",
+        },
+        {
+            timestamp = 1793661488,
+            title     = "New Druid and Rogue Passive Reduces Energy Cost on A First Strike",
+            body      = "A new passive has been added for Druids and Rogues in WoW: Forever that reduces energy costs on a first strike! Continue reading »",
+            url       = "https://www.wowhead.com/news=383699/new-druid-and-rogue-passive-reduces-energy-cost-on-a-first-strike",
+            category  = "news",
+        },
+        {
+            timestamp = 1793651933,
+            title     = "Xbox UK Confirms WoW: Forever Not Coming to Xbox in November",
+            body      = "Xbox UK recently posted on their social media that WoW: Forever was coming to Xbox in November. This has been removed, and they’ve now confirmed that Forever is not available on Xbox. Continue reading »",
+            url       = "https://www.wowhead.com/news=383696/xbox-uk-confirms-wow-forever-not-coming-to-xbox-in-november",
+            category  = "news",
+        },
+        {
+            timestamp = 1793643959,
+            title     = "Long Maintenance Planned Ahead of WoW: Forever Launch",
+            body      = "Blizzard has announced a long maintenance ahead of WoW: Forever's launch on November 4th. Continue reading »",
+            url       = "https://www.wowhead.com/news=383695/long-maintenance-planned-ahead-of-wow-forever-launch",
+            category  = "news",
+        },
         {
             timestamp = 1793579061,
             title     = "Day of the Dead Celebrations Now Live",
@@ -246,48 +288,6 @@ Returner_Data = {
             body      = "The first piece of Myth 2/6 loot is available in Labyrinths, making it easier to gear up your characters! Continue reading »",
             url       = "https://www.wowhead.com/news=383603/myth-2-6-piece-of-loot-now-available-from-labyrinths",
             category  = "news",
-        },
-        {
-            timestamp = 1793138088,
-            title     = "Blizzard Takes Action Against RMT on Retail WoW - Gold Transactions Should Be Direct",
-            body      = "Blizzard has taken action against RMT on Retail WoW, reminding players that Gold Transactions should be direct from buyer to seller. Continue reading »",
-            url       = "https://www.wowhead.com/news=383616/blizzard-takes-action-against-rmt-on-retail-wow-gold-transactions-should-be",
-            category  = "news",
-        },
-        {
-            timestamp = 1793135806,
-            title     = "Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel",
-            body      = "Many players are upset that the recent Grimtide housing bundle appears to break Blizzard's stated philosophy and guiding principles for real-money housing items. Continue reading »",
-            url       = "https://www.wowhead.com/news=383614/players-upset-latest-housing-bundles-breaks-stated-philosophy-on-hearthsteel",
-            category  = "news",
-        },
-        {
-            timestamp = 1793131503,
-            title     = "Blizzard Announces Name Reservation Issue for Oceanic Players in WoW: Forever",
-            body      = "Blizzard has announced a name reservation issue for Oceanic Players who are connecting to Australian-based servers. Continue reading »",
-            url       = "https://www.wowhead.com/news=383612/blizzard-announces-name-reservation-issue-for-oceanic-players-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1793128136,
-            title     = "Join the WoW Portal Room for Your Next Adventure in WoW: Forever",
-            body      = "Blizzard has released a new blog, incentivizing players to join the WoW Portal Room! Continue reading »",
-            url       = "https://www.wowhead.com/news=383610/join-the-wow-portal-room-for-your-next-adventure-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1793124046,
-            title     = "Living Heartsbane Cauldron Mount Now Available on Battle.net Store",
-            body      = "The Living Heartsbane Cauldron is available on the Battle.net Store for $25! Continue reading »",
-            url       = "https://www.wowhead.com/news=383607/living-heartsbane-cauldron-mount-now-available-on-battle-net-store",
-            category  = "news",
-        },
-        {
-            timestamp = 1793123939,
-            title     = "Update: Name Reservations for WoW: Forever Now Live in EU, NA",
-            body      = "Updated: The delay on Forever name reservations is complete, and players can now reserve their names on EU and NA! Continue reading »",
-            url       = "https://www.wowhead.com/news=383608/name-reservations-for-wow-forever-delayed",
-            category  = "patch",
         },
     },
 }
