@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-07T12:45:10Z",
+        generated_at = "2026-11-08T13:03:15Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1794107512,
+            title     = "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
+            body      = "There's a harpy cave in the Thousand Needles where layering appears to be broken, leading to quest competition issues. Continue reading »",
+            url       = "https://www.wowhead.com/news=383805/layering-issues-in-thousand-needles-harpy-cave-result-in-quest-competition",
+            category  = "news",
+        },
+        {
+            timestamp = 1794082790,
+            title     = "Quests Give No Gold at Level 60 in WoW: Forever - \"Intentional Change\" According to Jokerd",
+            body      = "Quests at level 60 give no gold and according to Jokerd, this is an intentional change. Continue reading »",
+            url       = "https://www.wowhead.com/news=383803/quests-give-no-gold-at-level-60-in-wow-forever-intentional-change-according-to",
+            category  = "news",
+        },
+        {
+            timestamp = 1794078000,
+            title     = "GMs Appeared In-Person to Celebrate the Launch of WoW: Forever",
+            body      = "For the first time in years, players have seen GM characters in-game - many appeared to celebrate the launch of WoW: Forever! Continue reading »",
+            url       = "https://www.wowhead.com/news=383796/gms-appeared-in-person-to-celebrate-the-launch-of-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1794063600,
+            title     = "Black Market Auction House, Global Raid Launch, Quest Helpers - MrGM Interview on WoW: Forever",
+            body      = "MrGM interviewed Kris Zierhut and Josh Greenfield on WoW: Forever and discussed the Black Market Auction House, Quest Helpers and more Continue reading »",
+            url       = "https://www.wowhead.com/news=383781/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on",
+            category  = "news",
+        },
         {
             timestamp = 1794025120,
             title     = "WoW: Forever Makes History with Biggest Launch Ever!",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "Players who watched the Legendary crafting stream on Twitch have been awarded a Pouch of Violet Dust Toy via Twitch Drops! Continue reading »",
             url       = "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever",
             category  = "news",
-        },
-        {
-            timestamp = 1793829913,
-            title     = "Taldramir, the Whispering Wood Revealed as WoW: Forever Legendary",
-            body      = "Taldramir, the Whispering Wood has been revealed as WoW: Forever's new legendary! Continue reading »",
-            url       = "https://www.wowhead.com/news=383747/taldramir-the-whispering-wood-revealed-as-wow-forever-legendary",
-            category  = "news",
-        },
-        {
-            timestamp = 1793827848,
-            title     = "The Questie Addon is Back in WoW: Forever",
-            body      = "If you played Classic in 2019 (and beyond), the Questie addon is likely a well-known name to you, and the addon is back in WoW: Forever. Continue reading »",
-            url       = "https://www.wowhead.com/news=383744/the-questie-addon-is-back-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1793823755,
-            title     = "Twitch Teasing \"Major Reveal\" on Warcraft Twitch Stream",
-            body      = "Twitch is teasing a \"major reveal\" in an \"exciting moment you don't want to miss\" on the Warcraft Twitch Stream! Continue reading »",
-            url       = "https://www.wowhead.com/news=383742/twitch-teasing-major-reveal-on-warcraft-twitch-stream",
-            category  = "news",
-        },
-        {
-            timestamp = 1793821133,
-            title     = "WoW: Forever Development Notes Updated - UI and Accessibility Updates",
-            body      = "Blizzard has updated WoW: Forever Development notes before the official launch, adding new updates for UI and accessibility. Continue reading »",
-            url       = "https://www.wowhead.com/news=383741/wow-forever-development-notes-updated-ui-and-accessibility-updates",
-            category  = "patch",
         },
     },
 }
