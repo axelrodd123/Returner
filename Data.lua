@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-08T13:03:15Z",
+        generated_at = "2026-11-09T15:47:19Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1794236400,
+            title     = "Level Faster with your Cozy Sleeping Bag in WoW: Forever",
+            body      = "The Cozy Sleeping Bag in WoW: Forever gives you a 3% experience buff and is worth going out of your way for, even though it does take a while to get. Continue reading »",
+            url       = "https://www.wowhead.com/news=383801/level-faster-with-your-cozy-sleeping-bag-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1794167520,
+            title     = "Blizzard Buffs Dungeon Enemy Experience Gains",
+            body      = "Blizzard has just buffed the experience gains from dungeon creatures by a massive 50%. Continue reading »",
+            url       = "https://www.wowhead.com/news=383808/blizzard-buffs-dungeon-enemy-experience-gains",
+            category  = "news",
+        },
+        {
+            timestamp = 1794164400,
+            title     = "Everything About WoW: Forever Raids - Joardee Interview on WoW: Forever",
+            body      = "Joardee interviewed Josh Greenfield and Tim Jones on WoW: Forever and discussed everything about WoW: Forever's raids! Continue reading »",
+            url       = "https://www.wowhead.com/news=383792/everything-about-wow-forever-raids-joardee-interview-on-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1794150000,
+            title     = "The Darkmoon Faire is Coming To Elwynn Forest First in WoW: Forever",
+            body      = "The iconic Darkmoon Faire event will be making its first stop in WoW Forever in Elwynn Forest, giving the Alliance the first home-field advantage. Continue reading »",
+            url       = "https://www.wowhead.com/news=383802/the-darkmoon-faire-is-coming-to-elwynn-forest-first-in-wow-forever",
+            category  = "event",
+        },
         {
             timestamp = 1794107512,
             title     = "Layering Issues in Thousand Needles Harpy Cave Result in Quest Competition Issues",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "The Great Outdoors Quest Bugged and How to Complete",
             body      = "The tutorial quest for camping, \"The Great Outdoors,\" is slightly bugged, but players can quickly work around it. Continue reading »",
             url       = "https://www.wowhead.com/news=383753/the-great-outdoors-quest-bugged-and-how-to-complete",
-            category  = "news",
-        },
-        {
-            timestamp = 1793839894,
-            title     = "Official Warcraft Twitch Stream Showing Heat Map of Level Ups",
-            body      = "The official Warcraft Twitch Stream is showing a player heat map as players spawn into the game and level up! Continue reading »",
-            url       = "https://www.wowhead.com/news=383750/official-warcraft-twitch-stream-showing-heat-map-of-level-ups",
-            category  = "news",
-        },
-        {
-            timestamp = 1793838774,
-            title     = "Obtain the Pouch of Violet Dust Toy - Increases Camp Benefits by 1 Hour",
-            body      = "Blizzard has revealed another way to earn the Pouch of Violet Dust Toy! Continue reading »",
-            url       = "https://www.wowhead.com/news=383751/obtain-the-pouch-of-violet-dust-toy-increases-camp-benefits-by-1-hour",
-            category  = "news",
-        },
-        {
-            timestamp = 1793833298,
-            title     = "World of Warcraft: Forever is Now Live",
-            body      = "World of Warcraft: Forever is now live! Enjoy your Journey through Azeroth. Continue reading »",
-            url       = "https://www.wowhead.com/news=383749/world-of-warcraft-forever-is-now-live",
-            category  = "news",
-        },
-        {
-            timestamp = 1793830706,
-            title     = "Secret Twitch Drop Awarded Pouch of Violet Dust Toy to Live Stream Viewers in WoW: Forever",
-            body      = "Players who watched the Legendary crafting stream on Twitch have been awarded a Pouch of Violet Dust Toy via Twitch Drops! Continue reading »",
-            url       = "https://www.wowhead.com/news=383748/secret-twitch-drop-awards-pouch-of-violet-dust-toy-in-wow-forever",
             category  = "news",
         },
     },
