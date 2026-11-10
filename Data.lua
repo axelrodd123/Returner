@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-09T15:47:19Z",
+        generated_at = "2026-11-10T14:39:04Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1794319200,
+            title     = "New \"Dawn Waker\" Secret Found in WoW: Forever",
+            body      = "A New extensive quest chain to unlock potentially powerful weapons has been discovered in WoW: Forever, thanks to the Secret Finding Discord! Continue reading »",
+            url       = "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1794285043,
+            title     = "Drowned City Nerfs & Reduced Population in Zones - WoW: Forever Hotfixes for November 9th",
+            body      = "Blizzard has posted hotfixes for today, which includes many class bug fixes, a nerf to The Drowned City, and reducing the population in zones with significant population. Continue reading »",
+            url       = "https://www.wowhead.com/news=383819/drowned-city-nerfs-and-reduced-population-in-zones-wow-forever-hotfixes-for",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1794276491,
+            title     = "Blizzard Made Character Creation on Higher Population Faction Increasingly Difficult",
+            body      = "To maintain faction balance on PvP servers, Blizzard has adjusted their character creation system and it will become increasingly more difficult to create a character on the more populated faction. Continue reading »",
+            url       = "https://www.wowhead.com/news=383817/blizzard-made-character-creation-on-higher-population-faction-increasingly",
+            category  = "news",
+        },
+        {
+            timestamp = 1794261305,
+            title     = "Blizzard Taking Down WoW: Forever Servers Shortly",
+            body      = "Blizzard has announced via in-game server messages that they are taking down the WoW: Forever servers briefly. Continue reading »",
+            url       = "https://www.wowhead.com/news=383815/blizzard-taking-down-wow-forever-servers-shortly",
+            category  = "news",
+        },
         {
             timestamp = 1794236400,
             title     = "Level Faster with your Cozy Sleeping Bag in WoW: Forever",
@@ -260,34 +288,6 @@ Returner_Data = {
             body      = "The Talebound Rewards have been updated, and the Mythic Venomous Abyss gear rewards have been replaced. Continue reading »",
             url       = "https://www.wowhead.com/news=383746/mythic-venomous-abyss-caches-replaced-by-open-world-gear-in-talebound-rewards",
             category  = "patch",
-        },
-        {
-            timestamp = 1793887200,
-            title     = "Earn 700 Discord Orbs with New WoW: Forever Quest",
-            body      = "Play WoW: Forever for 15 minutes and earn 700 Discord Orbs! Continue reading »",
-            url       = "https://www.wowhead.com/news=383754/earn-700-discord-orbs-with-new-wow-forever-quest",
-            category  = "news",
-        },
-        {
-            timestamp = 1793861140,
-            title     = "Temporary Portals Replace Boats and Zeppelins Due to Bugs",
-            body      = "Blizzard has announced that portals have temporarily replaced some boats and zeppelins due to bugs. Continue reading »",
-            url       = "https://www.wowhead.com/news=383758/temporary-portals-replace-boats-and-zeppelins-due-to-bugs",
-            category  = "news",
-        },
-        {
-            timestamp = 1793860896,
-            title     = "Blizzard Aware of Population Issues in Certain Areas",
-            body      = "Blizzard has announced that they are aware that certain areas are not feeling as populated as they should be and will be working on a fix tomorrow. Continue reading »",
-            url       = "https://www.wowhead.com/news=383757/blizzard-aware-of-population-issues-in-certain-areas",
-            category  = "news",
-        },
-        {
-            timestamp = 1793840644,
-            title     = "The Great Outdoors Quest Bugged and How to Complete",
-            body      = "The tutorial quest for camping, \"The Great Outdoors,\" is slightly bugged, but players can quickly work around it. Continue reading »",
-            url       = "https://www.wowhead.com/news=383753/the-great-outdoors-quest-bugged-and-how-to-complete",
-            category  = "news",
         },
     },
 }
