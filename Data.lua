@@ -4,11 +4,39 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-14T13:16:50Z",
+        generated_at = "2026-11-15T13:45:04Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1794705635,
+            title     = "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
+            body      = "In a brand-new change, dungeon mobs will now grant zero experience when the highest-level player is more than 12 levels above the creature, instead of when the mob is grey! Continue reading »",
+            url       = "https://www.wowhead.com/news=383883/dungeon-mobs-now-grant-zero-experience-when-highest-player-is-13-levels-above",
+            category  = "news",
+        },
+        {
+            timestamp = 1794682800,
+            title     = "Infiltrate Krol'dok Stronghold: New Dungeon in WoW: Forever",
+            body      = "Krol'dok Stronghold is a new dungeon that challenges players in the Level 40-45 bracket in WoW: Forever - take a look at the quests and rewards you'll find inside! Continue reading »",
+            url       = "https://www.wowhead.com/news=383871/infiltrate-kroldok-stronghold-new-dungeon-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1794673006,
+            title     = "Dungeon Mobs Grant Zero Experience if Trivial to Anyone in Party in WoW: Forever",
+            body      = "In last night's hotfixes, Blizzard announced that if any party member in a dungeon is too high-level, no one in the party will receive experience. Continue reading »",
+            url       = "https://www.wowhead.com/news=383880/dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1794668400,
+            title     = "New Dungeon Set Transforms Players into an Ogre in WoW: Forever",
+            body      = "Players have discovered an additional bonus to equipping all of the new Krol'dok Battlegear armor from Krol'dok Stronghold in Forever: turning the player into an Ogre! Continue reading »",
+            url       = "https://www.wowhead.com/news=383861/new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1794621575,
             title     = "Many Fixes to Dungeons, Quests, Enemies and Classes - WoW: Forever Hotfixes for November 13, 2026",
@@ -259,34 +287,6 @@ Returner_Data = {
             title     = "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
             body      = "Some Warlock and Hunter class tuning is now live in WoW: Forever. Continue reading »",
             url       = "https://www.wowhead.com/news=383826/warlock-and-hunter-class-tuning-now-live-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1794337955,
-            title     = "Enhancement Shaman Class Weapon Hotfixed on WoW: Forever",
-            body      = "On the Weekly Reset, the Shaman Class Weapon, Rage of the Storm, has been hotfixed to change the attack speed and stats of the weapon. Continue reading »",
-            url       = "https://www.wowhead.com/news=383824/enhancement-shaman-class-weapon-hotfixed-on-wow-forever",
-            category  = "hotfix",
-        },
-        {
-            timestamp = 1794326400,
-            title     = "Secret Hunt in WoW: Forever with the Night Watchman's Torch",
-            body      = "The hunt for secrets is on in WoW: Forever, and to jump in, you'll need to find the Night Watchman's Torch in Duskwood. Continue reading »",
-            url       = "https://www.wowhead.com/news=383145/secret-hunt-in-wow-forever-with-the-night-watchmans-torch",
-            category  = "news",
-        },
-        {
-            timestamp = 1794322800,
-            title     = "Every Quest for Level 20 to 30 Dungeons in WoW: Forever",
-            body      = "Here are all the quests for the level 20 to 30 dungeons to help you level faster in WoW: Forever! Continue reading »",
-            url       = "https://www.wowhead.com/news=383814/every-quest-for-level-20-to-30-dungeons-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1794319200,
-            title     = "New \"Dawn Waker\" Secret Found in WoW: Forever",
-            body      = "A New extensive quest chain to unlock potentially powerful weapons has been discovered in WoW: Forever, thanks to the Secret Finding Discord! Continue reading »",
-            url       = "https://www.wowhead.com/news=383813/new-dawn-waker-secret-found-in-wow-forever",
             category  = "news",
         },
     },
