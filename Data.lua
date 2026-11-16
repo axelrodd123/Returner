@@ -4,11 +4,32 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-15T13:45:04Z",
+        generated_at = "2026-11-16T15:22:45Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1794841200,
+            title     = "Should WoW: Forever Dungeons Let Players Complete Quests in One Run?",
+            body      = "In WoW: Forever, dungeon quests may not guarantee being completed in one clear. Should this be adjusted, or is this better for the game? Continue reading »",
+            url       = "https://www.wowhead.com/news=383806/should-wow-forever-dungeons-let-players-complete-quests-in-one-run",
+            category  = "news",
+        },
+        {
+            timestamp = 1794769200,
+            title     = "Save Gold and Gain Bag Space by Earning Quest Rewards in WoW: Forever",
+            body      = "Looking to upgrade your bags, but are a little tight on gold? Here are some bag upgrades from quests in Forever that should give you a bit more storage space! Continue reading »",
+            url       = "https://www.wowhead.com/news=383845/save-gold-and-gain-bag-space-by-earning-quest-rewards-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1794754800,
+            title     = "An Old SoD Secret Has New Rewards in WoW: Forever",
+            body      = "An old SoD secret has been brought forward into WoW: Forever, and it's got some new rewards compared to what players found before. Continue reading »",
+            url       = "https://www.wowhead.com/news=383879/an-old-sod-secret-has-new-rewards-in-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1794705635,
             title     = "Dungeon Mobs Now Grant Zero Experience When Highest Player is 13 Levels Above the Creature in WoW: Forever",
@@ -266,27 +287,6 @@ Returner_Data = {
             title     = "Blizzard Adding Gold to Many Quests Near Max Level in WoW: Forever",
             body      = "Blizzard is adding gold to most quests above level 48, including ones that never previously rewarded gold at all! Continue reading »",
             url       = "https://www.wowhead.com/news=383832/blizzard-adding-gold-to-many-quests-near-max-level-in-next-24-hours",
-            category  = "news",
-        },
-        {
-            timestamp = 1794347523,
-            title     = "Dungeon Experience in WoW: Forever is Now 60% of Classic Era - Blizzard Happy with Dungeon Level Speeds",
-            body      = "Blizzard has confirmed that dungeon experience in WoW: Forever is now 60% of Classic era values, and that they feel the adjustment is working well. Continue reading »",
-            url       = "https://www.wowhead.com/news=383831/dungeon-experience-in-wow-forever-is-now-60-of-classic-era-blizzard-happy-with",
-            category  = "news",
-        },
-        {
-            timestamp = 1794344709,
-            title     = "Vendor Price Changes on WoW: Forever - Iron Grenade Shuffle Dead",
-            body      = "With the weekly reset, many items had their Vendor Prices changed on WoW: Forever, likely targeting Vendor Shuffles. Continue reading »",
-            url       = "https://www.wowhead.com/news=383828/vendor-price-changes-on-wow-forever-iron-grenade-shuffle-nerfed",
-            category  = "news",
-        },
-        {
-            timestamp = 1794341791,
-            title     = "Warlock and Hunter Class Tuning Now Live in WoW: Forever",
-            body      = "Some Warlock and Hunter class tuning is now live in WoW: Forever. Continue reading »",
-            url       = "https://www.wowhead.com/news=383826/warlock-and-hunter-class-tuning-now-live-in-wow-forever",
             category  = "news",
         },
     },
