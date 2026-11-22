@@ -4,11 +4,25 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-21T14:27:44Z",
+        generated_at = "2026-11-22T14:22:59Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1795289187,
+            title     = "Maximum Dungeons Per Hour Reduced in WoW: Forever Hotfix - Solo Gold Farming Nerf?",
+            body      = "Blizzard has reduced the maximum number of dungeons players can run per hour in WoW: Forever. Continue reading »",
+            url       = "https://www.wowhead.com/news=383950/maximum-dungeons-per-hour-reduced-in-wow-forever-hotfix-solo-gold-farming-nerf",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1795273200,
+            title     = "All Quests for New Alcaz Prison Dungeon in WoW: Forever",
+            body      = "Located in Dustwallow Marsh, Alcaz Prison is a new dungeon for players around level 50 in WoW: Forever. Here are all the dungeon quests you should pick up! Continue reading »",
+            url       = "https://www.wowhead.com/news=383934/all-quests-for-new-alcaz-prison-dungeon-in-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1795220616,
             title     = "LFG Bug Fix Causes Players to See More Groups - WoW: Forever Hotfixes for November 20, 2026",
@@ -273,20 +287,6 @@ Returner_Data = {
             title     = "100+ Gold Per Hour Farm Nerfed in WoW: Forever",
             body      = "The 100+ gold per hour farm in Blackmaw Hold has now been nerfed after some players already generated hundreds, if not thousands, of gold from runs. Continue reading »",
             url       = "https://www.wowhead.com/news=383898/100-gold-per-hour-farm-nerfed-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1794852600,
-            title     = "Forever 101: Blizzard Releases New Player Overview Video for WoW: Forever",
-            body      = "Blizzard has released a Forever 101 video, which serves as an overview for new players of WoW: Forever. Continue reading »",
-            url       = "https://www.wowhead.com/news=383897/forever-101-blizzard-releases-new-player-overview-video-for-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1794844594,
-            title     = "WoW Token Price Hits 640k Gold Spike on EU Servers",
-            body      = "The WoW Token price has spiked in both regions over the last couple of days, with the trading price reaching a peak of 640k gold on EU servers. Continue reading »",
-            url       = "https://www.wowhead.com/news=383895/wow-token-price-hits-640k-gold-spike-on-eu-servers",
             category  = "news",
         },
     },
