@@ -4,11 +4,46 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-24T17:20:30Z",
+        generated_at = "2026-11-25T16:59:42Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1795622906,
+            title     = "Revelation Enchant Nerfed in WoW: Forever",
+            body      = "A recent hotfix has stealth nerfed the popular Revelation enchant, which reduces the endgame AoE damage of Mages, Warlocks, and Druids. Continue reading »",
+            url       = "https://www.wowhead.com/news=383986/revelation-enchant-nerfed-in-wow-forever",
+            category  = "hotfix",
+        },
+        {
+            timestamp = 1795618800,
+            title     = "Dawn Waker Secret Brings Players to a Cataclysm Boss Cameo in WoW: Forever",
+            body      = "A dungeon boss from Cataclysm seems to play a part in the ongoing Dawn Waker secret in WoW: Forever - join the secret finders to see where things might lead! Continue reading »",
+            url       = "https://www.wowhead.com/news=383812/dawn-waker-secret-brings-players-to-a-cataclysm-boss-cameo-in-wow-forever",
+            category  = "news",
+        },
+        {
+            timestamp = 1795564300,
+            title     = "[UPDATED] Ascendant Venomstone Drops Increased from Venomous Abyss Bosses and +14 or Higher Mythic+ Keystones",
+            body      = "With the weekly reset, the Venomous Abyss bosses and Mythic Keystones +12 or higher now drop more Ascended Venomstones. Continue reading »",
+            url       = "https://www.wowhead.com/news=383983/ascendant-venomstone-drops-increased-from-venomous-abyss-bosses",
+            category  = "patch",
+        },
+        {
+            timestamp = 1795550146,
+            title     = "Earn 10% Reputation Bonus During Pilgrim's Bounty",
+            body      = "Pilgrim's Bounty has a small update for 2026, with Voidlight Marl being added to many quests! Continue reading »",
+            url       = "https://www.wowhead.com/news=383978/earn-10-reputation-bonus-during-pilgrims-bounty",
+            category  = "patch",
+        },
+        {
+            timestamp = 1795543603,
+            title     = "Watch \"Al'Aketh Rising\" - New Motion Comic for WoW: Forever",
+            body      = "Blizzard has released a new motion comic for WoW: Forever called \"Al'Aketh Rising,\" which follows a local Skyborne constable on Zephras Isle. Continue reading »",
+            url       = "https://www.wowhead.com/news=383980/watch-alaketh-rising-new-motion-comic-for-wow-forever",
+            category  = "news",
+        },
         {
             timestamp = 1795537816,
             title     = "Last Week to Obtain Aqir Invasion Feat of Strength Achievements Before Removal",
@@ -253,41 +288,6 @@ Returner_Data = {
             body      = "Another Season of Discovery questline has made its way to WoW: Forever, and among other things, it rewards a 16-slot bag! Continue reading »",
             url       = "https://www.wowhead.com/news=383896/earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever",
             category  = "patch",
-        },
-        {
-            timestamp = 1795096800,
-            title     = "Tame a Secret Hunter Pet in WoW: Forever",
-            body      = "A secret Hunter pet has been discovered in WoW: Forever, and players can finally tame a Winna's Kitten lookalike, which wasn't available in the original Classic! Continue reading »",
-            url       = "https://www.wowhead.com/news=383902/tame-a-secret-hunter-pet-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1795051522,
-            title     = "Turn On In-Game Quest Objective Markers for Easier Navigation in WoW: Forever",
-            body      = "In-game quest objective markers are available in WoW: Forever, allowing for easier navigation without needing additional addons. Continue reading »",
-            url       = "https://www.wowhead.com/news=383924/turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1795046970,
-            title     = "All Mythic Difficulty Achievements Removed from Talebound on Patch 12.1.7 PTR",
-            body      = "In today's Patch 12.1.7 PTR, all Mythic difficulty achievements have been removed from Talebound and new titles have been added! Continue reading »",
-            url       = "https://www.wowhead.com/news=383920/all-mythic-difficulty-achievements-removed-from-talebound-on-patch-12-1-7-ptr",
-            category  = "patch",
-        },
-        {
-            timestamp = 1795031528,
-            title     = "Weekly Gold Quest Requires Blackrock Spire and Blackrock Depths in WoW: Forever",
-            body      = "To complete this week's Gold Quest for level 60 characters, players must complete Blackrock Spire and Blackrock Depths. Continue reading »",
-            url       = "https://www.wowhead.com/news=383919/weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow-forever",
-            category  = "news",
-        },
-        {
-            timestamp = 1795025016,
-            title     = "WoW: Forever PvP Overview Video - Honor Rewards & Battlegrounds",
-            body      = "Blizzard has released a video going over WoW: Forever's PvP system, highlighting Honor rewards, Rank rewards, and Battlegrounds! Continue reading »",
-            url       = "https://www.wowhead.com/news=383918/wow-forever-pvp-overview-video-honor-rewards-and-battlegrounds",
-            category  = "news",
         },
     },
 }
