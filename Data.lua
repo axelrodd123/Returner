@@ -4,11 +4,18 @@
 
 Returner_Data = {
     metadata = {
-        generated_at = "2026-11-26T16:40:25Z",
+        generated_at = "2026-11-27T16:26:13Z",
         source       = "Blizzard WoW News RSS",
         count        = 40,
     },
     items = {
+        {
+            timestamp = 1795791600,
+            title     = "Save Up To 60% and Earn In-Game Goodies with the Gear Store Black Friday Sale",
+            body      = "The Blizzard Gear Store is offering up to 60% off many of its products for Black Friday, and there's also a concurrent sale to earn some in-game goodies with a minimum purchase! Continue reading »",
+            url       = "https://www.wowhead.com/news=383998/save-up-to-60-and-earn-in-game-goodies-with-the-gear-store-black-friday-sale",
+            category  = "news",
+        },
         {
             timestamp = 1795649062,
             title     = "Fixes for Legacy Points, Classes, and Quests - WoW: Forever Hotfixes for November 25th",
@@ -281,13 +288,6 @@ Returner_Data = {
             body      = "Blizzard has posted hotfixes for today, which includes a Ret Paladin bug fix and making the Seed Hybridizer available again! Continue reading »",
             url       = "https://www.wowhead.com/news=383939/ret-paladin-bug-fix-and-seed-hybridizer-available-again-wow-forever-hotfixes-for",
             category  = "hotfix",
-        },
-        {
-            timestamp = 1795140549,
-            title     = "Blizzard Investigating Several Bugged Quests in WoW: Forever",
-            body      = "The official BlizzardCS account has commented on several quests in Wowhead's database, letting players know they are investigating bugs. Continue reading »",
-            url       = "https://www.wowhead.com/news=383938/blizzard-investigating-several-bugged-quests-in-wow-forever",
-            category  = "news",
         },
     },
 }
